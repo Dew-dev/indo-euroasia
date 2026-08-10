@@ -1,0 +1,703 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Projects",
+    "commodities": "Commodities",
+    "contact": "Contact",
+    "cta": "Start Cooperation Today",
+    "projectsIndonesia": "Indonesia",
+    "projectsEuroasia": "Eurasia",
+    "hadithHotel": "Hadith Hotel",
+    "ongoingProjects": "Ongoing Projects",
+    "membership": "Membership"
+  },
+  "hero": {
+    "title": "Indonesia Euroasia Pavilion",
+    "findPrefix": "We find cooperation opportunities in",
+    "subtitle": "Indonesia Euroasia Pavilion is a commercial B2B cooperation platform that connects Euroasia companies with Indonesian partners.",
+    "cta": "Start Cooperation Today",
+    "secondary": "Explore Our Services",
+    "countries": {
+      "indonesia": "Indonesia",
+      "russia": "Russia",
+      "belarus": "Belarus",
+      "kazakhstan": "Kazakhstan",
+      "uzbekistan": "Uzbekistan",
+      "kyrgyzstan": "Kyrgyzstan",
+      "tajikistan": "Tajikistan",
+      "turkmenistan": "Turkmenistan",
+      "azerbaijan": "Azerbaijan",
+      "armenia": "Armenia"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "lead": "A strategic bridge connecting Indonesia and Eurasia — Russia, Belarus, Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan, Azerbaijan, and Armenia — a market of 300+ million consumers.",
+    "body": "Indonesia Euroasia Pavilion facilitates bilateral trade, investment, and long-term business partnerships between Indonesian enterprises and Eurasian counterparts through structured matchmaking, market access, and end-to-end commercial support.",
+    "visionTitle": "Vision",
+    "vision": "To become a trusted, sustainable bilateral trade and investment collaboration center between Indonesia and the Eurasian region.",
+    "missionTitle": "Mission",
+    "mission": "To enable seamless B2B and B2G cooperation by connecting the right partners, opening market pathways, and supporting every stage of cross-border commerce."
+  },
+  "portfolio": {
+    "eyebrow": "Projects",
+    "title": "Projects",
+    "lead": "Active initiatives across Indonesia and Eurasia — from export readiness to hospitality investment.",
+    "body": "Explore projects by region: Indonesia-focused programs and Eurasia market opportunities, including strategic hospitality and commercial property initiatives.",
+    "featuredLabel": "Featured Eurasia project",
+    "readMore": "View project",
+    "ongoingTitle": "Projects by Region",
+    "ongoingLead": "Browse initiatives in Indonesia and across Eurasia.",
+    "indonesia": "Indonesia",
+    "euroasia": "Eurasia",
+    "indonesiaLead": "Property and hospitality projects developed in Indonesia.",
+    "euroasiaLead": "Hospitality and destination projects across Eurasia.",
+    "viewIndonesia": "View Indonesia projects",
+    "viewEuroasia": "View Eurasia projects",
+    "viewAllOngoing": "View all projects",
+    "hadithCard": {
+      "name": "Hadith Hotel",
+      "location": "Samarkand, Uzbekistan",
+      "tagline": "Connecting Indonesian Investment with Uzbekistan’s Hospitality Opportunities",
+      "desc": "A premium hospitality destination near the Imam Al-Bukhari Memorial Complex, bridging Indonesian investors with Eurasian opportunities."
+    },
+    "ongoingIndonesia": [
+      {
+        "title": "EGI Tower",
+        "desc": "A premier green office tower in Menteng, Jakarta — designed to international standards for strategic national enterprises.",
+        "slug": "egi-tower"
+      },
+      {
+        "title": "Humble 8",
+        "desc": "A premium co-living and social space in Jakarta with F&B, collaborative facilities, and community-driven lifestyle amenities.",
+        "slug": "humble-8"
+      },
+      {
+        "title": "Gilipoh Resort & Paradise",
+        "desc": "Luxury island resort on Pulau Gilipoh, Lombok — overwater resorts, yacht club, and beach club by PT. EGI Property Nusantara.",
+        "slug": "gilipoh-resort"
+      }
+    ],
+    "ongoingEurasia": [
+      {
+        "title": "Hadith Hotel",
+        "desc": "Premium hospitality destination near the Imam Al-Bukhari Memorial Complex in Samarkand, Uzbekistan.",
+        "slug": "hadith-hotel"
+      },
+      {
+        "title": "Mecca Hotel",
+        "desc": "Boutique hospitality project with 30 rooms near the Islamic Civilization Centre in Tashkent, Uzbekistan.",
+        "slug": "mecca-hotel"
+      },
+      {
+        "title": "Kampoeng Indonesia",
+        "desc": "3-star hotel with 22 rooms at the Imam Al-Bukhari Complex in Samarkand, Uzbekistan.",
+        "slug": "kampoeng-indonesia"
+      }
+    ]
+  },
+  "hadith": {
+    "eyebrow": "Projects · Eurasia · Hospitality",
+    "title": "Hadith Hotel",
+    "tagline": "Connecting Indonesian Investment with Uzbekistan’s Hospitality Opportunities",
+    "location": "Samarkand, Uzbekistan",
+    "p1": "Hadith Hotel represents an Indonesian investment initiative in Uzbekistan’s growing hospitality and tourism sector, demonstrating the opportunities created through stronger Indonesia–Eurasia economic collaboration.",
+    "p2": "Through Indonesia–Euroasia Pavilion, Indonesian investors are connected with high-level government officials, business leaders, strategic partners, and key stakeholders across Eurasia to explore and develop impactful investment opportunities.",
+    "p3": "As a bridge between Indonesia and Eurasia, Indonesia–Euroasia Pavilion facilitates meaningful connections, supports market entry, and helps create long-term partnerships between Indonesian companies and Eurasian stakeholders.",
+    "p4": "Located near the Imam Al-Bukhari Memorial Complex in Samarkand, Hadith Hotel is positioned as a premium hospitality destination serving international pilgrims, cultural travelers, business delegations, and global visitors.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Hospitality & Tourism",
+    "origin": "Investment Origin",
+    "originValue": "Indonesia",
+    "locationLabel": "Location",
+    "locationValue": "Samarkand, Uzbekistan",
+    "positioning": "Positioning",
+    "positioningValue": "Premium Heritage Hospitality Destination",
+    "closing": "Hadith Hotel reflects the potential of Indonesian businesses expanding into Eurasia through strategic investment, partnership, and international collaboration.",
+    "impactTitle": "Indonesia–Eurasia Partnership Impact",
+    "impactLead": "This project highlights how Indonesia–Euroasia Pavilion enables:",
+    "impactItems": [
+      "Access to high-level government and business networks",
+      "Connection with strategic partners and investors",
+      "Market entry support across Eurasian countries",
+      "Cross-border investment and business collaboration"
+    ],
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Bridging Indonesian Investors with Eurasian Opportunities",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Back to projects"
+  },
+  "mecca": {
+    "eyebrow": "Projects · Eurasia · Hospitality",
+    "title": "Mecca Hotel",
+    "tagline": "Connecting Indonesian Investment with Uzbekistan's Hospitality Opportunities",
+    "location": "Tashkent, Uzbekistan",
+    "p1": "Mecca Hotel represents an Indonesian investment initiative in Uzbekistan's expanding hospitality sector, reflecting the growing economic partnership between Indonesia and Eurasia.",
+    "p2": "Through Indonesia–Euroasia Pavilion, Indonesian investors are connected with high-level government officials, business leaders, strategic partners, and investment stakeholders across Uzbekistan and the wider Eurasian region. The Pavilion serves as a trusted bridge, facilitating market access, investment opportunities, and long-term business partnerships.",
+    "p3": "Strategically located in Tashkent near the Islamic Civilization Centre, Mecca Hotel is a boutique hospitality project featuring 30 guest rooms, designed to accommodate business travelers, international visitors, and guests exploring Uzbekistan's cultural and Islamic heritage.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Hospitality & Tourism",
+    "origin": "Investment Origin",
+    "originValue": "Indonesia",
+    "locationLabel": "Location",
+    "locationValue": "Tashkent, Uzbekistan",
+    "capacity": "Capacity",
+    "capacityValue": "30 Guest Rooms",
+    "positioning": "Positioning",
+    "positioningValue": "Boutique Business & Heritage Hotel",
+    "closing": "Mecca Hotel demonstrates how Indonesian investors can successfully establish a presence in Uzbekistan through strategic partnerships and cross-border collaboration facilitated by Indonesia–Euroasia Pavilion.",
+    "impactTitle": "Strategic Significance",
+    "impactLead": "As one of the featured Indonesian investment projects in Eurasia, Mecca Hotel showcases the Pavilion's role in:",
+    "impactItems": [
+      "Connecting Indonesian investors with high-level government officials",
+      "Facilitating introductions to leading business groups and strategic partners",
+      "Supporting investment opportunities in Uzbekistan's hospitality sector",
+      "Creating long-term economic collaboration between Indonesia and Eurasia"
+    ],
+    "investmentTitle": "Investment Impact",
+    "investmentP1": "Mecca Hotel reflects the growing confidence of Indonesian businesses in Uzbekistan's investment climate and demonstrates the value of trusted cross-border partnerships.",
+    "investmentP2": "By connecting Indonesian investors with key decision-makers and business leaders, Indonesia–Euroasia Pavilion helps transform investment opportunities into sustainable business ventures that contribute to economic growth and stronger bilateral relations.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Bridging Indonesian Investors with Eurasian Governments, Business Leaders, and Investment Opportunities.",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Back to projects"
+  },
+  "kampoeng": {
+    "eyebrow": "Projects · Eurasia · Hospitality",
+    "title": "Kampoeng Indonesia",
+    "tagline": "Connecting Indonesian Investment with Uzbekistan's Tourism and Hospitality Opportunities",
+    "location": "Samarkand, Uzbekistan",
+    "p1": "Kampoeng Indonesia represents an Indonesian investment initiative in Uzbekistan's growing tourism and hospitality sector, strengthening economic cooperation between Indonesia and Eurasia.",
+    "p2": "Through Indonesia–Euroasia Pavilion, Indonesian investors are connected with high-level government officials, business leaders, and strategic partners across Uzbekistan to identify, develop, and realize investment opportunities. The Pavilion serves as a trusted bridge, facilitating cross-border partnerships and supporting Indonesian companies entering the Eurasian market.",
+    "p3": "Located within the Imam Al-Bukhari Complex in Samarkand, Kampoeng Indonesia is a 3-star hotel featuring 22 guest rooms, developed to accommodate pilgrims, cultural travelers, business visitors, and international guests visiting one of the Islamic world's most significant heritage destinations.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Hospitality & Tourism",
+    "origin": "Investment Origin",
+    "originValue": "Indonesia",
+    "locationLabel": "Location",
+    "locationValue": "Imam Al-Bukhari Complex, Samarkand, Uzbekistan",
+    "category": "Category",
+    "categoryValue": "3-Star Hotel",
+    "capacity": "Capacity",
+    "capacityValue": "22 Guest Rooms",
+    "closing": "Kampoeng Indonesia reflects the commitment of Indonesian businesses to participate in the development of Uzbekistan's tourism infrastructure while strengthening bilateral economic relations between Indonesia and Eurasia.",
+    "impactTitle": "Strategic Significance",
+    "impactLead": "As a featured Indonesian investment project in Uzbekistan, Kampoeng Indonesia demonstrates how Indonesia–Euroasia Pavilion facilitates:",
+    "impactItems": [
+      "Strategic connections with high-level government officials",
+      "Partnerships with leading business groups and local stakeholders",
+      "Investment opportunities in hospitality and tourism",
+      "Cross-border business collaboration between Indonesia and Eurasia"
+    ],
+    "investmentTitle": "Investment Impact",
+    "investmentP1": "Situated in one of Central Asia's most prominent religious and cultural destinations, Kampoeng Indonesia contributes to the growing hospitality ecosystem surrounding the Imam Al-Bukhari Complex while showcasing the expanding presence of Indonesian investment in the Eurasian region.",
+    "investmentP2": "The project reflects the mission of Indonesia–Euroasia Pavilion to create meaningful business partnerships that generate sustainable economic value for both Indonesia and Eurasia.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Bridging Indonesian Investors with Eurasian Governments, Business Leaders, and Investment Opportunities.",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Back to projects"
+  },
+  "egiTower": {
+    "eyebrow": "Projects · Indonesia · Property",
+    "title": "EGI Tower",
+    "tagline": "A Modern Green Tower in the Heart of Jakarta",
+    "location": "Menteng, Jakarta, Indonesia",
+    "p1": "EGI Tower is a premier green office tower located in Menteng, the heart of Jakarta. Designed to international standards, the project combines modern commercial workspace with sustainability-minded architecture and facilities for strategic national enterprises.",
+    "p2": "As part of PT. EGI Resources' property pillar, EGI Tower reflects Indonesia–Euroasia Pavilion's broader ecosystem of Indonesian investment capacity — showcasing how Indonesian developers build high-quality commercial assets that can support corporate growth, institutional tenants, and long-term value creation.",
+    "p3": "The tower is positioned as a landmark workplace destination: efficient floorplates, contemporary amenities, and a green-building approach that aligns with Jakarta's evolving demand for premium, future-ready office space.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Commercial Property / Office",
+    "origin": "Developer",
+    "originValue": "PT. EGI Resources · Property Pillar",
+    "locationLabel": "Location",
+    "locationValue": "Menteng, Jakarta, Indonesia",
+    "positioning": "Positioning",
+    "positioningValue": "Premier Green Office Tower",
+    "closing": "EGI Tower demonstrates Indonesian capability in delivering internationally competitive commercial property — a strong domestic foundation behind the Pavilion's cross-border investment narrative.",
+    "impactTitle": "Strategic Significance",
+    "impactLead": "Within the Indonesia–Euroasia Pavilion ecosystem, EGI Tower highlights:",
+    "impactItems": [
+      "Indonesian strength in premium commercial property development",
+      "Governance and sustainability standards aligned with EGI Holding",
+      "A Menteng landmark suited for strategic corporate and institutional tenants",
+      "Domestic asset quality that supports broader Indonesia–Eurasia investment confidence"
+    ],
+    "investmentTitle": "Project Impact",
+    "investmentP1": "By anchoring Indonesian enterprise presence in a prime Jakarta district, EGI Tower contributes to the country's modern commercial infrastructure and reinforces EGI's role as a multi-sector holding group with strong property capabilities.",
+    "investmentP2": "For Pavilion partners and investors, the project is a clear signal of execution capacity at home — the same capability that underpins Indonesian investment expansion into Eurasian hospitality and tourism markets.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Bridging Indonesian Investors with Eurasian Governments, Business Leaders, and Investment Opportunities.",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Back to projects"
+  },
+  "humble8": {
+    "eyebrow": "Projects · Indonesia · Lifestyle & F&B",
+    "title": "Humble 8",
+    "tagline": "A Premium Collaborative Environment in Jakarta",
+    "location": "Jakarta, Indonesia",
+    "p1": "Humble 8 is a modern social and co-living space in Jakarta designed as a premium collaborative environment. It brings together lifestyle residences, F&B, and community facilities to foster innovation and connection among Indonesia's next generation of leaders.",
+    "p2": "Under PT. EGI Resources' F&B and lifestyle pillar, Humble 8 combines comfort, productivity, and networking — from co-living amenities to social dining spaces, VIP lounge, specialty coffee, and creative facilities such as a recording studio.",
+    "p3": "With a reported total gross floor area of around 2,144 m², the project is engineered as a resilient urban lifestyle hub: modern co-living, integrated social and F&B programming, and thoughtfully designed interiors that support everyday collaboration and community building.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Co-Living · Social Space · F&B",
+    "origin": "Developer",
+    "originValue": "PT. EGI Resources · F&B / Lifestyle Pillar",
+    "locationLabel": "Location",
+    "locationValue": "Jakarta, Indonesia",
+    "capacity": "Scale",
+    "capacityValue": "Approx. 2,144 m² GFA",
+    "positioning": "Positioning",
+    "positioningValue": "Premium Collaborative Lifestyle Hub",
+    "closing": "Humble 8 shows how Indonesian lifestyle and F&B concepts can create high-value urban destinations — complementary to the Pavilion's hospitality investments abroad.",
+    "impactTitle": "Strategic Significance",
+    "impactLead": "Humble 8 strengthens the Indonesia side of the Pavilion story by showcasing:",
+    "impactItems": [
+      "Modern co-living designed for comfort, productivity, and networking",
+      "Integrated social and F&B spaces that build community",
+      "Lifestyle amenities from VIP lounge to creative and wellness facilities",
+      "EGI Holding governance, compliance, and operating standards"
+    ],
+    "investmentTitle": "Project Impact",
+    "investmentP1": "As a Jakarta-based collaborative environment, Humble 8 supports Indonesia's creative and professional communities while expanding EGI's lifestyle and F&B footprint.",
+    "investmentP2": "Together with EGI Tower and Eurasia hospitality projects, it completes a clearer picture of Indonesian capability across property, lifestyle, and cross-border hospitality investment.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Bridging Indonesian Investors with Eurasian Governments, Business Leaders, and Investment Opportunities.",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Back to projects"
+  },
+  "gilipoh": {
+    "eyebrow": "Projects · Indonesia · Hospitality & Tourism",
+    "title": "Gili Paradise Resort & Spa",
+    "tagline": "Where Nature Meets Exclusivity",
+    "location": "Pulau Gilipoh, Lombok, West Nusa Tenggara, Indonesia",
+    "p1": "Gili Paradise Resort & Spa is a luxury island destination developed by PT. EGI Property Nusantara on Pulau Gilipoh, Lombok — an exotic island in West Nusa Tenggara famed for white-sand beaches, clear waters, and rich culture, and increasingly recognized as a premier destination for tourism and investment.",
+    "p2": "The resort offers a luxurious escape with two overwater resorts, a bar, and a yacht dock, set against pristine beaches and crystal-clear waters. It seamlessly blends nature, comfort, and sustainability for an exclusive and unforgettable experience — positioned as one of the most prestigious destinations in Asia.",
+    "p3": "Located approximately 2.5 km from shore, the masterplan brings together Gili Paradise Resort, Xarrin Resort & Spa, a Yacht Club & Bar, and a Beach Club — an integrated hospitality enclave designed for ultra-private, nature- and wellness-oriented stays.",
+    "p4": "Lombok’s global recognition — including TripAdvisor’s top-tier ranking for natural destinations, listings among the world’s best islands, and strong Asia island rankings — underpins the project’s long-term tourism investment thesis, with target hotel-chain operators spanning ultra-luxury brands such as Bulgari Hotels (with Marriott) and Langham Hotels & Resorts.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Hospitality · Resort · Tourism",
+    "origin": "Developer",
+    "originValue": "PT. EGI Property Nusantara",
+    "locationLabel": "Location",
+    "locationValue": "Pulau Gilipoh · ~2.5 km offshore, Lombok",
+    "capacity": "Masterplan Components",
+    "capacityValue": "Gili Paradise Resort · Xarrin Resort & Spa · Yacht Club & Bar · Beach Club",
+    "positioning": "Positioning",
+    "positioningValue": "Prestigious Asian Island Resort Destination",
+    "closing": "Gili Paradise Resort & Spa showcases Indonesian capability in developing exclusive, nature-led island hospitality — a flagship domestic tourism asset within the Indonesia–Euroasia Pavilion ecosystem.",
+    "impactTitle": "Strategic Significance",
+    "impactLead": "Within the Indonesia–Euroasia Pavilion ecosystem, Gili Paradise highlights:",
+    "impactItems": [
+      "Luxury overwater hospitality on a private Lombok island setting",
+      "Integrated masterplan: twin resorts, yacht club, and beach club",
+      "Alignment with Lombok’s rising global tourism recognition",
+      "Indonesian developer capacity through PT. EGI Property Nusantara"
+    ],
+    "investmentTitle": "Project Impact",
+    "investmentP1": "By anchoring a high-end resort destination on Pulau Gilipoh, the project expands Indonesia’s premium tourism offering and demonstrates EGI’s property capability beyond urban commercial assets.",
+    "investmentP2": "For Pavilion partners and investors, Gili Paradise is a clear signal of Indonesian hospitality ambition at home — complementary to cross-border hotel investments across Eurasia.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Bridging Indonesian Investors with Eurasian Governments, Business Leaders, and Investment Opportunities.",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Back to projects"
+  },
+  "services": {
+    "eyebrow": "One-Stop Hub",
+    "title": "Our Services",
+    "lead": "Six core pillars supporting trade, investment, and partnership development between Indonesia and Eurasia.",
+    "items": {
+      "digital": {
+        "title": "Digital Business Platform",
+        "tagline": "One Platform. Unlimited Business Opportunities.",
+        "desc": "The Indonesia–Euroasia Pavilion Digital Business Platform is an integrated online ecosystem connecting businesses, investors, government institutions, and strategic partners across Indonesia and Eurasia. Through a single platform, members can access exclusive resources, connect with verified companies, and participate in Pavilion programs.",
+        "listLabel": "Features",
+        "list": [
+          "Member Dashboard",
+          "Verified Business Directory",
+          "Company & Product Showcase",
+          "Business Opportunity Board",
+          "Market Intelligence Library",
+          "Event Registration"
+        ]
+      },
+      "matching": {
+        "title": "Business Matching",
+        "tagline": "Connecting the Right Businesses Through Curated Events",
+        "desc": "Our Business Matching program connects businesses, investors, buyers, suppliers, and government institutions through carefully curated networking events and one-on-one meetings. Every session is designed to create meaningful partnerships and real business opportunities.",
+        "listLabel": "Programs",
+        "list": [
+          "B2B Business Matching",
+          "B2G Business Meetings",
+          "Investor Matching Sessions",
+          "CEO Roundtables",
+          "Business Networking Events",
+          "Business Delegations"
+        ]
+      },
+      "promotion": {
+        "title": "Trade Promotion",
+        "tagline": "Promoting Businesses Across International Markets",
+        "desc": "The Pavilion organizes international trade promotion activities to increase market exposure, strengthen business relationships, and support cross-border trade between Indonesia and Eurasia.",
+        "listLabel": "Programs",
+        "list": [
+          "International Trade Missions",
+          "Trade Exhibitions & Expos",
+          "Business Forums",
+          "Product Showcases",
+          "Investment Forums",
+          "Networking Receptions"
+        ]
+      },
+      "intelligence": {
+        "title": "Market Intelligence",
+        "tagline": "Exclusive Market Insights for Pavilion Members",
+        "desc": "Gain access to reliable business intelligence, economic analysis, and market reports designed to support strategic business decisions. Premium reports and resources are available according to each membership tier.",
+        "listLabel": "Resources",
+        "list": [
+          "Country Market Reports",
+          "Industry Reports",
+          "Trade Statistics",
+          "Regulatory Updates",
+          "Investment Opportunities",
+          "Quarterly Market Outlook"
+        ]
+      },
+      "investment": {
+        "title": "Investment Facilitation",
+        "tagline": "Connecting Capital with Opportunities",
+        "desc": "We support investors and project owners by facilitating strategic partnerships, connecting investment opportunities, and assisting cross-border investment initiatives between Indonesia and Eurasia.",
+        "listLabel": "Services",
+        "list": [
+          "Investment Matchmaking",
+          "Joint Venture Facilitation",
+          "Project Promotion",
+          "Government Coordination",
+          "Investment Advisory",
+          "Investor Networking"
+        ]
+      },
+      "export": {
+        "title": "Export–Import Assistance",
+        "tagline": "Supporting Successful International Trade",
+        "desc": "Our export-import assistance helps businesses navigate international trade requirements, ensuring smoother market entry and operational efficiency across borders.",
+        "listLabel": "Services",
+        "list": [
+          "Export & Import Documentation",
+          "Customs Guidance",
+          "Logistics Coordination",
+          "Product Compliance",
+          "Halal Certification Support",
+          "Trade Consultation"
+        ]
+      }
+    },
+    "learnMore": "Learn more",
+    "back": "Back to services",
+    "otherServices": "Other services"
+  },
+  "commodities": {
+    "eyebrow": "Trade",
+    "title": "Priority Trade Portfolio",
+    "lead": "Strategic commodity corridors between Indonesia and Eurasia. Click a commodity for general market information.",
+    "toEurasia": "Indonesia to Eurasia",
+    "toIndonesia": "Eurasia to Indonesia",
+    "learnMore": "Learn more",
+    "back": "Back to commodities",
+    "production": "Production",
+    "locations": "Key locations",
+    "types": "Main types",
+    "overview": "Overview",
+    "details": {
+      "coffee": {
+        "name": "Coffee",
+        "overview": "Indonesia is among the world’s top coffee producers and a long-standing supplier of both specialty Arabica and commercial Robusta to global markets. Its archipelago geography creates highly distinctive cup profiles that are increasingly valued by Eurasian importers, roasters, and hospitality buyers.",
+        "body": "Coffee cultivation in Indonesia is largely smallholder-driven, with strong regional identities across Sumatra, Sulawesi, Java, Bali, and Flores. This structure supports both volume contracts and premium single-origin programs. For Eurasian partners, Indonesian coffee offers diversification beyond traditional Latin American and African origins, including demand for espresso blends, retail packaged coffee, and foodservice supply.",
+        "production": "General market estimates place Indonesian coffee output around 10–12 million bags per year, with Robusta accounting for the majority of volume and Arabica leading the specialty segment. Export availability is year-round, with peak harvest windows varying by island and altitude.",
+        "locations": "Key producing areas include Aceh Gayo and Lampung (Sumatra), Toraja and Kalosi (Sulawesi), East and Central Java highland belts, Kintamani (Bali), and Bajawa (Flores). Each origin carries recognizable flavor signatures useful for branding and buyer differentiation.",
+        "types": "Arabica (specialty and washed/natural process), Robusta (soluble and espresso blend base), Luwak and other niche specialty grades, green beans for roasting, and increasingly value-added roasted/ground products for retail and HORECA channels.",
+        "opportunity": "Eurasian markets show rising interest in specialty and Mid-Eastern/Central Asian coffee consumption, creating room for Indonesian exporters in green bean supply, private-label roasting partnerships, and long-term offtake agreements facilitated through Indonesia–Euroasia Pavilion matchmaking.",
+        "quality": "Buyers typically assess screen size, defect count, moisture, cupping score, and certification options (organic, fair-trade aligned programs, and traceability documentation). Consistent grading and container-ready logistics are critical for repeat Eurasian procurement."
+      },
+      "cocoa": {
+        "name": "Cocoa",
+        "overview": "Cocoa is one of Indonesia’s strategic estate crops, supporting hundreds of thousands of smallholders while feeding industrial chocolate, confectionery, and ingredient supply chains worldwide. Indonesia remains an important Asian source of cocoa beans and semi-processed products.",
+        "body": "Most Indonesian cocoa is produced by smallholder farms, with Sulawesi as the historic production heartland. Quality improvement programs around fermentation, drying, and post-harvest handling continue to raise the competitiveness of Indonesian beans. For Eurasian chocolate makers and ingredient buyers, Indonesia offers geographic diversification and potential for both bulk contracts and specialty fine-flavor initiatives.",
+        "production": "General estimates place Indonesian cocoa production above 200,000 tons annually, with output sensitive to weather, farm rejuvenation, and pest management cycles. Exportable volumes include raw beans and intermediate products depending on processor capacity.",
+        "locations": "Primary hubs include South Sulawesi, Southeast Sulawesi, and Central Sulawesi, with additional production in Sumatra and Papua. Collection and processing centers around Makassar and regional ports support domestic aggregation and export flows.",
+        "types": "Bulk cocoa beans, fermented and dried beans, cocoa liquor, cocoa butter, cocoa powder, and nibs for confectionery and beverage manufacturers. Specialty and traceable lots are emerging for premium Eurasian buyers.",
+        "opportunity": "Eurasia’s confectionery and dairy industries create demand for stable cocoa inputs. Indonesian suppliers can position both commodity beans and semi-processed products, while Pavilion facilitation helps connect exporters with importers, processors, and joint-venture partners.",
+        "quality": "International buyers look for bean count, fermentation level, moisture, free fatty acid indicators, and contamination controls. Improved fermentation and warehouse hygiene significantly increase acceptance for European and Eurasian chocolate applications."
+      },
+      "spices": {
+        "name": "Spices",
+        "overview": "Indonesia is a historic global spice hub — the origin of cloves, nutmeg, and major pepper trade routes. Today it remains a diversified supplier of culinary, pharmaceutical, and food-processing spices for international markets, including Eurasia.",
+        "body": "The Indonesian spice sector combines traditional island production systems with modern export packaging and quality controls. Demand from Eurasian food manufacturers, retail spice brands, and Halal-certified processors continues to expand, especially for pepper, nutmeg/mace, cloves, cinnamon, and vanilla. Seasonality and multi-origin sourcing make Indonesia attractive as a year-round spice basket partner.",
+        "production": "Production spans a multi-commodity basket rather than a single crop. Export volumes remain strong across cloves, nutmeg, pepper, and cinnamon categories, with availability supported by overlapping harvest calendars across islands.",
+        "locations": "Maluku and North Maluku (clove, nutmeg), Lampung and Bangka corridors (pepper), Sumatra and Java (cinnamon and mixed spices), Sulawesi (clove and nutmeg clusters). Aggregation often runs through regional traders into major export ports.",
+        "types": "Clove (whole and ground), nutmeg and mace, black and white pepper, cinnamon/cassia, vanilla, ginger, and mixed spice blends for industrial seasoning. Both raw and processed/ground formats are traded.",
+        "opportunity": "Eurasian food, meat processing, bakery, and beverage industries need reliable spice inputs. Indonesian exporters can grow share through contract farming linkages, Halal-compliant processing, and Pavilion-led buyer introductions.",
+        "quality": "Key specs include moisture, volatile oil content, cleanliness, aflatoxin controls (where relevant), and grind consistency. Export documentation and phytosanitary compliance are essential for customs clearance into Eurasian markets."
+      },
+      "halal-products": {
+        "name": "Halal Products",
+        "overview": "Indonesia has one of the world’s most developed Halal ecosystems, covering food, beverage, ingredients, and increasingly lifestyle goods. This makes Indonesian Halal products highly relevant for Muslim consumers and Halal-certified supply chains across Eurasia.",
+        "body": "Beyond domestic demand, Indonesian manufacturers are expanding export-ready Halal SKUs — from seasonings and processed foods to beverages and convenience products. Certification frameworks, industrial capacity in Java, and SME innovation create a broad product pipeline. For Eurasian distributors, Indonesian Halal products offer both cultural affinity in Muslim-majority pockets and commercial differentiation in mainstream retail.",
+        "production": "Output comes from a broad national manufacturing base rather than a single commodity volume. Large F&B groups and certified SMEs produce continuous volumes of packaged foods, sauces, snacks, and ingredient lines for domestic and export channels.",
+        "locations": "Greater Jakarta, West Java, East Java, and other major industrial zones host most certified processing capacity. Port and cold-chain access around Java supports export consolidation.",
+        "types": "Processed foods, beverages, seasonings and sauces, ready-to-eat meals, snacks, bakery ingredients, and selected Halal lifestyle consumables. Private-label manufacturing is also available for Eurasian retail partners.",
+        "opportunity": "Eurasian markets with growing Muslim populations and Halal retail shelves present clear entry points. Indonesia–Euroasia Pavilion can connect certified producers with importers, supermarket buyers, and foodservice groups seeking trusted Halal supply.",
+        "quality": "Halal certification integrity, labeling accuracy, shelf-life stability, and food-safety systems (HACCP/ISO-aligned practices) are decisive. Exporters should prepare bilingual labeling packs and importer-ready compliance dossiers."
+      },
+      "furniture": {
+        "name": "Furniture",
+        "overview": "Indonesian furniture is internationally recognized for craftsmanship in teak, mahogany, rattan, and outdoor collections. The sector serves residential, contract, and hospitality markets — a natural fit for Eurasian hotel, real-estate, and retail demand.",
+        "body": "Production ranges from artisan workshops in Jepara to larger export factories with container-scale capacity. Design capabilities increasingly combine Indonesian materials with contemporary international styles. For Eurasian buyers, Indonesian furniture offers competitive value in indoor and outdoor ranges, custom hospitality fit-outs, and OEM manufacturing.",
+        "production": "The sector is large and export-oriented, with continuous production cycles for indoor, outdoor, and contract furniture. Lead times depend on material, finishing complexity, and order volume, but established exporters routinely handle full-container shipments.",
+        "locations": "Jepara and surrounding Central Java districts remain the iconic craft hub. Additional capacity exists in East Java and Bali for design-led and outdoor furniture, with finishing and logistics often consolidated through Java ports.",
+        "types": "Solid wood indoor furniture, outdoor/garden sets, rattan and mixed-material collections, hospitality contract furniture, and OEM/private-label lines for retail chains.",
+        "opportunity": "Hospitality growth and residential development across Eurasia create demand for durable, design-ready furniture. Indonesian manufacturers can partner on project supply, retail distribution, and joint design collections via Pavilion facilitation.",
+        "quality": "Buyers evaluate wood grading, moisture content, finishing durability, hardware standards, packaging strength, and compliance with destination import rules. Consistent QC photos and pre-shipment inspection protocols improve trust for long-distance trade."
+      },
+      "fisheries": {
+        "name": "Fisheries",
+        "overview": "Indonesia’s marine and aquaculture resources make fisheries a core export pillar. From tuna and shrimp to seaweed, Indonesian seafood supplies retail, foodservice, and industrial buyers across Asia, the Middle East, and increasingly Eurasia.",
+        "body": "The sector includes capture fisheries and rapidly growing aquaculture. Cold-chain improvements and processing plants enable frozen and value-added exports. Eurasian importers seeking protein diversification and Halal-compatible seafood can source Indonesian products under established export protocols.",
+        "production": "National output from capture and aquaculture is among the largest globally in volume terms. Exportable products are shipped primarily in frozen form, with year-round availability for major species depending on fishing seasons and farm cycles.",
+        "locations": "Bitung and Eastern Indonesia corridors are important for tuna; Java Sea and Sumatra support shrimp and mixed seafood; Sulawesi and Maluku contribute capture and seaweed supply. Processing hubs near ports enable export consolidation.",
+        "types": "Tuna (fresh/frozen/loin), shrimp, crab, snapper and mixed demersal fish, seaweed and carrageenan-related materials, plus breaded or processed seafood for foodservice.",
+        "opportunity": "Eurasian retail chains, HORECA groups, and processors need stable frozen seafood supply. Indonesian exporters can compete on species variety, Halal processing readiness, and long-term contracts supported by Pavilion B2B matching.",
+        "quality": "Critical controls include temperature integrity, HACCP systems, residue testing, species authenticity, and packaging for long transit. Catch documentation and plant registration requirements must match destination-market rules."
+      },
+      "cosmetics": {
+        "name": "Cosmetics",
+        "overview": "Indonesia’s cosmetics and personal-care industry is expanding quickly, driven by natural ingredients, herbal traditions, and a strong SME/beauty-brand ecosystem. Export interest is rising for skincare and botanical formulations.",
+        "body": "Local brands increasingly meet international packaging and regulatory expectations, while contract manufacturers support private-label production. For Eurasian distributors, Indonesian cosmetics can fill natural/herbal niches and value segments, especially where tropical botanicals and Halal cosmetics are valued.",
+        "production": "Manufacturing capacity is concentrated among mid-sized factories and licensed cosmetic plants with growing export SKUs. Volumes are flexible — from trial shipments to continuous retail replenishment — depending on brand and OEM arrangements.",
+        "locations": "Greater Jakarta, West Java, and East Java host most licensed production, R&D, and packaging supply chains. Ingredient sourcing may also draw from Sumatra and other botanical regions.",
+        "types": "Skincare (serum, cream, cleanser), herbal/traditional-inspired cosmetics, personal care (hair and body), natural ingredient lines, and Halal-certified beauty products.",
+        "opportunity": "Eurasian beauty retail and online channels create space for Indonesian natural cosmetics. Pavilion can help introduce brands and OEM factories to distributors, marketplace sellers, and pharmacy/retail groups.",
+        "quality": "Compliance with cosmetic notification/registration rules, stability testing, ingredient transparency, and packaging standards is essential. Importers typically require COA, MSDS where relevant, and clear labeling in destination languages."
+      },
+      "wood-products": {
+        "name": "Wood Products",
+        "overview": "Processed wood products are a long-standing Indonesian export strength, spanning plywood, veneer, teak products, and engineered panels for construction, furniture, and industrial use.",
+        "body": "Indonesia’s processing industry converts domestic and managed timber resources into export-grade panels and finished wood goods. Eurasian construction, interior, and furniture manufacturers can use Indonesian wood products as cost-competitive inputs when legality and quality documentation are clear.",
+        "production": "The industry produces significant volumes of plywood and related panels, alongside specialty teak and engineered products. Export shipments are commonly containerized by grade and thickness specifications.",
+        "locations": "Kalimantan and Sumatra are major timber and processing regions, while Java hosts finishing, fabrication, and export consolidation hubs connected to international ports.",
+        "types": "Plywood, veneer, teak components and products, engineered wood panels, flooring-related materials, and semi-finished wood for furniture manufacturing.",
+        "opportunity": "Infrastructure and housing demand in Eurasia supports panel and wood-input trade. Indonesian mills can pursue distributor partnerships, project-based supply, and certified product lines through Pavilion networks.",
+        "quality": "Buyers focus on glue type, thickness tolerance, face grade, moisture, formaldehyde standards, and timber legality documentation. Clear chain-of-custody records strengthen market access."
+      },
+      "cotton-textiles": {
+        "name": "Cotton & Textiles",
+        "overview": "Eurasia — especially Central Asia — is a globally important cotton and textile region. These supply chains are highly relevant for Indonesia’s apparel, fabric, and home-textile industries that require cotton fiber, yarn, and fabrics.",
+        "body": "Uzbekistan and neighboring markets offer cotton production heritage and expanding textile processing capacity. Indonesian garment and textile manufacturers can source raw cotton, yarn, and greige/finished fabrics to complement domestic industry needs. Trade collaboration can also include joint production and apparel re-export models.",
+        "production": "Central Asian cotton harvests and spinning capacity generate large annual volumes of fiber and yarn. Textile parks continue upgrading toward higher-value fabric and finished goods production.",
+        "locations": "Uzbekistan is a core cotton hub, with additional relevance from Kazakhstan and regional textile clusters serving Eurasian and export markets.",
+        "types": "Raw cotton, carded/combed yarn, greige fabrics, finished fabrics, home textiles, and selected apparel inputs.",
+        "opportunity": "Indonesian mills and garment exporters can secure alternative cotton/textile sources while Eurasian producers gain access to ASEAN manufacturing demand. Pavilion matchmaking supports mill visits, sampling, and contract structuring.",
+        "quality": "Key parameters include fiber staple length, micronaire, yarn count consistency, fabric GSM, colorfastness, and chemical compliance for apparel markets. Sample approvals and lab testing are standard before bulk orders."
+      },
+      "wheat": {
+        "name": "Wheat",
+        "overview": "Wheat is one of Eurasia’s most important agri-exports and a strategic import for Indonesia’s flour milling and food-processing industries. Stable grain supply underpins noodles, bakery, and household flour demand.",
+        "body": "Russia, Kazakhstan, and related corridors form a major global wheat complex with competitive bulk logistics. Indonesian millers and food manufacturers monitor protein levels, crop quality, and freight economics closely. Long-term supply relationships can reduce volatility and support food-industry planning.",
+        "production": "Eurasian breadbasket regions produce high annual wheat volumes for domestic use and export. Availability for Indonesia depends on harvest quality, export policy, and shipping logistics through Black Sea and alternative routes.",
+        "locations": "Southern Russia, Kazakhstan’s grain belt, and connected export corridors are primary origins for milling and feed wheat traded into Asia.",
+        "types": "Milling wheat (various protein classes), feed wheat, and related flour-industry intermediates depending on contract specs.",
+        "opportunity": "Indonesia’s structural wheat demand creates room for direct offtake discussions, trial cargoes, and trusted supplier relationships facilitated by Indonesia–Euroasia Pavilion.",
+        "quality": "Buyers specify protein, gluten, moisture, test weight, falling number, and mycotoxin limits. Independent surveyor certificates at load port are common requirements for bulk grain trade."
+      },
+      "fruits": {
+        "name": "Fresh/Dried Fruits",
+        "overview": "Central Asia and the Caucasus are renowned for fruit horticulture — grapes, apricots, melons, and a wide range of dried fruits that suit both retail snacking and industrial food manufacturing.",
+        "body": "Uzbekistan and neighboring countries supply fresh seasonal fruits and a globally competitive dried fruit industry (raisins, dried apricots, and mixed dried fruits). Indonesian importers, retailers, and food processors can use these products for consumer packs, bakery inclusions, and ingredient formulations.",
+        "production": "Horticulture output is seasonally strong, with dried fruit processing enabling year-round export availability after harvest peaks. Volumes support both bulk ingredient contracts and retail-ready packaging.",
+        "locations": "Uzbekistan is a leading dried fruit and grape origin; Tajikistan, Azerbaijan, and Armenia also contribute stone fruits, grapes, and specialty dried products.",
+        "types": "Fresh grapes and stone fruits (seasonal), raisins, dried apricots, dried mixed fruits, and industrial fruit ingredients for confectionery and bakery.",
+        "opportunity": "Indonesian modern retail and F&B manufacturing can diversify fruit sourcing through Eurasian suppliers. Pavilion support helps with importer introductions, sampling, and cold-chain/packaging alignment.",
+        "quality": "Importers check moisture (for dried fruits), size grading, sulfur treatment declarations, pesticide residues, packaging hygiene, and shelf-life performance in tropical distribution conditions."
+      },
+      "petrochemicals": {
+        "name": "Petrochemicals",
+        "overview": "Eurasia hosts large energy and petrochemical complexes that supply polymers and industrial chemicals used across packaging, manufacturing, and infrastructure value chains — including demand centers in Indonesia.",
+        "body": "Petrochemical trade between Eurasia and Indonesia can cover commodity polymers and selected intermediates for downstream factories. Indonesian converters in packaging, plastics, and industrial materials continuously seek competitive feedstock and resin sources. Structured B2B engagement helps align grades, logistics, and contract terms.",
+        "production": "Large-scale complexes produce substantial polymer and chemical volumes for domestic Eurasian use and export. Offer availability depends on plant utilization, maintenance cycles, and trade policy conditions.",
+        "locations": "Major Russian and other Eurasian industrial centers with integrated refining/petrochemical capacity are primary origins for exportable grades.",
+        "types": "Commodity polymers, base chemicals, and industrial intermediates used in packaging, construction materials, and manufacturing.",
+        "opportunity": "Indonesian downstream manufacturers can explore alternative Eurasian supply for cost and diversification, while Pavilion channels support technical matching between producers and converters.",
+        "quality": "Grade specification sheets, MFI/viscosity data, contamination controls, and packaging/handling standards are essential. Trial lots and lab verification usually precede annual contracts."
+      },
+      "metals": {
+        "name": "Metals",
+        "overview": "Eurasia is a major metals region, producing steel and non-ferrous materials that feed construction, fabrication, and industrial manufacturing. These commodities are relevant for Indonesia’s infrastructure and processing demand.",
+        "body": "Trade opportunities include steel products, aluminum, copper, and related semi-finished forms. Indonesian buyers in construction, fabrication, and manufacturing can evaluate Eurasian mills for competitive supply, while exporters seek ASEAN market access through reliable importer networks.",
+        "production": "The region maintains significant ferrous and non-ferrous output backed by mining and smelting capacity. Export offers are typically structured by grade, dimension, and shipment lot size.",
+        "locations": "Russia and Kazakhstan are central to metals and mining value chains, with regional industrial belts supporting processing and export logistics.",
+        "types": "Steel products (coil, plate, long products depending on availability), aluminum, copper, and selected specialty metal forms for industrial use.",
+        "opportunity": "Infrastructure cycles in Indonesia create recurring metals demand. Pavilion can connect mills, traders, and Indonesian end-users around specifications, financing discussions, and delivery planning.",
+        "quality": "Chemical composition, mechanical properties, mill test certificates, dimensional tolerances, and surface condition determine acceptance. Independent inspection is often required for first shipments."
+      },
+      "minerals": {
+        "name": "Minerals",
+        "overview": "Eurasia’s mineral endowment covers a wide spectrum of industrial minerals and ores used in processing, manufacturing, and energy-related industries. These resources support long-term supply partnerships with Asian buyers including Indonesia.",
+        "body": "Mineral trade is typically relationship-driven and specification-heavy. Indonesian industrial users may source selected mineral inputs for processing, while Eurasian producers look for stable offtake partners. Collaboration can extend from trial cargoes to multi-year supply frameworks.",
+        "production": "Mining and mineral-processing capacity varies by commodity, with both bulk industrial minerals and higher-value ores available depending on the project and region.",
+        "locations": "Kazakhstan, Russia, and broader Central Asian mining regions host diverse deposits and processing facilities connected to rail and port export systems.",
+        "types": "Industrial minerals, metallic ores, and processing inputs tailored to cement, metallurgy, chemical, and manufacturing applications.",
+        "opportunity": "Indonesia–Euroasia Pavilion can facilitate technical introductions between mining companies, traders, and Indonesian industrial consumers seeking diversified mineral supply.",
+        "quality": "Assay certificates, particle size, impurity profiles, radioactivity/safety declarations where relevant, and consistent lot quality are core buyer requirements."
+      },
+      "fertilizers": {
+        "name": "Fertilizers",
+        "overview": "Fertilizers are a strategic agri-input trade between Eurasia and Indonesia. Nitrogen and potash-linked products from Eurasian producers help support Indonesian crop productivity and plantation cycles.",
+        "body": "Indonesia’s agriculture sector requires reliable fertilizer supply for food crops and estates. Eurasian producers with large nitrogen capacity and related nutrient products are established participants in global fertilizer markets. Structured procurement and seasonal planning are essential due to planting calendars and price cycles.",
+        "production": "Eurasian plants produce major volumes of urea and related fertilizers for domestic and farm-export markets. Shipment programs are commonly arranged around seasonal demand windows in Asia.",
+        "locations": "Russia, Belarus, and Central Asian fertilizer hubs are key origins, supported by bulk maritime logistics into Asian discharge ports.",
+        "types": "Urea, NPK blends, potash-related fertilizers, and other nutrient products depending on plant slate and export allocation.",
+        "opportunity": "Indonesian distributors, blenders, and plantation groups can explore direct engagement with Eurasian producers through Pavilion-supported introductions and offtake discussions.",
+        "quality": "Nutrient content guarantees, moisture, granule strength, caking resistance, and contamination controls are standard. Bags/bulk handling specs and inspection at load/discharge ports protect both sides."
+      },
+      "industrial-machinery": {
+        "name": "Industrial Machinery",
+        "overview": "Eurasia’s industrial base supplies machinery and equipment relevant to manufacturing upgrades, agro-industry, and project development. For Indonesian factories and project owners, this can complement existing technology sources.",
+        "body": "Trade in industrial machinery is project-based and highly technical, involving specification matching, installation support, and after-sales service. Eurasian manufacturers of process equipment, agricultural machinery, and industrial lines can partner with Indonesian buyers seeking cost-effective capital goods and localization options.",
+        "production": "Capacity is rooted in heavy-industry traditions and modern machine-building plants. Supply is typically make-to-order or configured from established equipment platforms rather than spot commodity shipping.",
+        "locations": "Russia and major Eurasian industrial centers host engineering plants, while export projects are delivered with technical documentation and commissioning support packages.",
+        "types": "Process equipment, agricultural machinery, packaging/processing lines, and industrial systems for manufacturing and agro-processing facilities.",
+        "opportunity": "Indonesian industrial estates, food processors, and project developers can evaluate Eurasian machinery alternatives through Pavilion B2B matching, factory visits, and pilot project discussions.",
+        "quality": "Buyers require clear technical datasheets, performance guarantees, spare-parts availability, compliance certificates, and training/commissioning plans. After-sales service commitments are often decisive in vendor selection."
+      }
+    },
+    "marketOpportunity": "Market opportunity",
+    "quality": "Quality & standards",
+    "whyTrade": "Why it matters for Indonesia–Eurasia trade",
+    "mapTitle": "Key locations map",
+    "mapLead": "Interactive map of primary production and trade hubs (OpenStreetMap)."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "lead": "Ready to start cooperation? Send us a message and our team will respond shortly.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "success": "Thank you. Your message has been sent successfully.",
+    "error": "Something went wrong. Please try again later.",
+    "namePlaceholder": "Your full name",
+    "emailPlaceholder": "you{'@'}company.com",
+    "subjectPlaceholder": "How can we help?",
+    "messagePlaceholder": "Tell us about your inquiry or cooperation interest"
+  },
+  "footer": {
+    "tagline": "Connecting Indonesia and Eurasia through trusted B2B cooperation.",
+    "email": "info{'@'}indo-euroasia.com",
+    "rights": "All rights reserved.",
+    "navigate": "Navigate"
+  },
+  "membership": {
+    "eyebrow": "Join Us",
+    "title": "Membership",
+    "lead": "Unlock Exclusive Business Opportunities",
+    "body": "Become part of an exclusive business community connecting Indonesia and Eurasia. Membership provides access to premium market intelligence, networking events, business matching programs, and Pavilion services tailored to support international growth.",
+    "tiersLabel": "Membership Tiers",
+    "benefitsLabel": "Benefits",
+    "cta": "Start Cooperation Today",
+    "tiers": {
+      "lite": {
+        "name": "Lite",
+        "desc": "Perfect for startups and SMEs exploring international business opportunities."
+      },
+      "pro": {
+        "name": "Pro",
+        "desc": "Designed for exporters, importers, and growing companies seeking market expansion, strategic partnerships, and exclusive member perks including 10% discount at Cafe 7oz, Hadith Hotel Kampoeng Indonesia, and Mecca Hotel."
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "desc": "A premium membership for corporations, investors, and institutions requiring priority access, executive networking, dedicated support, and VIP perks including 20% discount at Cafe 7oz, Hadith Hotel Kampoeng Indonesia, and Mecca Hotel."
+      }
+    },
+    "table": {
+      "headers": [
+        "Benefits",
+        "Lite",
+        "Pro",
+        "Enterprise"
+      ],
+      "rows": [
+        {
+          "benefit": "Business Directory",
+          "lite": "✓",
+          "pro": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "benefit": "Company Profile",
+          "lite": "✓",
+          "pro": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "benefit": "Product Showcase",
+          "lite": "Basic",
+          "pro": "Advanced",
+          "enterprise": "Unlimited"
+        },
+        {
+          "benefit": "Market Intelligence",
+          "lite": "Basic",
+          "pro": "Full Access",
+          "enterprise": "Premium Access"
+        },
+        {
+          "benefit": "Business Matching",
+          "lite": "—",
+          "pro": "✓",
+          "enterprise": "Priority Access"
+        },
+        {
+          "benefit": "Trade Promotion Events",
+          "lite": "Standard",
+          "pro": "Priority",
+          "enterprise": "VIP"
+        },
+        {
+          "benefit": "Business Consultation",
+          "lite": "—",
+          "pro": "✓",
+          "enterprise": "Unlimited"
+        },
+        {
+          "benefit": "Dedicated Relationship Manager",
+          "lite": "—",
+          "pro": "—",
+          "enterprise": "✓"
+        },
+        {
+          "benefit": "Exclusive Cafe 7oz Discount",
+          "lite": "—",
+          "pro": "10% Discount",
+          "enterprise": "20% Discount"
+        },
+        {
+          "benefit": "Exclusive Hadith & Mecca Hotel Discount",
+          "lite": "—",
+          "pro": "10% Discount",
+          "enterprise": "20% Discount"
+        }
+      ]
+    },
+    "teaser": "Lite, Pro, and Enterprise tiers with access to directory, intelligence, matching, and dedicated support.",
+    "viewPlans": "View membership plans",
+    "back": "Back to home"
+  }
+}

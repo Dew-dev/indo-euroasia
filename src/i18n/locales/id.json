@@ -1,0 +1,703 @@
+{
+  "nav": {
+    "about": "Tentang",
+    "services": "Layanan",
+    "portfolio": "Projects",
+    "commodities": "Komoditas",
+    "contact": "Kontak",
+    "cta": "Mulai Kerja Sama Hari Ini",
+    "projectsIndonesia": "Indonesia",
+    "projectsEuroasia": "Eurasia",
+    "hadithHotel": "Hadith Hotel",
+    "ongoingProjects": "Proyek Berjalan",
+    "membership": "Keanggotaan"
+  },
+  "hero": {
+    "title": "Indonesia Euroasia Pavilion",
+    "findPrefix": "Kami menemukan peluang kerja sama di",
+    "subtitle": "Indonesia Euroasia Pavilion adalah platform kerja sama komersial B2B yang menghubungkan perusahaan Eurasia dengan mitra di Indonesia.",
+    "cta": "Mulai Kerja Sama Hari Ini",
+    "secondary": "Jelajahi Layanan Kami",
+    "countries": {
+      "indonesia": "Indonesia",
+      "russia": "Rusia",
+      "belarus": "Belarus",
+      "kazakhstan": "Kazakhstan",
+      "uzbekistan": "Uzbekistan",
+      "kyrgyzstan": "Kyrgyzstan",
+      "tajikistan": "Tajikistan",
+      "turkmenistan": "Turkmenistan",
+      "azerbaijan": "Azerbaijan",
+      "armenia": "Armenia"
+    }
+  },
+  "about": {
+    "title": "Tentang Kami",
+    "lead": "Jembatan strategis yang menghubungkan Indonesia dan Eurasia — Rusia, Belarus, Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan, Azerbaijan, dan Armenia — pasar dengan 300+ juta konsumen.",
+    "body": "Indonesia Euroasia Pavilion memfasilitasi perdagangan bilateral, investasi, dan kemitraan bisnis jangka panjang antara perusahaan Indonesia dan mitra Eurasia melalui matching terstruktur, akses pasar, serta dukungan komersial menyeluruh.",
+    "visionTitle": "Visi",
+    "vision": "Menjadi pusat kolaborasi perdagangan dan investasi bilateral yang terpercaya dan berkelanjutan antara Indonesia dan kawasan Eurasia.",
+    "missionTitle": "Misi",
+    "mission": "Memungkinkan kerja sama B2B dan B2G yang mulus dengan menghubungkan mitra yang tepat, membuka jalur pasar, dan mendukung setiap tahap perdagangan lintas negara."
+  },
+  "portfolio": {
+    "eyebrow": "Projects",
+    "title": "Projects",
+    "lead": "Inisiatif aktif di Indonesia dan Eurasia — dari kesiapan ekspor hingga investasi hospitality.",
+    "body": "Jelajahi proyek per wilayah: program fokus Indonesia dan peluang pasar Eurasia, termasuk hospitality serta properti komersial strategis.",
+    "featuredLabel": "Proyek unggulan Eurasia",
+    "readMore": "Lihat proyek",
+    "ongoingTitle": "Proyek per Wilayah",
+    "ongoingLead": "Lihat inisiatif di Indonesia dan di Eurasia.",
+    "indonesia": "Indonesia",
+    "euroasia": "Eurasia",
+    "indonesiaLead": "Proyek properti dan hospitality yang dikembangkan di Indonesia.",
+    "euroasiaLead": "Proyek hospitality dan destinasi di Eurasia.",
+    "viewIndonesia": "Lihat proyek Indonesia",
+    "viewEuroasia": "Lihat proyek Eurasia",
+    "viewAllOngoing": "Lihat semua proyek",
+    "hadithCard": {
+      "name": "Hadith Hotel",
+      "location": "Samarkand, Uzbekistan",
+      "tagline": "Menghubungkan investasi Indonesia dengan peluang hospitality Uzbekistan",
+      "desc": "Destinasi hospitality premium dekat Kompleks Memorial Imam Al-Bukhari, menjembatani investor Indonesia dengan peluang Eurasia."
+    },
+    "ongoingIndonesia": [
+      {
+        "title": "EGI Tower",
+        "desc": "Green office tower premium di Menteng, Jakarta — dirancang sesuai standar internasional untuk perusahaan strategis.",
+        "slug": "egi-tower"
+      },
+      {
+        "title": "Humble 8",
+        "desc": "Ruang co-living dan sosial premium di Jakarta dengan F&B, fasilitas kolaboratif, dan amenitas lifestyle komunitas.",
+        "slug": "humble-8"
+      },
+      {
+        "title": "Gilipoh Resort & Paradise",
+        "desc": "Resort pulau mewah di Pulau Gilipoh, Lombok — overwater resort, yacht club, dan beach club oleh PT. EGI Property Nusantara.",
+        "slug": "gilipoh-resort"
+      }
+    ],
+    "ongoingEurasia": [
+      {
+        "title": "Hadith Hotel",
+        "desc": "Destinasi hospitality premium dekat Kompleks Memorial Imam Al-Bukhari di Samarkand, Uzbekistan.",
+        "slug": "hadith-hotel"
+      },
+      {
+        "title": "Mecca Hotel",
+        "desc": "Proyek hospitality boutique 30 kamar dekat Islamic Civilization Centre di Tashkent, Uzbekistan.",
+        "slug": "mecca-hotel"
+      },
+      {
+        "title": "Kampoeng Indonesia",
+        "desc": "Hotel bintang 3 dengan 22 kamar di Kompleks Imam Al-Bukhari, Samarkand, Uzbekistan.",
+        "slug": "kampoeng-indonesia"
+      }
+    ]
+  },
+  "hadith": {
+    "eyebrow": "Projects · Eurasia · Hospitality",
+    "title": "Hadith Hotel",
+    "tagline": "Menghubungkan investasi Indonesia dengan peluang hospitality Uzbekistan",
+    "location": "Samarkand, Uzbekistan",
+    "p1": "Hadith Hotel merepresentasikan inisiatif investasi Indonesia di sektor hospitality dan pariwisata Uzbekistan yang terus berkembang, menunjukkan peluang dari kolaborasi ekonomi Indonesia–Eurasia yang lebih kuat.",
+    "p2": "Melalui Indonesia–Euroasia Pavilion, investor Indonesia dihubungkan dengan pejabat pemerintah tingkat tinggi, pemimpin bisnis, mitra strategis, dan pemangku kepentingan utama di Eurasia untuk mengeksplorasi serta mengembangkan peluang investasi berdampak.",
+    "p3": "Sebagai jembatan antara Indonesia dan Eurasia, Indonesia–Euroasia Pavilion memfasilitasi koneksi bermakna, mendukung market entry, dan membantu menciptakan kemitraan jangka panjang antara perusahaan Indonesia dan pemangku kepentingan Eurasia.",
+    "p4": "Berlokasi dekat Kompleks Memorial Imam Al-Bukhari di Samarkand, Hadith Hotel diposisikan sebagai destinasi hospitality premium untuk peziarah internasional, wisatawan budaya, delegasi bisnis, dan pengunjung global.",
+    "overviewTitle": "Ikhtisar Proyek",
+    "sector": "Sektor",
+    "sectorValue": "Hospitality & Pariwisata",
+    "origin": "Asal Investasi",
+    "originValue": "Indonesia",
+    "locationLabel": "Lokasi",
+    "locationValue": "Samarkand, Uzbekistan",
+    "positioning": "Positioning",
+    "positioningValue": "Destinasi Hospitality Heritage Premium",
+    "closing": "Hadith Hotel mencerminkan potensi bisnis Indonesia yang ekspansi ke Eurasia melalui investasi strategis, kemitraan, dan kolaborasi internasional.",
+    "impactTitle": "Dampak Kemitraan Indonesia–Eurasia",
+    "impactLead": "Proyek ini menunjukkan bagaimana Indonesia–Euroasia Pavilion memungkinkan:",
+    "impactItems": [
+      "Akses ke jejaring pemerintah dan bisnis tingkat tinggi",
+      "Koneksi dengan mitra strategis dan investor",
+      "Dukungan market entry di negara-negara Eurasia",
+      "Kolaborasi investasi dan bisnis lintas batas"
+    ],
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Menjembatani investor Indonesia dengan peluang Eurasia",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Kembali ke proyek"
+  },
+  "mecca": {
+    "eyebrow": "Projects · Eurasia · Hospitality",
+    "title": "Mecca Hotel",
+    "tagline": "Menghubungkan investasi Indonesia dengan peluang hospitality Uzbekistan",
+    "location": "Tashkent, Uzbekistan",
+    "p1": "Mecca Hotel merepresentasikan inisiatif investasi Indonesia di sektor hospitality Uzbekistan yang terus berkembang, mencerminkan kemitraan ekonomi yang semakin kuat antara Indonesia dan Eurasia.",
+    "p2": "Melalui Indonesia–Euroasia Pavilion, investor Indonesia dihubungkan dengan pejabat pemerintah tingkat tinggi, pemimpin bisnis, mitra strategis, dan pemangku kepentingan investasi di Uzbekistan serta kawasan Eurasia yang lebih luas. Pavilion berperan sebagai jembatan terpercaya yang memfasilitasi akses pasar, peluang investasi, dan kemitraan bisnis jangka panjang.",
+    "p3": "Berlokasi strategis di Tashkent dekat Islamic Civilization Centre, Mecca Hotel adalah proyek hospitality boutique dengan 30 kamar tamu, dirancang untuk pelancong bisnis, pengunjung internasional, dan tamu yang menelusuri warisan budaya serta Islam Uzbekistan.",
+    "overviewTitle": "Ikhtisar Proyek",
+    "sector": "Sektor",
+    "sectorValue": "Hospitality & Pariwisata",
+    "origin": "Asal Investasi",
+    "originValue": "Indonesia",
+    "locationLabel": "Lokasi",
+    "locationValue": "Tashkent, Uzbekistan",
+    "capacity": "Kapasitas",
+    "capacityValue": "30 Kamar Tamu",
+    "positioning": "Positioning",
+    "positioningValue": "Boutique Business & Heritage Hotel",
+    "closing": "Mecca Hotel menunjukkan bagaimana investor Indonesia dapat membangun kehadiran di Uzbekistan melalui kemitraan strategis dan kolaborasi lintas batas yang difasilitasi Indonesia–Euroasia Pavilion.",
+    "impactTitle": "Signifikansi Strategis",
+    "impactLead": "Sebagai salah satu proyek investasi Indonesia unggulan di Eurasia, Mecca Hotel memperlihatkan peran Pavilion dalam:",
+    "impactItems": [
+      "Menghubungkan investor Indonesia dengan pejabat pemerintah tingkat tinggi",
+      "Memfasilitasi perkenalan dengan grup bisnis terkemuka dan mitra strategis",
+      "Mendukung peluang investasi di sektor hospitality Uzbekistan",
+      "Menciptakan kolaborasi ekonomi jangka panjang antara Indonesia dan Eurasia"
+    ],
+    "investmentTitle": "Dampak Investasi",
+    "investmentP1": "Mecca Hotel mencerminkan meningkatnya kepercayaan bisnis Indonesia terhadap iklim investasi Uzbekistan dan menunjukkan nilai kemitraan lintas batas yang terpercaya.",
+    "investmentP2": "Dengan menghubungkan investor Indonesia dengan pengambil keputusan dan pemimpin bisnis utama, Indonesia–Euroasia Pavilion membantu mengubah peluang investasi menjadi usaha bisnis berkelanjutan yang berkontribusi pada pertumbuhan ekonomi dan hubungan bilateral yang lebih kuat.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Menjembatani investor Indonesia dengan pemerintah, pemimpin bisnis, dan peluang investasi Eurasia.",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Kembali ke proyek"
+  },
+  "kampoeng": {
+    "eyebrow": "Projects · Eurasia · Hospitality",
+    "title": "Kampoeng Indonesia",
+    "tagline": "Menghubungkan investasi Indonesia dengan peluang pariwisata dan hospitality Uzbekistan",
+    "location": "Samarkand, Uzbekistan",
+    "p1": "Kampoeng Indonesia merepresentasikan inisiatif investasi Indonesia di sektor pariwisata dan hospitality Uzbekistan yang terus berkembang, memperkuat kerja sama ekonomi antara Indonesia dan Eurasia.",
+    "p2": "Melalui Indonesia–Euroasia Pavilion, investor Indonesia dihubungkan dengan pejabat pemerintah tingkat tinggi, pemimpin bisnis, dan mitra strategis di Uzbekistan untuk mengidentifikasi, mengembangkan, dan merealisasikan peluang investasi. Pavilion berperan sebagai jembatan terpercaya yang memfasilitasi kemitraan lintas batas dan mendukung perusahaan Indonesia memasuki pasar Eurasia.",
+    "p3": "Berlokasi di dalam Kompleks Imam Al-Bukhari di Samarkand, Kampoeng Indonesia adalah hotel bintang 3 dengan 22 kamar tamu, dikembangkan untuk menampung peziarah, wisatawan budaya, pengunjung bisnis, dan tamu internasional yang mengunjungi salah satu destinasi warisan Islam paling penting di dunia.",
+    "overviewTitle": "Ikhtisar Proyek",
+    "sector": "Sektor",
+    "sectorValue": "Hospitality & Pariwisata",
+    "origin": "Asal Investasi",
+    "originValue": "Indonesia",
+    "locationLabel": "Lokasi",
+    "locationValue": "Kompleks Imam Al-Bukhari, Samarkand, Uzbekistan",
+    "category": "Kategori",
+    "categoryValue": "Hotel Bintang 3",
+    "capacity": "Kapasitas",
+    "capacityValue": "22 Kamar Tamu",
+    "closing": "Kampoeng Indonesia mencerminkan komitmen bisnis Indonesia untuk berpartisipasi dalam pengembangan infrastruktur pariwisata Uzbekistan sekaligus memperkuat hubungan ekonomi bilateral Indonesia–Eurasia.",
+    "impactTitle": "Signifikansi Strategis",
+    "impactLead": "Sebagai proyek investasi Indonesia unggulan di Uzbekistan, Kampoeng Indonesia menunjukkan bagaimana Indonesia–Euroasia Pavilion memfasilitasi:",
+    "impactItems": [
+      "Koneksi strategis dengan pejabat pemerintah tingkat tinggi",
+      "Kemitraan dengan grup bisnis terkemuka dan pemangku kepentingan lokal",
+      "Peluang investasi di hospitality dan pariwisata",
+      "Kolaborasi bisnis lintas batas antara Indonesia dan Eurasia"
+    ],
+    "investmentTitle": "Dampak Investasi",
+    "investmentP1": "Berada di salah satu destinasi agama dan budaya paling menonjol di Asia Tengah, Kampoeng Indonesia berkontribusi pada ekosistem hospitality di sekitar Kompleks Imam Al-Bukhari sekaligus memperlihatkan semakin kuatnya kehadiran investasi Indonesia di kawasan Eurasia.",
+    "investmentP2": "Proyek ini mencerminkan misi Indonesia–Euroasia Pavilion untuk menciptakan kemitraan bisnis bermakna yang menghasilkan nilai ekonomi berkelanjutan bagi Indonesia dan Eurasia.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Menjembatani investor Indonesia dengan pemerintah, pemimpin bisnis, dan peluang investasi Eurasia.",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Kembali ke proyek"
+  },
+  "egiTower": {
+    "eyebrow": "Projects · Indonesia · Property",
+    "title": "EGI Tower",
+    "tagline": "Green Tower Modern di Jantung Jakarta",
+    "location": "Menteng, Jakarta, Indonesia",
+    "p1": "EGI Tower adalah green office tower premium di Menteng, jantung Jakarta. Dirancang sesuai standar internasional, proyek ini menggabungkan ruang kerja komersial modern dengan arsitektur berkelanjutan serta fasilitas untuk perusahaan strategis nasional.",
+    "p2": "Sebagai bagian dari pilar properti PT. EGI Resources, EGI Tower mencerminkan kapasitas investasi Indonesia dalam ekosistem Indonesia–Euroasia Pavilion — menunjukkan bagaimana developer Indonesia membangun aset komersial berkualitas tinggi untuk pertumbuhan korporasi, penyewa institusional, dan penciptaan nilai jangka panjang.",
+    "p3": "Tower ini diposisikan sebagai destinasi tempat kerja landmark: floorplate efisien, amenitas kontemporer, dan pendekatan green building yang selaras dengan permintaan Jakarta akan ruang kantor premium yang siap masa depan.",
+    "overviewTitle": "Ikhtisar Proyek",
+    "sector": "Sektor",
+    "sectorValue": "Properti Komersial / Perkantoran",
+    "origin": "Pengembang",
+    "originValue": "PT. EGI Resources · Pilar Property",
+    "locationLabel": "Lokasi",
+    "locationValue": "Menteng, Jakarta, Indonesia",
+    "positioning": "Positioning",
+    "positioningValue": "Premier Green Office Tower",
+    "closing": "EGI Tower menunjukkan kapabilitas Indonesia dalam menghadirkan properti komersial yang kompetitif secara internasional — fondasi domestik yang kuat di balik narasi investasi lintas batas Pavilion.",
+    "impactTitle": "Signifikansi Strategis",
+    "impactLead": "Dalam ekosistem Indonesia–Euroasia Pavilion, EGI Tower menyoroti:",
+    "impactItems": [
+      "Kekuatan Indonesia dalam pengembangan properti komersial premium",
+      "Standar tata kelola dan keberlanjutan yang selaras dengan EGI Holding",
+      "Landmark Menteng yang sesuai untuk penyewa korporasi dan institusional strategis",
+      "Kualitas aset domestik yang mendukung kepercayaan investasi Indonesia–Eurasia"
+    ],
+    "investmentTitle": "Dampak Proyek",
+    "investmentP1": "Dengan mengokohkan kehadiran enterprise Indonesia di kawasan strategis Jakarta, EGI Tower berkontribusi pada infrastruktur komersial modern dan memperkuat peran EGI sebagai holding multi-sektor dengan kapabilitas properti yang kuat.",
+    "investmentP2": "Bagi mitra dan investor Pavilion, proyek ini menjadi sinyal jelas kapasitas eksekusi di dalam negeri — kapabilitas yang sama yang menopang ekspansi investasi Indonesia ke hospitality dan pariwisata Eurasia.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Menjembatani investor Indonesia dengan pemerintah, pemimpin bisnis, dan peluang investasi Eurasia.",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Kembali ke proyek"
+  },
+  "humble8": {
+    "eyebrow": "Projects · Indonesia · Lifestyle & F&B",
+    "title": "Humble 8",
+    "tagline": "Lingkungan Kolaboratif Premium di Jakarta",
+    "location": "Jakarta, Indonesia",
+    "p1": "Humble 8 adalah ruang sosial dan co-living modern di Jakarta yang dirancang sebagai lingkungan kolaboratif premium. Proyek ini menggabungkan residensi lifestyle, F&B, dan fasilitas komunitas untuk mendorong inovasi serta koneksi di antara generasi pemimpin Indonesia berikutnya.",
+    "p2": "Di bawah pilar F&B dan lifestyle PT. EGI Resources, Humble 8 memadukan kenyamanan, produktivitas, dan networking — dari amenitas co-living hingga ruang dining sosial, VIP lounge, specialty coffee, dan fasilitas kreatif seperti recording studio.",
+    "p3": "Dengan gross floor area sekitar 2.144 m², proyek ini dibangun sebagai hub lifestyle urban yang tangguh: co-living modern, program sosial dan F&B terintegrasi, serta interior yang mendukung kolaborasi dan community building sehari-hari.",
+    "overviewTitle": "Ikhtisar Proyek",
+    "sector": "Sektor",
+    "sectorValue": "Co-Living · Social Space · F&B",
+    "origin": "Pengembang",
+    "originValue": "PT. EGI Resources · Pilar F&B / Lifestyle",
+    "locationLabel": "Lokasi",
+    "locationValue": "Jakarta, Indonesia",
+    "capacity": "Skala",
+    "capacityValue": "Sekitar 2.144 m² GFA",
+    "positioning": "Positioning",
+    "positioningValue": "Premium Collaborative Lifestyle Hub",
+    "closing": "Humble 8 menunjukkan bagaimana konsep lifestyle dan F&B Indonesia dapat menciptakan destinasi urban bernilai tinggi — pelengkap investasi hospitality Pavilion di luar negeri.",
+    "impactTitle": "Signifikansi Strategis",
+    "impactLead": "Humble 8 memperkuat sisi Indonesia dalam cerita Pavilion dengan menampilkan:",
+    "impactItems": [
+      "Co-living modern untuk kenyamanan, produktivitas, dan networking",
+      "Ruang sosial dan F&B terintegrasi yang membangun komunitas",
+      "Amenitas lifestyle dari VIP lounge hingga fasilitas kreatif dan wellness",
+      "Standar tata kelola, kepatuhan, dan operasional EGI Holding"
+    ],
+    "investmentTitle": "Dampak Proyek",
+    "investmentP1": "Sebagai lingkungan kolaboratif berbasis Jakarta, Humble 8 mendukung komunitas kreatif dan profesional Indonesia sekaligus memperluas jejak lifestyle dan F&B EGI.",
+    "investmentP2": "Bersama EGI Tower dan proyek hospitality Eurasia, Humble 8 melengkapi gambaran kapabilitas Indonesia di properti, lifestyle, dan investasi hospitality lintas batas.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Menjembatani investor Indonesia dengan pemerintah, pemimpin bisnis, dan peluang investasi Eurasia.",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Kembali ke proyek"
+  },
+  "gilipoh": {
+    "eyebrow": "Projects · Indonesia · Hospitality & Tourism",
+    "title": "Gili Paradise Resort & Spa",
+    "tagline": "Where Nature Meets Exclusivity",
+    "location": "Pulau Gilipoh, Lombok, Nusa Tenggara Barat, Indonesia",
+    "p1": "Gili Paradise Resort & Spa adalah destinasi resort pulau mewah yang dikembangkan PT. EGI Property Nusantara di Pulau Gilipoh, Lombok — pulau eksotis di Nusa Tenggara Barat yang dikenal dengan pantai berpasir putih, perairan jernih, dan budaya yang kaya, serta semakin diakui sebagai destinasi unggulan untuk pariwisata dan investasi.",
+    "p2": "Resort ini menawarkan pelarian mewah dengan dua overwater resort, bar, dan dermaga yacht di tengah pantai yang masih asli dan air yang jernih. Konsepnya memadukan alam, kenyamanan, dan keberlanjutan untuk pengalaman eksklusif yang tak terlupakan — diposisikan sebagai salah satu destinasi paling prestisius di Asia.",
+    "p3": "Berlokasi sekitar 2,5 km dari pantai, masterplan menggabungkan Gili Paradise Resort, Xarrin Resort & Spa, Yacht Club & Bar, serta Beach Club — enklave hospitality terintegrasi untuk menginap yang sangat privat, berorientasi alam dan wellness.",
+    "p4": "Pengakuan global Lombok — termasuk peringkat TripAdvisor untuk destinasi alam, daftar pulau terbaik dunia, serta ranking kuat pulau-pulau Asia — memperkuat tesis investasi pariwisata jangka panjang proyek ini, dengan target operator hotel berantai luxury seperti Bulgari Hotels (bersama Marriott) dan Langham Hotels & Resorts.",
+    "overviewTitle": "Ikhtisar Proyek",
+    "sector": "Sektor",
+    "sectorValue": "Hospitality · Resort · Pariwisata",
+    "origin": "Pengembang",
+    "originValue": "PT. EGI Property Nusantara",
+    "locationLabel": "Lokasi",
+    "locationValue": "Pulau Gilipoh · ~2,5 km lepas pantai, Lombok",
+    "capacity": "Komponen Masterplan",
+    "capacityValue": "Gili Paradise Resort · Xarrin Resort & Spa · Yacht Club & Bar · Beach Club",
+    "positioning": "Positioning",
+    "positioningValue": "Destinasi Resort Pulau Prestisius di Asia",
+    "closing": "Gili Paradise Resort & Spa menunjukkan kapabilitas Indonesia dalam mengembangkan hospitality pulau yang eksklusif dan berpijak pada alam — aset pariwisata domestik andalan dalam ekosistem Indonesia–Euroasia Pavilion.",
+    "impactTitle": "Signifikansi Strategis",
+    "impactLead": "Dalam ekosistem Indonesia–Euroasia Pavilion, Gili Paradise menyoroti:",
+    "impactItems": [
+      "Hospitality overwater mewah di pulau privat Lombok",
+      "Masterplan terintegrasi: twin resorts, yacht club, dan beach club",
+      "Selaras dengan pengakuan pariwisata global Lombok yang terus naik",
+      "Kapasitas developer Indonesia melalui PT. EGI Property Nusantara"
+    ],
+    "investmentTitle": "Dampak Proyek",
+    "investmentP1": "Dengan menempatkan destinasi resort premium di Pulau Gilipoh, proyek ini memperluas penawaran pariwisata kelas atas Indonesia dan menunjukkan kapabilitas properti EGI di luar aset komersial perkotaan.",
+    "investmentP2": "Bagi mitra dan investor Pavilion, Gili Paradise menjadi sinyal jelas ambisi hospitality Indonesia di dalam negeri — pelengkap investasi hotel lintas batas di Eurasia.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Menjembatani investor Indonesia dengan pemerintah, pemimpin bisnis, dan peluang investasi Eurasia.",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Kembali ke proyek"
+  },
+  "services": {
+    "eyebrow": "Pusat Terpadu",
+    "title": "Layanan Kami",
+    "lead": "Enam pilar inti yang mendukung perdagangan, investasi, dan pengembangan kemitraan antara Indonesia dan Eurasia.",
+    "items": {
+      "digital": {
+        "title": "Platform Bisnis Digital",
+        "tagline": "Satu Platform. Peluang Bisnis Tanpa Batas.",
+        "desc": "Platform Bisnis Digital Indonesia–Euroasia Pavilion adalah ekosistem online terpadu yang menghubungkan bisnis, investor, lembaga pemerintah, dan mitra strategis di Indonesia serta Eurasia. Melalui satu platform, anggota dapat mengakses sumber daya eksklusif, terhubung dengan perusahaan terverifikasi, dan berpartisipasi dalam program Pavilion.",
+        "listLabel": "Fitur",
+        "list": [
+          "Dashboard Anggota",
+          "Direktori Bisnis Terverifikasi",
+          "Showcase Perusahaan & Produk",
+          "Papan Peluang Bisnis",
+          "Perpustakaan Market Intelligence",
+          "Registrasi Event"
+        ]
+      },
+      "matching": {
+        "title": "Business Matching",
+        "tagline": "Menghubungkan Bisnis yang Tepat melalui Event Terkurasi",
+        "desc": "Program Business Matching kami menghubungkan bisnis, investor, pembeli, pemasok, dan lembaga pemerintah melalui event networking serta pertemuan one-on-one yang terkurasi. Setiap sesi dirancang untuk menciptakan kemitraan bermakna dan peluang bisnis nyata.",
+        "listLabel": "Program",
+        "list": [
+          "Business Matching B2B",
+          "Pertemuan Bisnis B2G",
+          "Sesi Investor Matching",
+          "CEO Roundtables",
+          "Event Networking Bisnis",
+          "Delegasi Bisnis"
+        ]
+      },
+      "promotion": {
+        "title": "Promosi Perdagangan",
+        "tagline": "Mempromosikan Bisnis di Pasar Internasional",
+        "desc": "Pavilion menyelenggarakan aktivitas promosi perdagangan internasional untuk meningkatkan eksposur pasar, memperkuat hubungan bisnis, dan mendukung perdagangan lintas negara antara Indonesia dan Eurasia.",
+        "listLabel": "Program",
+        "list": [
+          "Misi Dagang Internasional",
+          "Pameran & Expo Perdagangan",
+          "Forum Bisnis",
+          "Showcase Produk",
+          "Forum Investasi",
+          "Resepsi Networking"
+        ]
+      },
+      "intelligence": {
+        "title": "Intelijen Pasar",
+        "tagline": "Insight Pasar Eksklusif untuk Anggota Pavilion",
+        "desc": "Dapatkan akses ke intelijen bisnis, analisis ekonomi, dan laporan pasar yang andal untuk mendukung keputusan bisnis strategis. Laporan dan sumber daya premium tersedia sesuai tingkatan keanggotaan.",
+        "listLabel": "Sumber Daya",
+        "list": [
+          "Laporan Pasar Negara",
+          "Laporan Industri",
+          "Statistik Perdagangan",
+          "Update Regulasi",
+          "Peluang Investasi",
+          "Outlook Pasar Kuartalan"
+        ]
+      },
+      "investment": {
+        "title": "Fasilitasi Investasi",
+        "tagline": "Menghubungkan Modal dengan Peluang",
+        "desc": "Kami mendukung investor dan pemilik proyek dengan memfasilitasi kemitraan strategis, menghubungkan peluang investasi, serta mendampingi inisiatif investasi lintas negara antara Indonesia dan Eurasia.",
+        "listLabel": "Layanan",
+        "list": [
+          "Investment Matchmaking",
+          "Fasilitasi Joint Venture",
+          "Promosi Proyek",
+          "Koordinasi Pemerintah",
+          "Advisory Investasi",
+          "Networking Investor"
+        ]
+      },
+      "export": {
+        "title": "Bantuan Ekspor–Impor",
+        "tagline": "Mendukung Perdagangan Internasional yang Sukses",
+        "desc": "Bantuan ekspor-impor kami membantu bisnis menavigasi persyaratan perdagangan internasional agar market entry lebih lancar dan operasional lintas batas lebih efisien.",
+        "listLabel": "Layanan",
+        "list": [
+          "Dokumentasi Ekspor & Impor",
+          "Panduan Bea Cukai",
+          "Koordinasi Logistik",
+          "Kepatuhan Produk",
+          "Dukungan Sertifikasi Halal",
+          "Konsultasi Perdagangan"
+        ]
+      }
+    },
+    "learnMore": "Selengkapnya",
+    "back": "Kembali ke layanan",
+    "otherServices": "Layanan lainnya"
+  },
+  "commodities": {
+    "eyebrow": "Perdagangan",
+    "title": "Portofolio Perdagangan Prioritas",
+    "lead": "Koridor komoditas strategis antara Indonesia dan Eurasia. Klik komoditas untuk informasi umum pasar.",
+    "toEurasia": "Indonesia ke Eurasia",
+    "toIndonesia": "Eurasia ke Indonesia",
+    "learnMore": "Selengkapnya",
+    "back": "Kembali ke komoditas",
+    "production": "Produksi",
+    "locations": "Lokasi utama",
+    "types": "Jenis utama",
+    "overview": "Ikhtisar",
+    "details": {
+      "coffee": {
+        "name": "Kopi",
+        "overview": "Indonesia termasuk produsen kopi terkemuka dunia dan pemasok jangka panjang Arabica spesialti maupun Robusta komersial. Geografi kepulauan menciptakan profil cita rasa yang khas dan semakin diminati importir, roaster, serta pembeli hospitality di Eurasia.",
+        "body": "Budidaya kopi Indonesia didominasi petani rakyat dengan identitas regional kuat di Sumatera, Sulawesi, Jawa, Bali, dan Flores. Struktur ini mendukung kontrak volume sekaligus program single-origin premium. Bagi mitra Eurasia, kopi Indonesia menawarkan diversifikasi di luar origin Amerika Latin dan Afrika — termasuk untuk espresso blend, kopi kemasan ritel, dan pasokan foodservice.",
+        "production": "Perkiraan umum produksi kopi Indonesia berada di kisaran 10–12 juta karung per tahun, dengan Robusta mendominasi volume dan Arabica memimpin segmen spesialti. Ketersediaan ekspor berlangsung sepanjang tahun, sementara puncak panen berbeda antar pulau dan ketinggian.",
+        "locations": "Wilayah utama meliputi Gayo Aceh dan Lampung (Sumatera), Toraja dan Kalosi (Sulawesi), dataran tinggi Jawa Timur/Tengah, Kintamani (Bali), serta Bajawa (Flores). Setiap origin punya karakter rasa yang membantu diferensiasi merek dan pembeli.",
+        "types": "Arabica (spesialti, washed/natural), Robusta (bahan soluble dan espresso blend), Luwak dan grade niche lain, green bean untuk roasting, serta produk value-added roasted/ground untuk ritel dan HORECA.",
+        "opportunity": "Pasar Eurasia menunjukkan minat meningkat terhadap kopi spesialti dan konsumsi di kawasan Asia Tengah/sekitarnya. Eksportir Indonesia dapat masuk lewat pasokan green bean, kemitraan private-label roasting, dan kontrak offtake jangka panjang melalui business matching Pavilion.",
+        "quality": "Pembeli biasanya menilai screen size, defect count, kadar air, cupping score, serta opsi sertifikasi (organik, program fair-trade aligned, dan dokumentasi ketertelusuran). Grading konsisten dan logistik siap kontainer sangat penting untuk pengadaan berulang."
+      },
+      "cocoa": {
+        "name": "Kakao",
+        "overview": "Kakao adalah komoditas perkebunan strategis Indonesia yang menopang ratusan ribu petani serta rantai pasok cokelat, confectionery, dan bahan baku industri global. Indonesia tetap menjadi sumber penting biji kakao dan produk semi-olah di Asia.",
+        "body": "Sebagian besar kakao Indonesia dihasilkan petani rakyat, dengan Sulawesi sebagai jantung produksi historis. Program perbaikan fermentasi, pengeringan, dan pascapanen terus meningkatkan daya saing. Bagi produsen cokelat dan pembeli bahan baku Eurasia, Indonesia menawarkan diversifikasi geografis serta peluang kontrak bulk maupun inisiatif fine-flavor.",
+        "production": "Perkiraan umum produksi kakao Indonesia di atas 200.000 ton per tahun, dipengaruhi cuaca, peremajaan kebun, dan siklus hama. Volume ekspor mencakup biji serta produk intermediate sesuai kapasitas prosesor.",
+        "locations": "Sentra utama meliputi Sulawesi Selatan, Tenggara, dan Tengah, plus produksi di Sumatera dan Papua. Pusat pengumpulan/pengolahan di sekitar Makassar dan pelabuhan regional mendukung agregasi dan ekspor.",
+        "types": "Biji kakao bulk, biji fermentasi & kering, liquor, butter, powder, dan nibs untuk manufaktur confectionery dan minuman. Lot spesialti/traceable mulai berkembang untuk pembeli premium Eurasia.",
+        "opportunity": "Industri confectionery dan dairy Eurasia membutuhkan input kakao yang stabil. Pemasok Indonesia dapat memosisikan biji komoditas maupun produk semi-olah, sementara Pavilion membantu menghubungkan eksportir dengan importir, prosesor, dan mitra joint venture.",
+        "quality": "Pembeli internasional melihat bean count, tingkat fermentasi, kadar air, indikator free fatty acid, dan kontrol kontaminasi. Fermentasi lebih baik serta higiene gudang menaikkan penerimaan untuk aplikasi cokelat Eurasia."
+      },
+      "spices": {
+        "name": "Rempah-rempah",
+        "overview": "Indonesia adalah pusat rempah historis dunia — asal cengkeh, pala, dan jalur lada utama. Kini Indonesia tetap memasok rempah kuliner, farmasi, dan industri pangan internasional, termasuk Eurasia.",
+        "body": "Sektor rempah memadukan sistem produksi kepulauan tradisional dengan pengemasan ekspor dan kontrol mutu modern. Permintaan dari manufaktur pangan Eurasia, merek rempah ritel, dan prosesor bersertifikasi Halal terus tumbuh — terutama lada, pala/fuli, cengkeh, kayu manis, dan vanili.",
+        "production": "Produksi bersifat multi-komoditas, bukan satu tanaman tunggal. Volume ekspor tetap kuat pada kategori cengkeh, pala, lada, dan kayu manis, didukung kalender panen yang saling mengisi antar pulau.",
+        "locations": "Maluku dan Maluku Utara (cengkeh, pala), Lampung dan koridor Bangka (lada), Sumatera dan Jawa (kayu manis dan rempah campuran), Sulawesi (klaster cengkeh dan pala). Agregasi biasanya lewat pedagang regional ke pelabuhan ekspor utama.",
+        "types": "Cengkeh (utuh dan bubuk), pala dan fuli, lada hitam dan putih, kayu manis/cassia, vanili, jahe, serta campuran bumbu industri. Format mentah maupun olahan/bubuk diperdagangkan.",
+        "opportunity": "Industri pangan, pengolahan daging, bakery, dan minuman Eurasia butuh input rempah andal. Eksportir Indonesia dapat memperbesar pangsa lewat kemitraan contract farming, pengolahan Halal-compliant, dan introduksi pembeli oleh Pavilion.",
+        "quality": "Spesifikasi penting meliputi kadar air, kadar minyak atsiri, kebersihan, kontrol aflatoksin (bila relevan), dan konsistensi grind. Dokumen ekspor dan kepatuhan phytosanitary wajib untuk masuk pasar Eurasia."
+      },
+      "halal-products": {
+        "name": "Produk Halal",
+        "overview": "Indonesia memiliki salah satu ekosistem Halal paling berkembang di dunia, mencakup pangan, minuman, bahan baku, dan semakin banyak produk lifestyle. Ini membuat produk Halal Indonesia sangat relevan bagi konsumen Muslim dan rantai pasok tersertifikasi di Eurasia.",
+        "body": "Selain permintaan domestik, manufaktur Indonesia memperluas SKU Halal siap ekspor — dari bumbu dan makanan olahan hingga minuman serta produk convenience. Kerangka sertifikasi, kapasitas industri di Jawa, dan inovasi UMKM membentuk pipeline produk yang luas untuk distributor Eurasia.",
+        "production": "Output berasal dari basis manufaktur nasional yang luas. Grup F&B besar dan UMKM tersertifikasi menghasilkan volume berkelanjutan untuk saluran domestik dan ekspor.",
+        "locations": "Jabodetabek, Jawa Barat, Jawa Timur, dan kawasan industri utama menjadi pusat kapasitas pengolahan tersertifikasi. Akses pelabuhan dan cold-chain di Jawa mendukung konsolidasi ekspor.",
+        "types": "Makanan olahan, minuman, bumbu dan saus, siap saji, camilan, bahan bakery, serta selected consumables lifestyle Halal. Manufaktur private-label juga tersedia untuk mitra ritel Eurasia.",
+        "opportunity": "Pasar Eurasia dengan populasi Muslim yang tumbuh dan rak ritel Halal menjadi pintu masuk jelas. Pavilion dapat menghubungkan produsen tersertifikasi dengan importir, pembeli supermarket, dan grup foodservice.",
+        "quality": "Integritas sertifikasi Halal, akurasi label, stabilitas shelf-life, dan sistem keamanan pangan (praktik HACCP/ISO-aligned) bersifat menentukan. Eksportir perlu menyiapkan paket label bilingual dan dossier kepatuhan siap importir."
+      },
+      "furniture": {
+        "name": "Furnitur",
+        "overview": "Furnitur Indonesia dikenal internasional lewat craftsmanship jati, mahoni, rotan, dan koleksi outdoor. Sektor ini melayani pasar residensial, kontrak, dan hospitality — cocok dengan permintaan hotel, properti, dan ritel Eurasia.",
+        "body": "Produksi berkisar dari bengkel artisan di Jepara hingga pabrik ekspor berskala kontainer. Kapabilitas desain semakin memadukan material Indonesia dengan gaya internasional kontemporer. Bagi pembeli Eurasia, furnitur Indonesia menawarkan nilai kompetitif untuk indoor/outdoor, fit-out hospitality, dan manufaktur OEM.",
+        "production": "Sektor berorientasi ekspor dengan siklus produksi berkelanjutan. Lead time bergantung material, kompleksitas finishing, dan volume pesanan; eksportir mapan rutin menangani pengiriman full-container.",
+        "locations": "Jepara dan sekitarnya di Jawa Tengah tetap jadi hub craft ikonik. Kapasitas tambahan ada di Jawa Timur dan Bali untuk furnitur design-led dan outdoor, dengan finishing/logistik sering dikonsolidasikan lewat pelabuhan Jawa.",
+        "types": "Furnitur kayu solid indoor, set outdoor/garden, koleksi rotan dan material campuran, furnitur kontrak hospitality, serta lini OEM/private-label untuk rantai ritel.",
+        "opportunity": "Pertumbuhan hospitality dan pengembangan residensial di Eurasia mendorong permintaan furnitur yang durable dan design-ready. Manufaktur Indonesia dapat bermitra untuk pasokan proyek, distribusi ritel, dan koleksi desain bersama melalui fasilitasi Pavilion.",
+        "quality": "Pembeli menilai grading kayu, kadar air, daya tahan finishing, standar hardware, kekuatan kemasan, dan kepatuhan aturan impor tujuan. Protokol QC foto dan pre-shipment inspection meningkatkan kepercayaan perdagangan jarak jauh."
+      },
+      "fisheries": {
+        "name": "Perikanan",
+        "overview": "Sumber daya laut dan akuakultur menjadikan perikanan pilar ekspor penting Indonesia. Dari tuna dan udang hingga rumput laut, seafood Indonesia memasok ritel, foodservice, dan industri di Asia, Timur Tengah, serta semakin ke Eurasia.",
+        "body": "Sektor mencakup perikanan tangkap dan akuakultur yang tumbuh cepat. Perbaikan cold-chain dan pabrik pengolahan memungkinkan ekspor frozen serta produk value-added. Importir Eurasia yang mencari diversifikasi protein dan seafood Halal-compatible dapat bersumber dari Indonesia dengan protokol ekspor mapan.",
+        "production": "Output nasional dari tangkap dan akuakultur termasuk yang terbesar di dunia secara volume. Produk ekspor terutama dalam bentuk beku, dengan ketersediaan sepanjang tahun untuk spesies utama tergantung musim dan siklus budidaya.",
+        "locations": "Bitung dan koridor Indonesia Timur penting untuk tuna; Laut Jawa dan Sumatera mendukung udang serta seafood campuran; Sulawesi dan Maluku berkontribusi pada tangkap dan rumput laut. Hub pengolahan dekat pelabuhan memudahkan konsolidasi ekspor.",
+        "types": "Tuna (segar/beku/loin), udang, kepiting, kakap dan demersal campuran, rumput laut serta material terkait karagenan, plus seafood breaded/olahan untuk foodservice.",
+        "opportunity": "Rantai ritel, HORECA, dan prosesor Eurasia membutuhkan pasokan seafood beku yang stabil. Eksportir Indonesia dapat bersaing lewat variasi spesies, kesiapan pengolahan Halal, dan kontrak jangka panjang didukung matching Pavilion.",
+        "quality": "Kontrol kritis meliputi integritas suhu, sistem HACCP, uji residu, autentisitas spesies, dan kemasan untuk transit panjang. Dokumentasi tangkapan dan registrasi pabrik harus sesuai aturan pasar tujuan."
+      },
+      "cosmetics": {
+        "name": "Kosmetik",
+        "overview": "Industri kosmetik dan personal care Indonesia berkembang cepat, didorong bahan alami, tradisi herbal, dan ekosistem merek/UMKM yang kuat. Minat ekspor meningkat untuk skincare dan formulasi botanical.",
+        "body": "Merek lokal semakin memenuhi ekspektasi kemasan dan regulasi internasional, sementara contract manufacturer mendukung produksi private-label. Bagi distributor Eurasia, kosmetik Indonesia dapat mengisi niche natural/herbal dan segmen value, terutama bila botanical tropis dan kosmetik Halal dihargai.",
+        "production": "Kapasitas manufaktur terkonsentrasi pada pabrik menengah dan fasilitas kosmetik berizin dengan SKU ekspor yang bertambah. Volume fleksibel — dari pengiriman uji coba hingga replenishment ritel berkelanjutan.",
+        "locations": "Jabodetabek, Jawa Barat, dan Jawa Timur menjadi pusat produksi berizin, R&D, dan rantai pasok kemasan. Sumber bahan baku juga dapat berasal dari Sumatera dan kawasan botanical lain.",
+        "types": "Skincare (serum, krim, cleanser), kosmetik herbal/tradisional-inspired, personal care (rambut dan tubuh), lini bahan alami, serta produk kecantikan bersertifikasi Halal.",
+        "opportunity": "Ritel kecantikan dan kanal online Eurasia membuka ruang bagi kosmetik natural Indonesia. Pavilion membantu memperkenalkan merek dan pabrik OEM kepada distributor, penjual marketplace, serta grup apotek/ritel.",
+        "quality": "Kepatuhan notifikasi/registrasi kosmetik, uji stabilitas, transparansi bahan, dan standar kemasan sangat penting. Importir biasanya meminta COA, MSDS bila relevan, dan label jelas dalam bahasa tujuan."
+      },
+      "wood-products": {
+        "name": "Produk Kayu",
+        "overview": "Produk kayu olahan adalah kekuatan ekspor Indonesia yang sudah lama, mencakup plywood, veneer, produk jati, dan panel engineered untuk konstruksi, furnitur, dan industri.",
+        "body": "Industri pengolahan Indonesia mengubah sumber kayu domestik/terkelola menjadi panel dan barang kayu grade ekspor. Manufaktur konstruksi, interior, dan furnitur Eurasia dapat memakai produk kayu Indonesia sebagai input kompetitif ketika dokumentasi legalitas dan mutu jelas.",
+        "production": "Industri menghasilkan volume signifikan plywood dan panel terkait, serta produk jati spesialti dan engineered. Pengiriman ekspor biasanya dikontainerisasi menurut grade dan spesifikasi ketebalan.",
+        "locations": "Kalimantan dan Sumatera adalah wilayah kayu dan pengolahan utama, sementara Jawa menjadi hub finishing, fabrikasi, dan konsolidasi ekspor yang terhubung pelabuhan internasional.",
+        "types": "Plywood, veneer, komponen/produk jati, panel engineered wood, material terkait flooring, dan kayu semi-jadi untuk manufaktur furnitur.",
+        "opportunity": "Permintaan infrastruktur dan perumahan di Eurasia mendukung perdagangan panel dan input kayu. Pabrik Indonesia dapat mengejar kemitraan distributor, pasokan berbasis proyek, dan lini produk tersertifikasi lewat jejaring Pavilion.",
+        "quality": "Pembeli fokus pada tipe lem, toleransi ketebalan, face grade, kadar air, standar formaldehida, dan dokumentasi legalitas kayu. Catatan chain-of-custody yang jelas memperkuat akses pasar."
+      },
+      "cotton-textiles": {
+        "name": "Kapas & Tekstil",
+        "overview": "Eurasia — khususnya Asia Tengah — adalah kawasan kapas dan tekstil penting dunia. Rantai pasok ini sangat relevan bagi industri apparel, kain, dan home-textile Indonesia yang membutuhkan serat, benang, dan kain.",
+        "body": "Uzbekistan dan pasar tetangga punya warisan produksi kapas serta kapasitas pengolahan tekstil yang terus naik. Manufaktur garmen dan tekstil Indonesia dapat bersumber kapas mentah, benang, dan greige/finished fabric untuk melengkapi kebutuhan industri domestik. Kolaborasi juga bisa mencakup produksi bersama dan model apparel re-export.",
+        "production": "Panen kapas Asia Tengah dan kapasitas spinning menghasilkan volume besar serat dan benang setiap tahun. Textile park terus naik kelas ke fabric dan barang jadi bernilai lebih tinggi.",
+        "locations": "Uzbekistan adalah hub kapas inti, dengan relevansi tambahan dari Kazakhstan dan klaster tekstil regional yang melayani pasar Eurasia serta ekspor.",
+        "types": "Kapas mentah, benang carded/combed, greige fabric, finished fabric, home textile, dan selected input apparel.",
+        "opportunity": "Pabrik dan eksportir garmen Indonesia dapat mengamankan sumber kapas/tekstil alternatif, sementara produsen Eurasia mendapat akses permintaan manufaktur ASEAN. Matching Pavilion mendukung kunjungan pabrik, sampling, dan penyusunan kontrak.",
+        "quality": "Parameter kunci meliputi staple length, micronaire, konsistensi yarn count, GSM kain, colorfastness, dan kepatuhan kimia untuk pasar apparel. Persetujuan sampel dan uji lab menjadi standar sebelum order bulk."
+      },
+      "wheat": {
+        "name": "Gandum",
+        "overview": "Gandum adalah salah satu ekspor agri terpenting Eurasia dan impor strategis bagi industri tepung serta pengolahan pangan Indonesia. Pasokan biji yang stabil menopang mie, bakery, dan kebutuhan tepung rumah tangga.",
+        "body": "Rusia, Kazakhstan, dan koridor terkait membentuk kompleks gandum global dengan logistik bulk yang kompetitif. Miller dan manufaktur pangan Indonesia memantau kadar protein, mutu panen, dan ekonomi freight dengan cermat. Hubungan pasokan jangka panjang dapat meredam volatilitas dan mendukung perencanaan industri pangan.",
+        "production": "Kawasan breadbasket Eurasia menghasilkan volume gandum tahunan tinggi untuk konsumsi domestik dan ekspor. Ketersediaan ke Indonesia bergantung mutu panen, kebijakan ekspor, dan logistik pengapalan.",
+        "locations": "Rusia Selatan, sabuk gandum Kazakhstan, dan koridor ekspor terhubung adalah origin utama untuk milling dan feed wheat ke Asia.",
+        "types": "Milling wheat (berbagai kelas protein), feed wheat, serta intermediate terkait industri tepung sesuai spesifikasi kontrak.",
+        "opportunity": "Permintaan gandum struktural Indonesia membuka ruang diskusi offtake langsung, cargo uji coba, dan hubungan pemasok terpercaya yang difasilitasi Pavilion.",
+        "quality": "Pembeli menspesifikasi protein, gluten, kadar air, test weight, falling number, dan batas mikotoksin. Sertifikat surveyor independen di load port umum diperlukan untuk perdagangan bulk."
+      },
+      "fruits": {
+        "name": "Buah Segar/Kering",
+        "overview": "Asia Tengah dan Kaukasus dikenal kuat di hortikultura buah — anggur, aprikot, melon, serta beragam buah kering untuk snacking ritel dan manufaktur pangan.",
+        "body": "Uzbekistan dan negara tetangga memasok buah segar musiman serta industri buah kering yang kompetitif global (kismis, aprikot kering, campuran buah kering). Importir, ritel, dan prosesor pangan Indonesia dapat memakai produk ini untuk kemasan konsumen, bakery inclusion, dan formulasi bahan baku.",
+        "production": "Output hortikultura kuat secara musiman; pengolahan buah kering memungkinkan ketersediaan ekspor sepanjang tahun setelah puncak panen. Volume mendukung kontrak bahan bulk maupun kemasan siap ritel.",
+        "locations": "Uzbekistan adalah origin unggulan buah kering dan anggur; Tajikistan, Azerbaijan, dan Armenia juga berkontribusi pada stone fruits, anggur, dan produk kering spesialti.",
+        "types": "Anggur dan stone fruits segar (musiman), kismis, aprikot kering, campuran buah kering, serta bahan buah industri untuk confectionery dan bakery.",
+        "opportunity": "Ritel modern dan manufaktur F&B Indonesia dapat mendiversifikasi sourcing buah lewat pemasok Eurasia. Dukungan Pavilion membantu introduksi importir, sampling, dan penyelarasan cold-chain/kemasan.",
+        "quality": "Importir memeriksa kadar air (buah kering), grading ukuran, deklarasi perlakuan sulfur, residu pestisida, higiene kemasan, dan performa shelf-life pada distribusi tropis."
+      },
+      "petrochemicals": {
+        "name": "Petrokimia",
+        "overview": "Eurasia memiliki kompleks energi dan petrokimia besar yang memasok polimer serta bahan kimia industri untuk rantai kemasan, manufaktur, dan infrastruktur — termasuk pusat permintaan di Indonesia.",
+        "body": "Perdagangan petrokimia Eurasia–Indonesia dapat mencakup polimer komoditas dan intermediate terpilih untuk pabrik hilir. Converter Indonesia di kemasan, plastik, dan material industri terus mencari feedstock/resin kompetitif. Engagement B2B terstruktur membantu menyelaraskan grade, logistik, dan syarat kontrak.",
+        "production": "Kompleks skala besar menghasilkan volume polimer dan kimia substansial untuk kebutuhan domestik Eurasia dan ekspor. Ketersediaan tergantung utilisasi pabrik, siklus maintenance, dan kondisi kebijakan perdagangan.",
+        "locations": "Pusat industri Rusia dan Eurasia lain dengan kapasitas refining/petrokimia terintegrasi menjadi origin utama grade ekspor.",
+        "types": "Polimer komoditas, bahan kimia dasar, dan intermediate industri untuk kemasan, material konstruksi, dan manufaktur.",
+        "opportunity": "Manufaktur hilir Indonesia dapat mengeksplorasi pasokan Eurasia untuk biaya dan diversifikasi, sementara kanal Pavilion mendukung matching teknis antara produsen dan converter.",
+        "quality": "Lembar spesifikasi grade, data MFI/viskositas, kontrol kontaminasi, serta standar penanganan/kemasan sangat penting. Lot uji coba dan verifikasi lab biasanya mendahului kontrak tahunan."
+      },
+      "metals": {
+        "name": "Logam",
+        "overview": "Eurasia adalah kawasan logam besar yang memproduksi baja dan material non-ferrous untuk konstruksi, fabrikasi, dan manufaktur industri — relevan bagi permintaan infrastruktur dan pengolahan Indonesia.",
+        "body": "Peluang perdagangan mencakup produk baja, aluminium, tembaga, dan bentuk semi-jadi terkait. Pembeli Indonesia di konstruksi, fabrikasi, dan manufaktur dapat mengevaluasi mill Eurasia untuk pasokan kompetitif, sementara eksportir mencari akses pasar ASEAN lewat jejaring importir andal.",
+        "production": "Kawasan mempertahankan output ferrous dan non-ferrous signifikan yang ditopang kapasitas tambang dan smelter. Penawaran ekspor biasanya disusun menurut grade, dimensi, dan ukuran lot pengiriman.",
+        "locations": "Rusia dan Kazakhstan sentral bagi rantai logam dan tambang, dengan sabuk industri regional mendukung pengolahan dan logistik ekspor.",
+        "types": "Produk baja (coil, plate, long products sesuai ketersediaan), aluminium, tembaga, dan bentuk logam spesialti untuk penggunaan industri.",
+        "opportunity": "Siklus infrastruktur Indonesia menciptakan permintaan logam berulang. Pavilion dapat menghubungkan mill, trader, dan end-user Indonesia seputar spesifikasi, diskusi pembiayaan, dan perencanaan pengiriman.",
+        "quality": "Komposisi kimia, sifat mekanik, mill test certificate, toleransi dimensi, dan kondisi permukaan menentukan penerimaan. Inspeksi independen sering diwajibkan untuk pengiriman pertama."
+      },
+      "minerals": {
+        "name": "Mineral",
+        "overview": "Kekayaan mineral Eurasia mencakup spektrum luas mineral industri dan bijih untuk pengolahan, manufaktur, serta industri terkait energi. Sumber daya ini menopang kemitraan pasokan jangka panjang dengan pembeli Asia termasuk Indonesia.",
+        "body": "Perdagangan mineral biasanya berbasis hubungan dan sangat bergantung spesifikasi. Pengguna industri Indonesia dapat bersumber selected mineral inputs untuk pengolahan, sementara produsen Eurasia mencari mitra offtake yang stabil. Kolaborasi dapat berkembang dari cargo uji coba hingga kerangka pasokan multi-tahun.",
+        "production": "Kapasitas tambang dan pengolahan mineral bervariasi per komoditas, mencakup mineral industri bulk maupun bijih bernilai lebih tinggi tergantung proyek dan wilayah.",
+        "locations": "Kazakhstan, Rusia, dan kawasan tambang Asia Tengah yang lebih luas memiliki endapan beragam serta fasilitas pengolahan yang terhubung sistem ekspor kereta dan pelabuhan.",
+        "types": "Mineral industri, bijih logam, dan input pengolahan untuk aplikasi semen, metalurgi, kimia, dan manufaktur.",
+        "opportunity": "Pavilion dapat memfasilitasi introduksi teknis antara perusahaan tambang, trader, dan konsumen industri Indonesia yang mencari diversifikasi pasokan mineral.",
+        "quality": "Sertifikat assay, ukuran partikel, profil impurity, deklarasi keselamatan bila relevan, dan konsistensi mutu lot adalah persyaratan inti pembeli."
+      },
+      "fertilizers": {
+        "name": "Pupuk",
+        "overview": "Pupuk adalah perdagangan input pertanian strategis antara Eurasia dan Indonesia. Produk nitrogen dan terkait potash dari produsen Eurasia membantu produktivitas tanaman pangan dan perkebunan Indonesia.",
+        "body": "Sektor pertanian Indonesia membutuhkan pasokan pupuk andal untuk tanaman pangan dan kebun. Produsen Eurasia dengan kapasitas nitrogen besar merupakan peserta mapan di pasar pupuk global. Pengadaan terstruktur dan perencanaan musiman penting karena kalender tanam dan siklus harga.",
+        "production": "Pabrik Eurasia menghasilkan volume besar urea dan pupuk terkait untuk pasar domestik maupun ekspor. Program pengiriman umum disusun mengikuti jendela permintaan musiman di Asia.",
+        "locations": "Rusia, Belarus, dan hub pupuk Asia Tengah adalah origin utama, didukung logistik maritim bulk ke pelabuhan bongkar di Asia.",
+        "types": "Urea, blend NPK, pupuk terkait potash, dan produk hara lain sesuai slate pabrik dan alokasi ekspor.",
+        "opportunity": "Distributor, blender, dan grup perkebunan Indonesia dapat menjajaki engagement langsung dengan produsen Eurasia melalui introduksi dan diskusi offtake yang didukung Pavilion.",
+        "quality": "Jaminan kandungan hara, kadar air, kekuatan granul, ketahanan caking, dan kontrol kontaminasi adalah standar. Spesifikasi handling karung/bulk serta inspeksi di load/discharge port melindungi kedua belah pihak."
+      },
+      "industrial-machinery": {
+        "name": "Mesin Industri",
+        "overview": "Basis industri Eurasia memasok mesin dan peralatan yang relevan untuk upgrade manufaktur, agro-industri, dan pengembangan proyek. Bagi pabrik dan pemilik proyek Indonesia, ini dapat melengkapi sumber teknologi yang sudah ada.",
+        "body": "Perdagangan mesin industri bersifat project-based dan sangat teknis, mencakup matching spesifikasi, dukungan instalasi, dan after-sales. Manufaktur Eurasia untuk process equipment, mesin pertanian, dan lini industri dapat bermitra dengan pembeli Indonesia yang mencari capital goods hemat biaya serta opsi lokalisasi.",
+        "production": "Kapasitas berakar pada tradisi heavy industry dan pabrik machine-building modern. Pasokan biasanya make-to-order atau dikonfigurasi dari platform peralatan mapan, bukan pengiriman komoditas spot.",
+        "locations": "Rusia dan pusat industri Eurasia utama menjadi lokasi pabrik engineering, sementara proyek ekspor dikirim bersama dokumentasi teknis dan paket dukungan commissioning.",
+        "types": "Process equipment, mesin pertanian, lini pengemasan/pengolahan, serta sistem industri untuk fasilitas manufaktur dan agro-processing.",
+        "opportunity": "Kawasan industri, prosesor pangan, dan pengembang proyek Indonesia dapat mengevaluasi alternatif mesin Eurasia melalui matching Pavilion, kunjungan pabrik, dan diskusi pilot project.",
+        "quality": "Pembeli membutuhkan datasheet teknis jelas, jaminan performa, ketersediaan spare part, sertifikat kepatuhan, serta rencana training/commissioning. Komitmen after-sales sering menjadi penentu pemilihan vendor."
+      }
+    },
+    "marketOpportunity": "Peluang pasar",
+    "quality": "Mutu & standar",
+    "whyTrade": "Mengapa penting untuk perdagangan Indonesia–Eurasia",
+    "mapTitle": "Peta lokasi utama",
+    "mapLead": "Peta interaktif sentra produksi dan hub perdagangan (OpenStreetMap)."
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "lead": "Siap memulai kerja sama? Kirim pesan kepada kami dan tim kami akan segera merespons.",
+    "name": "Nama",
+    "email": "Email",
+    "subject": "Subjek",
+    "message": "Pesan",
+    "submit": "Kirim Pesan",
+    "sending": "Mengirim...",
+    "success": "Terima kasih. Pesan Anda berhasil dikirim.",
+    "error": "Terjadi kesalahan. Silakan coba lagi nanti.",
+    "namePlaceholder": "Nama lengkap Anda",
+    "emailPlaceholder": "anda{'@'}perusahaan.com",
+    "subjectPlaceholder": "Bagaimana kami dapat membantu?",
+    "messagePlaceholder": "Ceritakan tentang pertanyaan atau minat kerja sama Anda"
+  },
+  "footer": {
+    "tagline": "Menghubungkan Indonesia dan Eurasia melalui kerja sama B2B yang terpercaya.",
+    "email": "info{'@'}indo-euroasia.com",
+    "rights": "Hak cipta dilindungi.",
+    "navigate": "Navigasi"
+  },
+  "membership": {
+    "eyebrow": "Bergabung",
+    "title": "Keanggotaan",
+    "lead": "Buka Peluang Bisnis Eksklusif",
+    "body": "Menjadi bagian dari komunitas bisnis eksklusif yang menghubungkan Indonesia dan Eurasia. Keanggotaan memberikan akses ke market intelligence premium, event networking, program business matching, serta layanan Pavilion untuk mendukung pertumbuhan internasional.",
+    "tiersLabel": "Tingkatan Keanggotaan",
+    "benefitsLabel": "Manfaat",
+    "cta": "Mulai Kerja Sama Hari Ini",
+    "tiers": {
+      "lite": {
+        "name": "Lite",
+        "desc": "Cocok untuk startup dan UMKM yang menjelajahi peluang bisnis internasional."
+      },
+      "pro": {
+        "name": "Pro",
+        "desc": "Dirancang untuk eksportir, importir, dan perusahaan berkembang yang mencari ekspansi pasar, kemitraan strategis, serta keuntungan anggota eksklusif termasuk diskon 10% di Cafe 7oz, Hadith Hotel Kampoeng Indonesia, dan Mecca Hotel."
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "desc": "Keanggotaan premium untuk korporasi, investor, dan institusi yang membutuhkan akses prioritas, networking eksekutif, dukungan khusus, serta keuntungan VIP termasuk diskon 20% di Cafe 7oz, Hadith Hotel Kampoeng Indonesia, dan Mecca Hotel."
+      }
+    },
+    "table": {
+      "headers": [
+        "Manfaat",
+        "Lite",
+        "Pro",
+        "Enterprise"
+      ],
+      "rows": [
+        {
+          "benefit": "Direktori Bisnis",
+          "lite": "✓",
+          "pro": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "benefit": "Profil Perusahaan",
+          "lite": "✓",
+          "pro": "✓",
+          "enterprise": "✓"
+        },
+        {
+          "benefit": "Showcase Produk",
+          "lite": "Basic",
+          "pro": "Advanced",
+          "enterprise": "Unlimited"
+        },
+        {
+          "benefit": "Market Intelligence",
+          "lite": "Basic",
+          "pro": "Full Access",
+          "enterprise": "Premium Access"
+        },
+        {
+          "benefit": "Business Matching",
+          "lite": "—",
+          "pro": "✓",
+          "enterprise": "Priority Access"
+        },
+        {
+          "benefit": "Event Promosi Perdagangan",
+          "lite": "Standard",
+          "pro": "Priority",
+          "enterprise": "VIP"
+        },
+        {
+          "benefit": "Konsultasi Bisnis",
+          "lite": "—",
+          "pro": "✓",
+          "enterprise": "Unlimited"
+        },
+        {
+          "benefit": "Relationship Manager Khusus",
+          "lite": "—",
+          "pro": "—",
+          "enterprise": "✓"
+        },
+        {
+          "benefit": "Diskon Exclusive Cafe 7oz",
+          "lite": "—",
+          "pro": "Diskon 10%",
+          "enterprise": "Diskon 20%"
+        },
+        {
+          "benefit": "Diskon Exclusive Hadith & Mecca Hotel",
+          "lite": "—",
+          "pro": "Diskon 10%",
+          "enterprise": "Diskon 20%"
+        }
+      ]
+    },
+    "teaser": "Tingkatan Lite, Pro, dan Enterprise dengan akses direktori, intelijen, matching, dan dukungan khusus.",
+    "viewPlans": "Lihat paket keanggotaan",
+    "back": "Kembali ke beranda"
+  }
+}

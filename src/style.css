@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Instrument Serif", Georgia, serif;
+  --color-navy-950: #071525;
+  --color-navy-900: #0c2340;
+  --color-navy-800: #14345c;
+  --color-navy-700: #1e4a7a;
+  --color-slate-ink: #2d3a4a;
+  --color-slate-muted: #5c6b7a;
+  --color-surface: #f5f7fa;
+  --color-border: #e4e9ef;
+  --color-accent: #b8860b;
+  --color-accent-soft: #f4ecd8;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  color: var(--color-slate-ink);
+  background-color: #ffffff;
+  font-size: 16px;
+  line-height: 1.75;
+  letter-spacing: 0.015em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+.font-display {
+  letter-spacing: 0.06em !important;
+  line-height: 1.4 !important;
+  word-spacing: 0.08em;
+}
+
+p {
+  line-height: 1.9;
+  letter-spacing: 0.025em;
+}
+
+a,
+button,
+li,
+dd,
+dt,
+span {
+  letter-spacing: 0.02em;
+}
+
+::selection {
+  background-color: color-mix(in srgb, var(--color-navy-900) 18%, white);
+  color: var(--color-navy-900);
+}
