@@ -1,10 +1,40 @@
 <script setup>
-import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 
-const { t, tm } = useI18n()
+const { t } = useI18n()
 
-const partners = computed(() => tm('partners.items'))
+const partners = [
+  {
+    name: '7oz Espresso',
+    href: 'https://7oz-espresso.com',
+    logo: '/images/partners/7oz.webp',
+    dark: true,
+  },
+  {
+    name: 'Hadith',
+    href: 'https://hadith-hotel.com',
+    logo: '/images/partners/hadith.png',
+    dark: true,
+  },
+  {
+    name: 'Kampoeng Indonesia Hotel',
+    href: 'https://hotel-kampoengindonesia.com/',
+    logo: '/images/partners/kampoeng.png',
+    dark: true,
+  },
+  {
+    name: 'Saji Nusantara',
+    href: 'https://saji-nusantara.com/id',
+    logo: '/images/partners/saji-nusantara.png',
+    dark: false,
+  },
+  {
+    name: 'Humble 8',
+    href: 'https://humble8.com/id',
+    logo: '/images/partners/humble8.jpeg',
+    dark: false,
+  },
+]
 </script>
 
 <template>
@@ -19,15 +49,25 @@ const partners = computed(() => tm('partners.items'))
         </h2>
       </div>
 
-      <ul class="mt-12 grid gap-x-8 gap-y-8 sm:grid-cols-2 lg:grid-cols-5">
-        <li
-          v-for="name in partners"
-          :key="name"
-          class="flex items-center justify-center border-t border-border pt-6 text-center"
-        >
-          <span class="text-sm font-semibold tracking-[0.08em] text-navy-900 uppercase">
-            {{ name }}
-          </span>
+      <ul class="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-5">
+        <li v-for="partner in partners" :key="partner.name">
+          <component
+            :is="partner.href ? 'a' : 'div'"
+            :href="partner.href || undefined"
+            :target="partner.href ? '_blank' : undefined"
+            :rel="partner.href ? 'noopener noreferrer' : undefined"
+            class="flex h-28 items-center justify-center px-4 transition"
+            :class="[
+              partner.dark ? 'bg-navy-950' : 'border border-border bg-white',
+              partner.href ? 'hover:opacity-90' : '',
+            ]"
+          >
+            <img
+              :src="partner.logo"
+              :alt="partner.name"
+              class="max-h-16 w-auto max-w-full object-contain"
+            />
+          </component>
         </li>
       </ul>
     </div>
