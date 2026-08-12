@@ -52,7 +52,7 @@ const overviewFields = computed(() => {
 
 const hasInvestment = computed(() => key.value && te(`${key.value}.investmentTitle`))
 const backTo = computed(() => {
-  if (['egiTower', 'humble8', 'gilipoh'].includes(key.value)) return '/projects/indonesia'
+  if (['egiTower', 'humble8'].includes(key.value)) return '/projects/indonesia'
   return '/projects/euroasia'
 })
 </script>

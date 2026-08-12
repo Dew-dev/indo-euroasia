@@ -72,11 +72,6 @@
         "title": "Humble 8",
         "desc": "Ruang co-living dan sosial premium di Jakarta dengan F&B, fasilitas kolaboratif, dan amenitas lifestyle komunitas.",
         "slug": "humble-8"
-      },
-      {
-        "title": "Gilipoh Resort & Paradise",
-        "desc": "Resort pulau mewah di Pulau Gilipoh, Lombok — overwater resort, yacht club, dan beach club oleh PT. EGI Property Nusantara.",
-        "slug": "gilipoh-resort"
       }
     ],
     "ongoingEurasia": [
@@ -266,43 +261,6 @@
     "investmentTitle": "Dampak Proyek",
     "investmentP1": "Sebagai lingkungan kolaboratif berbasis Jakarta, Humble 8 mendukung komunitas kreatif dan profesional Indonesia sekaligus memperluas jejak lifestyle dan F&B EGI.",
     "investmentP2": "Bersama EGI Tower dan proyek hospitality Eurasia, Humble 8 melengkapi gambaran kapabilitas Indonesia di properti, lifestyle, dan investasi hospitality lintas batas.",
-    "footerBrand": "Indonesia–Euroasia Pavilion",
-    "footerTagline": "Menjembatani investor Indonesia dengan pemerintah, pemimpin bisnis, dan peluang investasi Eurasia.",
-    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
-    "back": "Kembali ke proyek"
-  },
-  "gilipoh": {
-    "eyebrow": "Projects · Indonesia · Hospitality & Tourism",
-    "title": "Gili Paradise Resort & Spa",
-    "tagline": "Where Nature Meets Exclusivity",
-    "location": "Pulau Gilipoh, Lombok, Nusa Tenggara Barat, Indonesia",
-    "p1": "Gili Paradise Resort & Spa adalah destinasi resort pulau mewah yang dikembangkan PT. EGI Property Nusantara di Pulau Gilipoh, Lombok — pulau eksotis di Nusa Tenggara Barat yang dikenal dengan pantai berpasir putih, perairan jernih, dan budaya yang kaya, serta semakin diakui sebagai destinasi unggulan untuk pariwisata dan investasi.",
-    "p2": "Resort ini menawarkan pelarian mewah dengan dua overwater resort, bar, dan dermaga yacht di tengah pantai yang masih asli dan air yang jernih. Konsepnya memadukan alam, kenyamanan, dan keberlanjutan untuk pengalaman eksklusif yang tak terlupakan — diposisikan sebagai salah satu destinasi paling prestisius di Asia.",
-    "p3": "Berlokasi sekitar 2,5 km dari pantai, masterplan menggabungkan Gili Paradise Resort, Xarrin Resort & Spa, Yacht Club & Bar, serta Beach Club — enklave hospitality terintegrasi untuk menginap yang sangat privat, berorientasi alam dan wellness.",
-    "p4": "Pengakuan global Lombok — termasuk peringkat TripAdvisor untuk destinasi alam, daftar pulau terbaik dunia, serta ranking kuat pulau-pulau Asia — memperkuat tesis investasi pariwisata jangka panjang proyek ini, dengan target operator hotel berantai luxury seperti Bulgari Hotels (bersama Marriott) dan Langham Hotels & Resorts.",
-    "overviewTitle": "Ikhtisar Proyek",
-    "sector": "Sektor",
-    "sectorValue": "Hospitality · Resort · Pariwisata",
-    "origin": "Pengembang",
-    "originValue": "PT. EGI Property Nusantara",
-    "locationLabel": "Lokasi",
-    "locationValue": "Pulau Gilipoh · ~2,5 km lepas pantai, Lombok",
-    "capacity": "Komponen Masterplan",
-    "capacityValue": "Gili Paradise Resort · Xarrin Resort & Spa · Yacht Club & Bar · Beach Club",
-    "positioning": "Positioning",
-    "positioningValue": "Destinasi Resort Pulau Prestisius di Asia",
-    "closing": "Gili Paradise Resort & Spa menunjukkan kapabilitas Indonesia dalam mengembangkan hospitality pulau yang eksklusif dan berpijak pada alam — aset pariwisata domestik andalan dalam ekosistem Indonesia–Euroasia Pavilion.",
-    "impactTitle": "Signifikansi Strategis",
-    "impactLead": "Dalam ekosistem Indonesia–Euroasia Pavilion, Gili Paradise menyoroti:",
-    "impactItems": [
-      "Hospitality overwater mewah di pulau privat Lombok",
-      "Masterplan terintegrasi: twin resorts, yacht club, dan beach club",
-      "Selaras dengan pengakuan pariwisata global Lombok yang terus naik",
-      "Kapasitas developer Indonesia melalui PT. EGI Property Nusantara"
-    ],
-    "investmentTitle": "Dampak Proyek",
-    "investmentP1": "Dengan menempatkan destinasi resort premium di Pulau Gilipoh, proyek ini memperluas penawaran pariwisata kelas atas Indonesia dan menunjukkan kapabilitas properti EGI di luar aset komersial perkotaan.",
-    "investmentP2": "Bagi mitra dan investor Pavilion, Gili Paradise menjadi sinyal jelas ambisi hospitality Indonesia di dalam negeri — pelengkap investasi hotel lintas batas di Eurasia.",
     "footerBrand": "Indonesia–Euroasia Pavilion",
     "footerTagline": "Menjembatani investor Indonesia dengan pemerintah, pemimpin bisnis, dan peluang investasi Eurasia.",
     "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
@@ -597,6 +555,17 @@
     "emailPlaceholder": "anda{'@'}perusahaan.com",
     "subjectPlaceholder": "Bagaimana kami dapat membantu?",
     "messagePlaceholder": "Ceritakan tentang pertanyaan atau minat kerja sama Anda"
+  },
+  "partners": {
+    "eyebrow": "Ekosistem",
+    "title": "Mitra Kami",
+    "items": [
+      "7oz Espresso",
+      "Hadith",
+      "Kampoeng Indonesia Hotel",
+      "Saji Nusantara",
+      "Humble 8"
+    ]
   },
   "footer": {
     "tagline": "Menghubungkan Indonesia dan Eurasia melalui kerja sama B2B yang terpercaya.",

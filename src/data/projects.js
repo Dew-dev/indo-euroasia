@@ -123,27 +123,4 @@ export const projectDetails = {
       { src: '/images/humble8/musholla.jpg', alt: 'Humble 8 musholla' },
     ],
   },
-  'gilipoh-resort': {
-    i18nKey: 'gilipoh',
-    heroImage: '/images/gilipoh/hero.jpg',
-    mapCenter: [-8.70765, 115.9758],
-    mapZoom: 14,
-    locations: [
-      {
-        name: 'Gili Paradise Resort & Spa · Pulau Gilipoh, Lombok',
-        lat: -8.70765,
-        lng: 115.9758,
-      },
-    ],
-    gallery: [
-      { src: '/images/gilipoh/hero.jpg', alt: 'Gili Paradise Resort & Spa cover' },
-      { src: '/images/gilipoh/masterplan.jpg', alt: 'Gili Paradise island masterplan render' },
-      { src: '/images/gilipoh/overwater-paradise.jpg', alt: 'Gili Paradise overwater villas' },
-      { src: '/images/gilipoh/overwater-xarrin.jpg', alt: 'Xarrin Resort overwater villas' },
-      { src: '/images/gilipoh/resorts.jpg', alt: 'Gili Paradise and Xarrin Resort concepts' },
-      { src: '/images/gilipoh/island-aerial.jpg', alt: 'Pulau Gilipoh aerial view' },
-      { src: '/images/gilipoh/lounge.jpg', alt: 'Gili Paradise yacht club and bar lounge' },
-      { src: '/images/gilipoh/lombok-coast.jpg', alt: 'Lombok coastal tourism landscape' },
-    ],
-  },
 }

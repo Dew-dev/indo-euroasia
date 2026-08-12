@@ -72,11 +72,6 @@
         "title": "Humble 8",
         "desc": "Премиальное co-living и social space в Джакарте с F&B, коллаборативными пространствами и lifestyle-инфраструктурой.",
         "slug": "humble-8"
-      },
-      {
-        "title": "Gilipoh Resort & Paradise",
-        "desc": "Люксовый островной курорт на Pulau Gilipoh, Ломбок — overwater-резорты, yacht club и beach club от PT. EGI Property Nusantara.",
-        "slug": "gilipoh-resort"
       }
     ],
     "ongoingEurasia": [
@@ -266,43 +261,6 @@
     "investmentTitle": "Влияние проекта",
     "investmentP1": "Как коллаборативная среда в Джакарте, Humble 8 поддерживает креативные и профессиональные сообщества Индонезии и расширяет lifestyle/F&B-присутствие EGI.",
     "investmentP2": "Вместе с EGI Tower и гостиничными проектами в Евразии Humble 8 дополняет картину индонезийских компетенций в недвижимости, lifestyle и трансграничных hospitality-инвестициях.",
-    "footerBrand": "Indonesia–Euroasia Pavilion",
-    "footerTagline": "Соединяя индонезийских инвесторов с евразийскими правительствами, лидерами бизнеса и инвестиционными возможностями.",
-    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
-    "back": "Назад к проектам"
-  },
-  "gilipoh": {
-    "eyebrow": "Projects · Индонезия · Hospitality & Tourism",
-    "title": "Gili Paradise Resort & Spa",
-    "tagline": "Where Nature Meets Exclusivity",
-    "location": "Pulau Gilipoh, Ломбок, Западная Нуса-Тенгара, Индонезия",
-    "p1": "Gili Paradise Resort & Spa — люксовый островной курорт, который развивает PT. EGI Property Nusantara на Pulau Gilipoh у Ломбока: экзотическом острове Западной Нуса-Тенгары с белоснежными пляжами, прозрачной водой и богатой культурой, всё чаще признаваемом ведущим направлением туризма и инвестиций.",
-    "p2": "Курорт предлагает роскошный отдых с двумя overwater-резортами, баром и яхтенным причалом на фоне нетронутых пляжей и кристально чистой воды. Он органично сочетает природу, комфорт и устойчивость для эксклюзивного и незабываемого опыта — позиционируясь как одно из самых престижных направлений Азии.",
-    "p3": "Расположенный примерно в 2,5 км от берега, мастерплан объединяет Gili Paradise Resort, Xarrin Resort & Spa, Yacht Club & Bar и Beach Club — интегрированный hospitality-анклав для ультраприватного отдыха, ориентированного на природу и wellness.",
-    "p4": "Глобальное признание Ломбока — включая высокие позиции TripAdvisor среди природных направлений, списки лучших островов мира и сильные азиатские рейтинги — усиливает долгосрочный инвестиционный тезис проекта; целевые операторы включают ультра-люксовые сети, такие как Bulgari Hotels (с Marriott) и Langham Hotels & Resorts.",
-    "overviewTitle": "Обзор проекта",
-    "sector": "Сектор",
-    "sectorValue": "Hospitality · Resort · Туризм",
-    "origin": "Девелопер",
-    "originValue": "PT. EGI Property Nusantara",
-    "locationLabel": "Локация",
-    "locationValue": "Pulau Gilipoh · ~2,5 км от берега, Ломбок",
-    "capacity": "Компоненты мастерплана",
-    "capacityValue": "Gili Paradise Resort · Xarrin Resort & Spa · Yacht Club & Bar · Beach Club",
-    "positioning": "Позиционирование",
-    "positioningValue": "Престижный островной курорт Азии",
-    "closing": "Gili Paradise Resort & Spa демонстрирует индонезийскую способность создавать эксклюзивный островной hospitality, опирающийся на природу — флагманский внутренний туристический актив экосистемы Indonesia–Euroasia Pavilion.",
-    "impactTitle": "Стратегическое значение",
-    "impactLead": "В экосистеме Indonesia–Euroasia Pavilion Gili Paradise подчёркивает:",
-    "impactItems": [
-      "Люксовый overwater-hospitality на частном острове у Ломбока",
-      "Интегрированный мастерплан: twin resorts, yacht club и beach club",
-      "Соответствие растущему мировому признанию туризма Ломбока",
-      "Девелоперскую мощность Индонезии через PT. EGI Property Nusantara"
-    ],
-    "investmentTitle": "Влияние проекта",
-    "investmentP1": "Закрепляя премиальный курорт на Pulau Gilipoh, проект расширяет предложение элитного туризма Индонезии и показывает property-компетенции EGI за пределами городских коммерческих активов.",
-    "investmentP2": "Для партнёров и инвесторов Pavilion Gili Paradise — ясный сигнал hospitality-амбиций Индонезии на внутреннем рынке, дополняющий трансграничные гостиничные инвестиции в Евразии.",
     "footerBrand": "Indonesia–Euroasia Pavilion",
     "footerTagline": "Соединяя индонезийских инвесторов с евразийскими правительствами, лидерами бизнеса и инвестиционными возможностями.",
     "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
@@ -597,6 +555,17 @@
     "emailPlaceholder": "you{'@'}company.com",
     "subjectPlaceholder": "Чем мы можем помочь?",
     "messagePlaceholder": "Расскажите о вашем запросе или интересе к сотрудничеству"
+  },
+  "partners": {
+    "eyebrow": "Экосистема",
+    "title": "Наши партнёры",
+    "items": [
+      "7oz Espresso",
+      "Hadith",
+      "Kampoeng Indonesia Hotel",
+      "Saji Nusantara",
+      "Humble 8"
+    ]
   },
   "footer": {
     "tagline": "Соединяем Индонезию и Евразию через надёжное B2B-сотрудничество.",

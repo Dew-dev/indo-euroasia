@@ -6,6 +6,7 @@ import ServicesSection from '../components/ServicesSection.vue'
 import MembershipSection from '../components/MembershipSection.vue'
 import CommoditiesSection from '../components/CommoditiesSection.vue'
 import ContactSection from '../components/ContactSection.vue'
+import PartnersSection from '../components/PartnersSection.vue'
 </script>
 
 <template>
@@ -17,5 +18,6 @@ import ContactSection from '../components/ContactSection.vue'
     <MembershipSection />
     <CommoditiesSection />
     <ContactSection />
+    <PartnersSection />
   </div>
 </template>
