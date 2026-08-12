@@ -7,32 +7,27 @@ const partners = [
   {
     name: '7oz Espresso',
     href: 'https://7oz-espresso.com',
-    logo: '/images/partners/7oz.webp',
-    dark: true,
+    logo: '/images/partners/7oz.png',
   },
   {
     name: 'Hadith',
     href: 'https://hadith-hotel.com',
     logo: '/images/partners/hadith.png',
-    dark: true,
   },
   {
     name: 'Kampoeng Indonesia Hotel',
     href: 'https://hotel-kampoengindonesia.com/',
     logo: '/images/partners/kampoeng.png',
-    dark: true,
   },
   {
     name: 'Saji Nusantara',
     href: 'https://saji-nusantara.com/id',
     logo: '/images/partners/saji-nusantara.png',
-    dark: false,
   },
   {
     name: 'Humble 8',
     href: 'https://humble8.com/id',
-    logo: '/images/partners/humble8.jpeg',
-    dark: false,
+    logo: '/images/partners/humble8.png',
   },
 ]
 </script>
@@ -49,25 +44,25 @@ const partners = [
         </h2>
       </div>
 
-      <ul class="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-5">
+      <ul class="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-5">
         <li v-for="partner in partners" :key="partner.name">
-          <component
-            :is="partner.href ? 'a' : 'div'"
-            :href="partner.href || undefined"
-            :target="partner.href ? '_blank' : undefined"
-            :rel="partner.href ? 'noopener noreferrer' : undefined"
-            class="flex h-28 items-center justify-center px-4 transition"
-            :class="[
-              partner.dark ? 'bg-navy-950' : 'border border-border bg-white',
-              partner.href ? 'hover:opacity-90' : '',
-            ]"
+          <a
+            :href="partner.href"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="group flex flex-col items-center text-center transition hover:opacity-80"
           >
-            <img
-              :src="partner.logo"
-              :alt="partner.name"
-              class="max-h-16 w-auto max-w-full object-contain"
-            />
-          </component>
+            <div class="flex h-28 w-full items-center justify-center">
+              <img
+                :src="partner.logo"
+                :alt="partner.name"
+                class="h-24 w-24 object-contain"
+              />
+            </div>
+            <p class="mt-3 text-sm font-semibold leading-snug tracking-wide text-navy-900">
+              {{ partner.name }}
+            </p>
+          </a>
         </li>
       </ul>
     </div>
