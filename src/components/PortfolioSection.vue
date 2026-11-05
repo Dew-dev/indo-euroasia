@@ -4,7 +4,7 @@ import { useI18n } from 'vue-i18n'
 
 const { t, tm } = useI18n()
 
-const indonesiaProjects = computed(() => tm('portfolio.ongoingIndonesia'))
+const indonesiaSectors = computed(() => tm('portfolio.indonesiaSectors'))
 const eurasiaProjects = computed(() => tm('portfolio.ongoingEurasia'))
 </script>
 
@@ -34,26 +34,37 @@ const eurasiaProjects = computed(() => tm('portfolio.ongoingEurasia'))
           <p class="mt-3 text-sm leading-[1.85] text-slate-muted">
             {{ t('portfolio.indonesiaLead') }}
           </p>
-          <ul class="mt-6 space-y-4">
-            <li
-              v-for="(item, i) in indonesiaProjects"
-              :key="`id-${i}`"
-              class="border-t border-border pt-4 first:border-0 first:pt-0"
+
+          <div class="mt-6 space-y-6">
+            <div
+              v-for="sector in indonesiaSectors"
+              :key="sector.key"
+              class="border-t border-border pt-5 first:border-0 first:pt-0"
             >
-              <RouterLink
-                v-if="item.slug"
-                :to="`/projects/${item.slug}`"
-                class="group block"
-              >
-                <p class="text-sm font-semibold text-navy-900 group-hover:underline">{{ item.title }}</p>
-                <p class="mt-1 text-sm text-slate-muted">{{ item.desc }}</p>
-              </RouterLink>
-              <template v-else>
-                <p class="text-sm font-semibold text-navy-900">{{ item.title }}</p>
-                <p class="mt-1 text-sm text-slate-muted">{{ item.desc }}</p>
-              </template>
-            </li>
-          </ul>
+              <p class="text-xs font-semibold uppercase tracking-[0.14em] text-accent">
+                {{ sector.title }}
+              </p>
+              <ul class="mt-3 space-y-3">
+                <li v-for="(item, i) in sector.items" :key="`${sector.key}-${i}`">
+                  <RouterLink
+                    v-if="item.slug"
+                    :to="`/projects/${item.slug}`"
+                    class="group block"
+                  >
+                    <p class="text-sm font-semibold text-navy-900 group-hover:underline">
+                      {{ item.title }}
+                    </p>
+                    <p class="mt-1 text-sm text-slate-muted">{{ item.desc }}</p>
+                  </RouterLink>
+                  <template v-else>
+                    <p class="text-sm font-semibold text-navy-900">{{ item.title }}</p>
+                    <p class="mt-1 text-sm text-slate-muted">{{ item.desc }}</p>
+                  </template>
+                </li>
+              </ul>
+            </div>
+          </div>
+
           <RouterLink
             to="/projects/indonesia"
             class="mt-6 inline-flex text-sm font-semibold text-navy-900 underline-offset-4 hover:underline"

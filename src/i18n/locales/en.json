@@ -51,7 +51,7 @@
     "ongoingLead": "Browse initiatives in Indonesia and across Eurasia.",
     "indonesia": "Indonesia",
     "euroasia": "Eurasia",
-    "indonesiaLead": "Property and hospitality projects developed in Indonesia.",
+    "indonesiaLead": "EGI Resources initiatives in Indonesia across defense, strategic mining, hospitality, property, and travel.",
     "euroasiaLead": "Hospitality and destination projects across Eurasia.",
     "viewIndonesia": "View Indonesia projects",
     "viewEuroasia": "View Eurasia projects",
@@ -64,14 +64,49 @@
     },
     "ongoingIndonesia": [
       {
-        "title": "EGI Tower",
-        "desc": "A premier green office tower in Menteng, Jakarta — designed to international standards for strategic national enterprises.",
-        "slug": "egi-tower"
+        "title": "AGAT",
+        "desc": "PT AGAT-Netcentric Indonesia — combat management, battle management, and tactical data link systems for defense forces.",
+        "slug": "agat"
+      },
+      {
+        "title": "EGI Optik",
+        "desc": "Advanced laser technology, electro-optical systems, and precision defense solutions for military and government institutions.",
+        "slug": "egi-optik"
+      },
+      {
+        "title": "EGI Military System",
+        "desc": "Integrated defense supplier and authorized trader connecting world-class OEMs with national institutions since 2008.",
+        "slug": "egi-military-system"
+      },
+      {
+        "title": "Tin Project",
+        "desc": "Integrated primary tin mining and processing supporting Indonesia’s mineral downstreaming agenda.",
+        "slug": "tin-project"
+      },
+      {
+        "title": "Gallium Project",
+        "desc": "High-value gallium production development for semiconductor and advanced technology supply chains.",
+        "slug": "gallium-project"
       },
       {
         "title": "Humble 8",
-        "desc": "A premium co-living and social space in Jakarta with F&B, collaborative facilities, and community-driven lifestyle amenities.",
+        "desc": "Modern lifestyle compound in Kemang, Jakarta — café, community, and creative social destination.",
         "slug": "humble-8"
+      },
+      {
+        "title": "7Oz Espresso",
+        "desc": "Indonesian specialty coffee brand with café destinations in Jakarta and across Eurasia.",
+        "slug": "7oz-espresso"
+      },
+      {
+        "title": "EGI Tower",
+        "desc": "Modern office & commercial building in Dukuh Atas / Menteng, Central Jakarta — 10 floors + rooftop.",
+        "slug": "egi-tower"
+      },
+      {
+        "title": "EGI Travel Buana",
+        "desc": "Travel agent and tour operator connecting Indonesia and Uzbekistan through packages, hotels, and DMC partnerships.",
+        "slug": "egi-travel-buana"
       }
     ],
     "ongoingEurasia": [
@@ -99,6 +134,83 @@
         "title": "Graha Nusantara",
         "desc": "Indonesian heritage hospitality compound near the Imam Al-Bukhari Memorial in Samarkand, featuring royal-era compounds and Silk Road dining.",
         "slug": "graha-nusantara"
+      }
+    ],
+    "indonesiaSectors": [
+      {
+        "key": "defense",
+        "title": "Defense",
+        "items": [
+          {
+            "title": "AGAT",
+            "desc": "PT AGAT-Netcentric Indonesia — combat management, battle management, and tactical data link systems for defense forces.",
+            "slug": "agat"
+          },
+          {
+            "title": "EGI Optik",
+            "desc": "Advanced laser technology, electro-optical systems, and precision defense solutions for military and government institutions.",
+            "slug": "egi-optik"
+          },
+          {
+            "title": "EGI Military System",
+            "desc": "Integrated defense supplier and authorized trader connecting world-class OEMs with national institutions since 2008.",
+            "slug": "egi-military-system"
+          }
+        ]
+      },
+      {
+        "key": "strategicMining",
+        "title": "Strategic Mining",
+        "items": [
+          {
+            "title": "Tin Project",
+            "desc": "Integrated primary tin mining and processing supporting Indonesia’s mineral downstreaming agenda.",
+            "slug": "tin-project"
+          },
+          {
+            "title": "Gallium Project",
+            "desc": "High-value gallium production development for semiconductor and advanced technology supply chains.",
+            "slug": "gallium-project"
+          }
+        ]
+      },
+      {
+        "key": "hospitality",
+        "title": "Hospitality",
+        "items": [
+          {
+            "title": "Humble 8",
+            "desc": "Modern lifestyle compound in Kemang, Jakarta — café, community, and creative social destination.",
+            "slug": "humble-8"
+          },
+          {
+            "title": "7Oz Espresso",
+            "desc": "Indonesian specialty coffee brand with café destinations in Jakarta and across Eurasia.",
+            "slug": "7oz-espresso"
+          }
+        ]
+      },
+      {
+        "key": "property",
+        "title": "Property",
+        "items": [
+          {
+            "title": "EGI Tower",
+            "desc": "Modern office & commercial building in Dukuh Atas / Menteng, Central Jakarta — 10 floors + rooftop.",
+            "slug": "egi-tower"
+          }
+        ]
+      },
+      {
+        "key": "tourTravel",
+        "title": "Tour & Travel",
+        "items": [
+          {
+            "title": "EGI Travel Buana",
+            "desc": "Travel agent and tour operator connecting Indonesia and Uzbekistan through packages, hotels, and DMC partnerships.",
+            "slug": "egi-travel-buana"
+          }
+        ]
       }
     ]
   },
@@ -743,6 +855,174 @@
     "footerBrand": "Indonesia–Euroasia Pavilion",
     "footerTagline": "Bridging Indonesian Investors with Eurasian Opportunities",
     "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Back to projects"
+  },
+  "agat": {
+    "eyebrow": "Projects · Indonesia · Defense",
+    "title": "AGAT",
+    "tagline": "Excellence in Military Solutions",
+    "location": "Indonesia",
+    "p1": "PT AGAT-Netcentric Indonesia is a specialized military systems solutions hub delivering Combat Management Systems (CMS), Battle Management Systems (BMS), and Tactical Data Link (TDL) designed to enhance operational efficiency, situational awareness, and mission success for defense forces worldwide.",
+    "p2": "As part of EGI Resources’ defense portfolio, AGAT supports air, land, sea, and cyber domains — from NATO-compliant data-link interoperability to force-level command and control.",
+    "p3": "Core offerings include ANAVY Combat Management System for naval platforms and a hierarchical Battle Management System spanning soldier to brigade-level operations.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Defense · Military Systems",
+    "origin": "Company",
+    "originValue": "PT AGAT-Netcentric Indonesia · EGI Resources",
+    "locationLabel": "Focus",
+    "locationValue": "Combat Management · Battle Management · Tactical Data Link",
+    "positioning": "Positioning",
+    "positioningValue": "Specialized Military Systems Solutions Hub",
+    "closing": "AGAT strengthens Indonesia’s defense technology capability through advanced C2, situational awareness, and secure data-link solutions.",
+    "impactTitle": "Core Solutions",
+    "impactLead": "AGAT delivers mission-critical capabilities across:",
+    "impactItems": [
+      "Tactical Data Link — secure real-time sharing across air platforms",
+      "Battle Management System — C2 and situational awareness from squad to brigade",
+      "Combat Management System — sensor fusion and weapon control for naval platforms",
+      "Cybersecurity frameworks for national defense assets"
+    ],
+    "back": "Back to projects"
+  },
+  "egiOptik": {
+    "eyebrow": "Projects · Indonesia · Defense",
+    "title": "EGI Optik",
+    "tagline": "Precision Technology for a Smarter Future",
+    "location": "Indonesia",
+    "p1": "EGI Optik Indonesia is a leading provider of advanced laser technology, electro-optical systems, and precision defense solutions for military, government, industrial, and research institutions.",
+    "p2": "The portfolio includes man-portable laser weapon systems for counter-FPV drone applications, vehicle-mounted counter-UAV laser complexes, aiming lasers, thermal weapon sights, and Gen-4 night vision systems.",
+    "p3": "Field demonstrations with national special units underscore EGI Optik’s role in delivering directed-energy and electro-optical capability for modern defense needs.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Defense · Electro-Optics · Laser Systems",
+    "origin": "Company",
+    "originValue": "EGI Optik Indonesia · EGI Resources",
+    "locationLabel": "Focus",
+    "locationValue": "Laser Weapons · Counter-UAV · Thermal & Night Vision",
+    "positioning": "Positioning",
+    "positioningValue": "Precision Defense Electro-Optical Solutions",
+    "closing": "EGI Optik advances Indonesia’s precision defense technology through laser and electro-optical systems for national security applications.",
+    "impactTitle": "Capability Highlights",
+    "impactLead": "EGI Optik delivers:",
+    "impactItems": [
+      "Man-portable laser weapon systems for anti-FPV drone defense",
+      "Vehicle-mounted counter-UAV laser complexes with radar integration",
+      "Weapon-mounted aiming lasers and thermal vision sights",
+      "Gen-4 night vision systems for low-light tactical operations"
+    ],
+    "back": "Back to projects"
+  },
+  "egiMilitary": {
+    "eyebrow": "Projects · Indonesia · Defense",
+    "title": "EGI Military System",
+    "tagline": "Integrated Defense Industry for National Sovereignty",
+    "location": "Indonesia",
+    "p1": "Established since 2008, PT EGI Military System is an integrated general supplier and authorized trader connecting world-class defense OEMs with national institutions.",
+    "p2": "The company supports Indonesia’s defense ecosystem through certified quality systems, authorized partnership networks, and a portfolio spanning naval ESM, HF radio systems, and decoy launching platforms.",
+    "p3": "Institutional clients include Air Force, Army, Navy, and Ministry of Defence units, with partnership networks including ASELSAN, Roketsan, and other strategic industry players.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Defense · Supply · Authorized Trading",
+    "origin": "Company",
+    "originValue": "PT EGI Military System · EGI Resources",
+    "locationLabel": "Status",
+    "locationValue": "ISO 9001 · Authorized ASELSAN Trader",
+    "positioning": "Positioning",
+    "positioningValue": "Integrated Defense Supplier & Trading Partner",
+    "closing": "EGI Military System strengthens national defense readiness by bridging global OEM capability with Indonesian institutional requirements.",
+    "impactTitle": "Portfolio Highlights",
+    "impactLead": "Key product and partnership strengths include:",
+    "impactItems": [
+      "Naval platform radar ESM systems",
+      "HF naval / fixed-station digital radio families",
+      "Naval decoy launching systems",
+      "Authorized partnerships with leading defense OEMs"
+    ],
+    "back": "Back to projects"
+  },
+  "tinProject": {
+    "eyebrow": "Projects · Indonesia · Strategic Mining",
+    "title": "Tin Project",
+    "tagline": "Integrated primary tin for Indonesia’s downstream future",
+    "location": "Indonesia",
+    "p1": "EGI Mineral Nusantara’s Tin Project focuses on integrated primary tin as an alternative to alluvial mining — combining sustainable mining development with mineral processing.",
+    "p2": "The initiative supports Indonesia’s mineral downstreaming and industrialization agenda while strengthening the national strategic mineral supply.",
+    "p3": "By advancing integrated mining and processing, the project also supports future development of critical minerals and advanced metallurgy capabilities.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Strategic Mining · Tin",
+    "origin": "Company",
+    "originValue": "EGI Mineral Nusantara · EGI Resources",
+    "locationLabel": "Focus",
+    "locationValue": "Integrated primary tin mining & processing",
+    "positioning": "Positioning",
+    "positioningValue": "Sustainable Primary Tin Development",
+    "closing": "The Tin Project positions EGI Resources in Indonesia’s strategic minerals value chain through integrated, downstream-oriented development.",
+    "impactTitle": "Key Highlights",
+    "impactLead": "The project emphasizes:",
+    "impactItems": [
+      "Sustainable integrated primary tin mining development",
+      "Integrated mining and mineral processing approach",
+      "Support for Indonesia’s mineral downstreaming agenda",
+      "Strengthening national strategic mineral supply"
+    ],
+    "back": "Back to projects"
+  },
+  "galliumProject": {
+    "eyebrow": "Projects · Indonesia · Strategic Mining",
+    "title": "Gallium Project",
+    "tagline": "Critical materials for semiconductors and advanced technology",
+    "location": "Indonesia",
+    "p1": "EGI Mineral Nusantara’s Gallium Project focuses on developing a gallium production plant as a high-value additional product supporting global demand for semiconductor and advanced technology raw materials.",
+    "p2": "The project aligns with Indonesia’s critical minerals downstreaming strategy through integrated refining and gallium extraction.",
+    "p3": "By building high-value gallium capacity, EGI strengthens Indonesia’s position in strategic material supply chains for next-generation technology industries.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Strategic Mining · Gallium",
+    "origin": "Company",
+    "originValue": "EGI Mineral Nusantara · EGI Resources",
+    "locationLabel": "Focus",
+    "locationValue": "Gallium production · refining & extraction",
+    "positioning": "Positioning",
+    "positioningValue": "High-Value Critical Mineral Development",
+    "closing": "The Gallium Project expands EGI’s strategic mining portfolio into materials essential for semiconductors and advanced technology.",
+    "impactTitle": "Key Highlights",
+    "impactLead": "The project prioritizes:",
+    "impactItems": [
+      "Development of high-value gallium production facilities",
+      "Support for semiconductor and advanced technology markets",
+      "Alignment with Indonesia’s critical minerals downstreaming strategy",
+      "Integrated refining and gallium extraction approach"
+    ],
+    "back": "Back to projects"
+  },
+  "egiTravelBuana": {
+    "eyebrow": "Projects · Indonesia · Tour & Travel",
+    "title": "EGI Travel Buana",
+    "tagline": "Connecting Indonesia and Uzbekistan through travel",
+    "location": "Indonesia ⇄ Uzbekistan",
+    "p1": "EGI Travel Buana operates as a travel agent connecting Indonesia and Uzbekistan through travel services and tourism partnerships.",
+    "p2": "Services include hotel bookings, tour package sales, Indonesia–Uzbekistan travel connectivity, collaboration with tour operators / DMCs, and integration with EGI’s hospitality network.",
+    "p3": "As a tour operator, EGI Travel Buana designs and operates packages covering Indonesia–Uzbekistan itineraries and Umrah Plus Uzbekistan — including accommodation, transportation, guides, and activities.",
+    "overviewTitle": "Project Overview",
+    "sector": "Sector",
+    "sectorValue": "Tour & Travel · Travel Agent · Tour Operator",
+    "origin": "Company",
+    "originValue": "EGI Travel Buana · EGI Resources",
+    "locationLabel": "Corridor",
+    "locationValue": "Indonesia ⇄ Uzbekistan",
+    "positioning": "Positioning",
+    "positioningValue": "Cross-Border Travel & Tourism Connector",
+    "closing": "EGI Travel Buana links travelers to EGI’s hospitality ecosystem while strengthening tourism connectivity between Indonesia and Uzbekistan.",
+    "impactTitle": "Service Highlights",
+    "impactLead": "EGI Travel Buana delivers:",
+    "impactItems": [
+      "Hotel bookings and tour package sales",
+      "Indonesia–Uzbekistan travel connectivity",
+      "Partnerships with Tour Operators / DMCs",
+      "Umrah Plus Uzbekistan and curated cross-border itineraries"
+    ],
     "back": "Back to projects"
   }
 }

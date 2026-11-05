@@ -18,11 +18,17 @@ const route = useRoute()
 const regionKey = computed(() => props.region || route.params.region)
 const isIndonesia = computed(() => regionKey.value === 'indonesia')
 
-const projects = computed(() =>
-  isIndonesia.value ? tm('portfolio.ongoingIndonesia') : tm('portfolio.ongoingEurasia'),
-)
+const indonesiaSectors = computed(() => tm('portfolio.indonesiaSectors') || [])
+const eurasiaProjects = computed(() => tm('portfolio.ongoingEurasia') || [])
 
-const linkedProjects = computed(() => projects.value.filter((p) => p.slug))
+const linkedProjects = computed(() => {
+  if (isIndonesia.value) {
+    return indonesiaSectors.value.flatMap((sector) =>
+      (sector.items || []).filter((item) => item.slug),
+    )
+  }
+  return eurasiaProjects.value.filter((p) => p.slug)
+})
 
 const title = computed(() =>
   isIndonesia.value ? t('portfolio.indonesia') : t('portfolio.euroasia'),
@@ -61,9 +67,48 @@ function thumb(slug) {
         {{ lead }}
       </p>
 
-      <ul class="mt-12 max-w-3xl space-y-5 border border-border bg-surface p-7">
+      <template v-if="isIndonesia">
+        <div class="mt-12 space-y-10">
+          <section
+            v-for="sector in indonesiaSectors"
+            :key="sector.key"
+            class="border border-border bg-surface p-7"
+          >
+            <h2 class="text-xs font-semibold uppercase tracking-[0.16em] text-accent">
+              {{ sector.title }}
+            </h2>
+            <ul class="mt-5 max-w-3xl space-y-5">
+              <li
+                v-for="(item, i) in sector.items"
+                :key="`${sector.key}-${i}`"
+                class="border-t border-border pt-5 first:border-0 first:pt-0"
+              >
+                <RouterLink
+                  v-if="item.slug"
+                  :to="`/projects/${item.slug}`"
+                  class="group block"
+                >
+                  <p class="text-lg font-semibold text-navy-900 group-hover:underline">
+                    {{ item.title }}
+                  </p>
+                  <p class="mt-2 text-sm leading-[1.85] text-slate-muted">{{ item.desc }}</p>
+                </RouterLink>
+                <template v-else>
+                  <p class="text-lg font-semibold text-navy-900">{{ item.title }}</p>
+                  <p class="mt-2 text-sm leading-[1.85] text-slate-muted">{{ item.desc }}</p>
+                </template>
+              </li>
+            </ul>
+          </section>
+        </div>
+      </template>
+
+      <ul
+        v-else
+        class="mt-12 max-w-3xl space-y-5 border border-border bg-surface p-7"
+      >
         <li
-          v-for="(item, i) in projects"
+          v-for="(item, i) in eurasiaProjects"
           :key="i"
           class="border-t border-border pt-5 first:border-0 first:pt-0"
         >

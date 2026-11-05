@@ -51,7 +51,7 @@
     "ongoingLead": "Инициативы в Индонезии и по всей Евразии.",
     "indonesia": "Индонезия",
     "euroasia": "Евразия",
-    "indonesiaLead": "Проекты недвижимости и гостеприимства, реализуемые в Индонезии.",
+    "indonesiaLead": "Инициативы EGI Resources в Индонезии: defence, strategic mining, hospitality, property и travel.",
     "euroasiaLead": "Гостиничные и destination-проекты по всей Евразии.",
     "viewIndonesia": "Проекты Индонезии",
     "viewEuroasia": "Проекты Евразии",
@@ -64,14 +64,49 @@
     },
     "ongoingIndonesia": [
       {
-        "title": "EGI Tower",
-        "desc": "Премиальный зелёный офисный комплекс в Menteng, Джакарта — по международным стандартам для стратегических компаний.",
-        "slug": "egi-tower"
+        "title": "AGAT",
+        "desc": "PT AGAT-Netcentric Indonesia — combat management, battle management и tactical data link системы для сил обороны.",
+        "slug": "agat"
+      },
+      {
+        "title": "EGI Optik",
+        "desc": "Лазерные технологии, электро-оптические системы и точные defense-решения для военных и государственных структур.",
+        "slug": "egi-optik"
+      },
+      {
+        "title": "EGI Military System",
+        "desc": "Интегрированный defense-поставщик и authorized trader, соединяющий OEM мирового класса с национальными институтами с 2008 года.",
+        "slug": "egi-military-system"
+      },
+      {
+        "title": "Tin Project",
+        "desc": "Интегрированная добыча и переработка первичного олова в поддержку downstreaming минералов Индонезии.",
+        "slug": "tin-project"
+      },
+      {
+        "title": "Gallium Project",
+        "desc": "Развитие производства высокоценного галлия для цепочек поставок полупроводников и advanced technology.",
+        "slug": "gallium-project"
       },
       {
         "title": "Humble 8",
-        "desc": "Премиальное co-living и social space в Джакарте с F&B, коллаборативными пространствами и lifestyle-инфраструктурой.",
+        "desc": "Современный lifestyle compound в Kemang, Джакарта — кафе, community и креативное social destination.",
         "slug": "humble-8"
+      },
+      {
+        "title": "7Oz Espresso",
+        "desc": "Индонезийский specialty coffee бренд с кафе в Джакарте и по Евразии.",
+        "slug": "7oz-espresso"
+      },
+      {
+        "title": "EGI Tower",
+        "desc": "Современное office & commercial здание в Dukuh Atas / Menteng, Центральная Джакарта — 10 этажей + rooftop.",
+        "slug": "egi-tower"
+      },
+      {
+        "title": "EGI Travel Buana",
+        "desc": "Travel agent и tour operator, соединяющий Индонезию и Узбекистан через пакеты, отели и партнёрства DMC.",
+        "slug": "egi-travel-buana"
       }
     ],
     "ongoingEurasia": [
@@ -99,6 +134,83 @@
         "title": "Graha Nusantara",
         "desc": "Индонезийский hospitality-комплекс у мемориала Имама аль-Бухари в Самарканде с королевскими compound и Silk Road dining.",
         "slug": "graha-nusantara"
+      }
+    ],
+    "indonesiaSectors": [
+      {
+        "key": "defense",
+        "title": "Defense",
+        "items": [
+          {
+            "title": "AGAT",
+            "desc": "PT AGAT-Netcentric Indonesia — combat management, battle management и tactical data link системы для сил обороны.",
+            "slug": "agat"
+          },
+          {
+            "title": "EGI Optik",
+            "desc": "Лазерные технологии, электро-оптические системы и точные defense-решения для военных и государственных структур.",
+            "slug": "egi-optik"
+          },
+          {
+            "title": "EGI Military System",
+            "desc": "Интегрированный defense-поставщик и authorized trader, соединяющий OEM мирового класса с национальными институтами с 2008 года.",
+            "slug": "egi-military-system"
+          }
+        ]
+      },
+      {
+        "key": "strategicMining",
+        "title": "Strategic Mining",
+        "items": [
+          {
+            "title": "Tin Project",
+            "desc": "Интегрированная добыча и переработка первичного олова в поддержку downstreaming минералов Индонезии.",
+            "slug": "tin-project"
+          },
+          {
+            "title": "Gallium Project",
+            "desc": "Развитие производства высокоценного галлия для цепочек поставок полупроводников и advanced technology.",
+            "slug": "gallium-project"
+          }
+        ]
+      },
+      {
+        "key": "hospitality",
+        "title": "Hospitality",
+        "items": [
+          {
+            "title": "Humble 8",
+            "desc": "Современный lifestyle compound в Kemang, Джакарта — кафе, community и креативное social destination.",
+            "slug": "humble-8"
+          },
+          {
+            "title": "7Oz Espresso",
+            "desc": "Индонезийский specialty coffee бренд с кафе в Джакарте и по Евразии.",
+            "slug": "7oz-espresso"
+          }
+        ]
+      },
+      {
+        "key": "property",
+        "title": "Property",
+        "items": [
+          {
+            "title": "EGI Tower",
+            "desc": "Современное office & commercial здание в Dukuh Atas / Menteng, Центральная Джакарта — 10 этажей + rooftop.",
+            "slug": "egi-tower"
+          }
+        ]
+      },
+      {
+        "key": "tourTravel",
+        "title": "Tour & Travel",
+        "items": [
+          {
+            "title": "EGI Travel Buana",
+            "desc": "Travel agent и tour operator, соединяющий Индонезию и Узбекистан через пакеты, отели и партнёрства DMC.",
+            "slug": "egi-travel-buana"
+          }
+        ]
       }
     ]
   },
@@ -743,6 +855,174 @@
     "footerBrand": "Indonesia–Euroasia Pavilion",
     "footerTagline": "Соединяя индонезийских инвесторов с возможностями Евразии",
     "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Назад к проектам"
+  },
+  "agat": {
+    "eyebrow": "Projects · Индонезия · Defense",
+    "title": "AGAT",
+    "tagline": "Excellence in Military Solutions",
+    "location": "Индонезия",
+    "p1": "PT AGAT-Netcentric Indonesia — специализированный hub военных системных решений, поставляющий Combat Management Systems (CMS), Battle Management Systems (BMS) и Tactical Data Link (TDL) для повышения операционной эффективности, situational awareness и успеха миссий.",
+    "p2": "В составе defense-портфеля EGI Resources AGAT поддерживает воздушный, наземный, морской и cyber-домены — от NATO-совместимой data-link совместимости до C2 уровня подразделений.",
+    "p3": "Ключевые предложения включают ANAVY Combat Management System для naval-платформ и иерархическую Battle Management System от солдата до бригады.",
+    "overviewTitle": "Обзор проекта",
+    "sector": "Сектор",
+    "sectorValue": "Defense · Military Systems",
+    "origin": "Компания",
+    "originValue": "PT AGAT-Netcentric Indonesia · EGI Resources",
+    "locationLabel": "Фокус",
+    "locationValue": "Combat Management · Battle Management · Tactical Data Link",
+    "positioning": "Позиционирование",
+    "positioningValue": "Specialized Military Systems Solutions Hub",
+    "closing": "AGAT усиливает оборонно-технологические возможности Индонезии через advanced C2, situational awareness и защищённые data-link решения.",
+    "impactTitle": "Ключевые решения",
+    "impactLead": "AGAT обеспечивает mission-critical возможности:",
+    "impactItems": [
+      "Tactical Data Link — безопасный real-time обмен данными между воздушными платформами",
+      "Battle Management System — C2 и situational awareness от отделения до бригады",
+      "Combat Management System — sensor fusion и weapon control для naval-платформ",
+      "Cybersecurity frameworks для национальных defense-активов"
+    ],
+    "back": "Назад к проектам"
+  },
+  "egiOptik": {
+    "eyebrow": "Projects · Индонезия · Defense",
+    "title": "EGI Optik",
+    "tagline": "Precision Technology for a Smarter Future",
+    "location": "Индонезия",
+    "p1": "EGI Optik Indonesia — ведущий поставщик advanced лазерных технологий, электро-оптических систем и точных defense-решений для военных, государственных, промышленных и исследовательских институтов.",
+    "p2": "Портфель включает переносные лазерные оружейные системы против FPV-дронов, vehicle-mounted counter-UAV лазерные комплексы, aiming lasers, тепловизионные прицелы и night vision Gen-4.",
+    "p3": "Полевые демонстрации с национальными спецподразделениями подчёркивают роль EGI Optik в поставке directed-energy и электро-оптических возможностей для современных задач обороны.",
+    "overviewTitle": "Обзор проекта",
+    "sector": "Сектор",
+    "sectorValue": "Defense · Electro-Optics · Laser Systems",
+    "origin": "Компания",
+    "originValue": "EGI Optik Indonesia · EGI Resources",
+    "locationLabel": "Фокус",
+    "locationValue": "Laser Weapons · Counter-UAV · Thermal & Night Vision",
+    "positioning": "Позиционирование",
+    "positioningValue": "Precision Defense Electro-Optical Solutions",
+    "closing": "EGI Optik развивает точные оборонные технологии Индонезии через лазерные и электро-оптические системы для задач национальной безопасности.",
+    "impactTitle": "Ключевые возможности",
+    "impactLead": "EGI Optik обеспечивает:",
+    "impactItems": [
+      "Переносные лазерные системы для защиты от FPV-дронов",
+      "Vehicle-mounted counter-UAV лазерные комплексы с интеграцией радара",
+      "Weapon-mounted aiming lasers и тепловизионные прицелы",
+      "Night vision Gen-4 для тактических операций в условиях низкой освещённости"
+    ],
+    "back": "Назад к проектам"
+  },
+  "egiMilitary": {
+    "eyebrow": "Projects · Индонезия · Defense",
+    "title": "EGI Military System",
+    "tagline": "Integrated Defense Industry for National Sovereignty",
+    "location": "Индонезия",
+    "p1": "С 2008 года PT EGI Military System действует как интегрированный general supplier и authorized trader, соединяя OEM defense мирового класса с национальными институтами.",
+    "p2": "Компания поддерживает оборонную экосистему Индонезии через сертифицированные системы качества, официальные партнёрские сети и портфель, включающий naval ESM, HF radio systems и decoy launching platforms.",
+    "p3": "Институциональные клиенты включают подразделения ВВС, армии, ВМС и Министерства обороны; партнёрская сеть включает ASELSAN, Roketsan и других стратегических игроков отрасли.",
+    "overviewTitle": "Обзор проекта",
+    "sector": "Сектор",
+    "sectorValue": "Defense · Supply · Authorized Trading",
+    "origin": "Компания",
+    "originValue": "PT EGI Military System · EGI Resources",
+    "locationLabel": "Статус",
+    "locationValue": "ISO 9001 · Authorized ASELSAN Trader",
+    "positioning": "Позиционирование",
+    "positioningValue": "Integrated Defense Supplier & Trading Partner",
+    "closing": "EGI Military System усиливает готовность национальной обороны, соединяя возможности глобальных OEM с требованиями индонезийских институтов.",
+    "impactTitle": "Ключевые элементы портфеля",
+    "impactLead": "Сильные стороны продуктов и партнёрств:",
+    "impactItems": [
+      "Radar ESM системы для naval-платформ",
+      "Семейства HF digital radio для naval / fixed-station",
+      "Naval decoy launching systems",
+      "Официальные партнёрства с ведущими defense OEM"
+    ],
+    "back": "Назад к проектам"
+  },
+  "tinProject": {
+    "eyebrow": "Projects · Индонезия · Strategic Mining",
+    "title": "Tin Project",
+    "tagline": "Интегрированное первичное олово для downstream-будущего Индонезии",
+    "location": "Индонезия",
+    "p1": "Tin Project компании EGI Mineral Nusantara фокусируется на интегрированном первичном олове как альтернативе аллювиальной добыче — сочетая устойчивое развитие добычи с переработкой минералов.",
+    "p2": "Инициатива поддерживает agenda mineral downstreaming и индустриализации Индонезии, укрепляя национальные поставки стратегических минералов.",
+    "p3": "Развивая интегрированную добычу и переработку, проект также поддерживает будущее развитие critical minerals и advanced metallurgy.",
+    "overviewTitle": "Обзор проекта",
+    "sector": "Сектор",
+    "sectorValue": "Strategic Mining · Tin",
+    "origin": "Компания",
+    "originValue": "EGI Mineral Nusantara · EGI Resources",
+    "locationLabel": "Фокус",
+    "locationValue": "Интегрированная добыча и переработка первичного олова",
+    "positioning": "Позиционирование",
+    "positioningValue": "Sustainable Primary Tin Development",
+    "closing": "Tin Project закрепляет EGI Resources в цепочке стоимости стратегических минералов Индонезии через интегрированное, downstream-ориентированное развитие.",
+    "impactTitle": "Ключевые акценты",
+    "impactLead": "Проект подчёркивает:",
+    "impactItems": [
+      "Устойчивое интегрированное развитие добычи первичного олова",
+      "Интегрированный подход mining и mineral processing",
+      "Поддержку agenda mineral downstreaming Индонезии",
+      "Укрепление национальных поставок стратегических минералов"
+    ],
+    "back": "Назад к проектам"
+  },
+  "galliumProject": {
+    "eyebrow": "Projects · Индонезия · Strategic Mining",
+    "title": "Gallium Project",
+    "tagline": "Критические материалы для полупроводников и advanced technology",
+    "location": "Индонезия",
+    "p1": "Gallium Project компании EGI Mineral Nusantara фокусируется на развитии производства галлия как высокоценного дополнительного продукта для растущего глобального спроса на сырьё полупроводников и advanced technology.",
+    "p2": "Проект соответствует стратегии downstreaming критических минералов Индонезии через интегрированное refining и извлечение галлия.",
+    "p3": "Создавая высокоценные мощности по галлию, EGI укрепляет позиции Индонезии в стратегических цепочках поставок материалов для технологичных отраслей следующего поколения.",
+    "overviewTitle": "Обзор проекта",
+    "sector": "Сектор",
+    "sectorValue": "Strategic Mining · Gallium",
+    "origin": "Компания",
+    "originValue": "EGI Mineral Nusantara · EGI Resources",
+    "locationLabel": "Фокус",
+    "locationValue": "Производство галлия · refining & extraction",
+    "positioning": "Позиционирование",
+    "positioningValue": "High-Value Critical Mineral Development",
+    "closing": "Gallium Project расширяет strategic mining портфель EGI материалами, необходимыми для полупроводников и advanced technology.",
+    "impactTitle": "Ключевые акценты",
+    "impactLead": "Проект уделяет приоритет:",
+    "impactItems": [
+      "Развитию высокоценных производственных мощностей по галлию",
+      "Поддержке рынков полупроводников и advanced technology",
+      "Соответствию стратегии downstreaming критических минералов Индонезии",
+      "Интегрированному подходу refining и извлечения галлия"
+    ],
+    "back": "Назад к проектам"
+  },
+  "egiTravelBuana": {
+    "eyebrow": "Projects · Индонезия · Tour & Travel",
+    "title": "EGI Travel Buana",
+    "tagline": "Соединяя Индонезию и Узбекистан через travel",
+    "location": "Индонезия ⇄ Узбекистан",
+    "p1": "EGI Travel Buana работает как travel agent, соединяя Индонезию и Узбекистан через travel-сервисы и туристические партнёрства.",
+    "p2": "Услуги включают бронирование отелей, продажу турпакетов, travel-связность Indonesia–Uzbekistan, сотрудничество с tour operators / DMC и интеграцию с hospitality-сетью EGI.",
+    "p3": "Как tour operator, EGI Travel Buana разрабатывает и проводит пакеты Indonesia–Uzbekistan и Umrah Plus Uzbekistan — включая проживание, транспорт, гидов и активности.",
+    "overviewTitle": "Обзор проекта",
+    "sector": "Сектор",
+    "sectorValue": "Tour & Travel · Travel Agent · Tour Operator",
+    "origin": "Компания",
+    "originValue": "EGI Travel Buana · EGI Resources",
+    "locationLabel": "Коридор",
+    "locationValue": "Индонезия ⇄ Узбекистан",
+    "positioning": "Позиционирование",
+    "positioningValue": "Cross-Border Travel & Tourism Connector",
+    "closing": "EGI Travel Buana связывает traveller с hospitality-экосистемой EGI и усиливает туристическую связанность Индонезии и Узбекистана.",
+    "impactTitle": "Ключевые услуги",
+    "impactLead": "EGI Travel Buana обеспечивает:",
+    "impactItems": [
+      "Бронирование отелей и продажу турпакетов",
+      "Travel-связность Индонезия–Узбекистан",
+      "Партнёрства с Tour Operators / DMC",
+      "Umrah Plus Uzbekistan и curated кросс-бордер itineraries"
+    ],
     "back": "Назад к проектам"
   }
 }
