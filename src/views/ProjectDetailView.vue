@@ -1,5 +1,5 @@
 <script setup>
-import { computed, defineAsyncComponent } from 'vue'
+import { computed, defineAsyncComponent, onUnmounted, ref, watch } from 'vue'
 import { useRoute, RouterLink } from 'vue-router'
 import { useI18n } from 'vue-i18n'
 import { projectDetails } from '../data/projects'
@@ -83,12 +83,45 @@ const galleryItems = computed(() => {
   })
 })
 
-function imgClass(fit) {
-  const contain = fit === 'contain'
-  return contain
-    ? 'aspect-[4/3] w-full object-contain bg-white p-5 sm:p-7'
-    : 'aspect-[4/3] w-full object-cover'
+const activeIndex = ref(-1)
+const lightboxOpen = computed(() => activeIndex.value >= 0)
+const activeItem = computed(() =>
+  activeIndex.value >= 0 ? galleryItems.value[activeIndex.value] : null,
+)
+
+function openLightbox(index) {
+  activeIndex.value = index
 }
+
+function closeLightbox() {
+  activeIndex.value = -1
+}
+
+function nextLightbox(delta) {
+  const total = galleryItems.value.length
+  if (!total || activeIndex.value < 0) return
+  activeIndex.value = (activeIndex.value + delta + total) % total
+}
+
+function onKeydown(e) {
+  if (!lightboxOpen.value) return
+  if (e.key === 'Escape') closeLightbox()
+  if (e.key === 'ArrowRight') nextLightbox(1)
+  if (e.key === 'ArrowLeft') nextLightbox(-1)
+}
+
+watch(lightboxOpen, (open) => {
+  document.body.style.overflow = open ? 'hidden' : ''
+  if (open) window.addEventListener('keydown', onKeydown)
+  else window.removeEventListener('keydown', onKeydown)
+})
+
+onUnmounted(() => {
+  document.body.style.overflow = ''
+  window.removeEventListener('keydown', onKeydown)
+})
+
+const heroIsLogo = computed(() => project.value?.imageFit === 'contain')
 </script>
 
 <template>
@@ -125,7 +158,11 @@ function imgClass(fit) {
           <img
             :src="project.heroImage"
             :alt="t(`${key}.title`)"
-            :class="imgClass(project.imageFit)"
+            :class="
+              heroIsLogo
+                ? 'aspect-[4/3] w-full object-contain p-8 sm:p-10'
+                : 'aspect-[4/3] w-full object-cover'
+            "
           />
           <a
             v-if="project.website"
@@ -141,20 +178,30 @@ function imgClass(fit) {
 
       <div
         v-if="galleryItems.length"
-        class="mt-10 grid grid-cols-2 gap-3 sm:grid-cols-4"
+        class="mt-10 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4"
       >
-        <div
-          v-for="item in galleryItems"
+        <button
+          v-for="(item, i) in galleryItems"
           :key="item.src"
-          class="overflow-hidden border border-border bg-white"
+          type="button"
+          class="group relative aspect-[4/3] overflow-hidden border border-border bg-surface text-left"
+          @click="openLightbox(i)"
         >
           <img
             :src="item.src"
             :alt="item.alt"
-            :class="imgClass(item.fit)"
+            class="h-full w-full object-cover transition duration-500 ease-out group-hover:scale-[1.06]"
             loading="lazy"
           />
-        </div>
+          <span
+            class="pointer-events-none absolute inset-0 bg-navy-950/0 transition duration-300 group-hover:bg-navy-950/25"
+          />
+          <span
+            class="pointer-events-none absolute bottom-3 right-3 translate-y-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-white opacity-0 transition duration-300 group-hover:translate-y-0 group-hover:opacity-100"
+          >
+            View
+          </span>
+        </button>
       </div>
 
       <div class="mt-12 hidden">
@@ -212,7 +259,7 @@ function imgClass(fit) {
         </div>
       </div>
 
-      <div class="mt-14 border-t border-border pt-10 text-center">
+      <div class="mt-14 border-t border-border pt-10 text-center hidden">
         <p class="text-base font-bold text-navy-900">{{ t(`${key}.footerBrand`) }}</p>
         <p class="mt-2 text-sm text-slate-muted">{{ t(`${key}.footerTagline`) }}</p>
         <p class="mt-4 text-xs font-semibold uppercase tracking-[0.14em] text-accent">
@@ -220,6 +267,52 @@ function imgClass(fit) {
         </p>
       </div>
     </div>
+
+    <Teleport to="body">
+      <div
+        v-if="lightboxOpen && activeItem"
+        class="fixed inset-0 z-[80] flex items-center justify-center bg-navy-950/90 p-4 sm:p-8"
+        role="dialog"
+        aria-modal="true"
+        @click.self="closeLightbox"
+      >
+        <button
+          type="button"
+          class="absolute right-4 top-4 z-[81] text-sm font-semibold uppercase tracking-[0.14em] text-white/80 transition hover:text-white"
+          @click="closeLightbox"
+        >
+          Close
+        </button>
+        <button
+          v-if="galleryItems.length > 1"
+          type="button"
+          class="absolute left-3 top-1/2 z-[81] -translate-y-1/2 px-3 py-4 text-2xl text-white/70 transition hover:text-white sm:left-6"
+          aria-label="Previous"
+          @click="nextLightbox(-1)"
+        >
+          ‹
+        </button>
+        <button
+          v-if="galleryItems.length > 1"
+          type="button"
+          class="absolute right-3 top-1/2 z-[81] -translate-y-1/2 px-3 py-4 text-2xl text-white/70 transition hover:text-white sm:right-6"
+          aria-label="Next"
+          @click="nextLightbox(1)"
+        >
+          ›
+        </button>
+        <figure class="flex max-h-full max-w-6xl flex-col items-center gap-3">
+          <img
+            :src="activeItem.src"
+            :alt="activeItem.alt"
+            class="max-h-[min(82vh,900px)] w-auto max-w-full object-contain"
+          />
+          <figcaption class="max-w-3xl text-center text-sm text-white/70">
+            {{ activeItem.alt }}
+          </figcaption>
+        </figure>
+      </div>
+    </Teleport>
   </section>
 
   <section v-else class="bg-white px-5 pt-28 pb-20 text-center">

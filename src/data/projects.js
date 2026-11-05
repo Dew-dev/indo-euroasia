@@ -162,8 +162,9 @@ export const projectDetails = {
     mapZoom: 11,
     locations: [{ name: 'PT AGAT-Netcentric Indonesia · Jakarta', lat: -6.2088, lng: 106.8456 }],
     gallery: [
-      { src: '/images/agat/product-anavy.jpg', alt: 'AGAT ANAVY combat management system', fit: 'contain' },
-      { src: '/images/agat/product-bms.jpg', alt: 'AGAT battle management system workstation', fit: 'contain' },
+      { src: '/images/agat/product-anavy.jpg', alt: 'ANAVY CMS naval chart' },
+      { src: '/images/agat/product-command.jpg', alt: 'Mobile naval command vehicle' },
+      { src: '/images/agat/product-bms.jpg', alt: 'BMS battlefield visualisation' },
     ],
   },
   'egi-optik': {
@@ -174,10 +175,10 @@ export const projectDetails = {
     mapZoom: 11,
     locations: [{ name: 'EGI Optik Indonesia · Jakarta', lat: -6.2088, lng: 106.8456 }],
     gallery: [
-      { src: '/images/egi-optik/laser.jpg', alt: 'EGI Optik directed energy system', fit: 'contain' },
-      { src: '/images/egi-optik/product-1.jpg', alt: 'EGI Optik laser module', fit: 'contain' },
-      { src: '/images/egi-optik/product-2.jpg', alt: 'EGI Optik thermal sight', fit: 'contain' },
-      { src: '/images/egi-optik/product-3.jpg', alt: 'EGI Optik night vision', fit: 'contain' },
+      { src: '/images/egi-optik/laser.jpg', alt: 'EGI Optik directed energy system' },
+      { src: '/images/egi-optik/product-1.jpg', alt: 'EGI Optik laser module' },
+      { src: '/images/egi-optik/product-2.jpg', alt: 'EGI Optik thermal sight' },
+      { src: '/images/egi-optik/product-3.jpg', alt: 'EGI Optik night vision' },
     ],
   },
   'egi-military-system': {
@@ -188,9 +189,9 @@ export const projectDetails = {
     mapZoom: 11,
     locations: [{ name: 'PT EGI Military System · Jakarta', lat: -6.2088, lng: 106.8456 }],
     gallery: [
-      { src: '/images/egi-military/product-ares.jpg', alt: 'ARES-2N naval ESM system', fit: 'contain' },
-      { src: '/images/egi-military/product-radio.jpg', alt: 'HF naval radio system', fit: 'contain' },
-      { src: '/images/egi-military/product-kartaca.jpg', alt: 'KARTACA-N decoy launching system', fit: 'contain' },
+      { src: '/images/egi-military/product-ares.jpg', alt: 'ARES-2N naval ESM console' },
+      { src: '/images/egi-military/product-radio.jpg', alt: 'SRC 9671 HF naval radio' },
+      { src: '/images/egi-military/product-kartaca.jpg', alt: 'KARTACA-N decoy launcher' },
     ],
   },
   'tin-project': {
@@ -226,8 +227,9 @@ export const projectDetails = {
     mapZoom: 11,
     locations: [{ name: 'EGI Travel Buana · Indonesia ⇄ Uzbekistan', lat: -6.2088, lng: 106.8456 }],
     gallery: [
-      { src: '/images/egi-travel-buana/hero.jpg', alt: 'EGI Travel Buana travel services' },
-      { src: '/images/egi-travel-buana/gallery-01.jpg', alt: 'EGI Travel Buana tour connectivity' },
+      { src: '/images/egi-travel-buana/uzbekistan-registan.jpg', alt: 'Registan Square, Samarkand' },
+      { src: '/images/egi-travel-buana/uzbekistan-bibi-khanym.jpg', alt: 'Bibi-Khanym Mosque, Samarkand' },
+      { src: '/images/egi-travel-buana/uzbekistan-bukhara.jpg', alt: 'Po-i-Kalyan complex, Bukhara' },
     ],
   },
   'egi-tower': {
