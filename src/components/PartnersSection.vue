@@ -20,6 +20,12 @@ const partners = [
     logo: '/images/partners/kampoeng.png',
   },
   {
+    name: 'Graha Nusantara',
+    href: 'https://grahanusantara-samarkand.com/',
+    logo: '/images/partners/graha-nusantara.png',
+    dark: true,
+  },
+  {
     name: 'Saji Nusantara',
     href: 'https://saji-nusantara.com/id',
     logo: '/images/partners/saji-nusantara.png',
@@ -52,7 +58,7 @@ const partners = [
         {{ t('partners.title') }}
       </h2>
 
-      <ul class="mt-14 grid gap-10 sm:grid-cols-2 lg:grid-cols-5">
+      <ul class="mt-14 grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
         <li v-for="partner in partners" :key="partner.name">
           <a
             :href="partner.href"
@@ -60,7 +66,10 @@ const partners = [
             rel="noopener noreferrer"
             class="group flex flex-col items-center text-center transition hover:opacity-80"
           >
-            <div class="flex h-40 w-full items-center justify-center sm:h-44">
+            <div
+              class="flex h-40 w-full items-center justify-center sm:h-44"
+              :class="partner.dark ? 'bg-navy-950' : ''"
+            >
               <img
                 :src="partner.logo"
                 :alt="partner.name"

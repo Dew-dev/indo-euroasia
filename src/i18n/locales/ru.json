@@ -89,6 +89,16 @@
         "title": "Kampoeng Indonesia",
         "desc": "3-звёздочный отель на 22 номера в комплексе Имама аль-Бухари, Самарканд, Узбекистан.",
         "slug": "kampoeng-indonesia"
+      },
+      {
+        "title": "7Oz Espresso",
+        "desc": "Индонезийский specialty coffee бренд, расширяющийся в Узбекистане — от City Park в Ташкенте до hospitality-локаций в Самарканде.",
+        "slug": "7oz-espresso"
+      },
+      {
+        "title": "Graha Nusantara",
+        "desc": "Индонезийский hospitality-комплекс у мемориала Имама аль-Бухари в Самарканде с королевскими compound и Silk Road dining.",
+        "slug": "graha-nusantara"
       }
     ]
   },
@@ -660,5 +670,79 @@
     "teaser": "Уровни Lite, Pro и Enterprise с доступом к каталогу, аналитике, матчингу и выделенной поддержке.",
     "viewPlans": "Смотреть планы членства",
     "back": "Назад на главную"
+  },
+  "sevenOz": {
+    "eyebrow": "Projects · Евразия · F&B",
+    "title": "7Oz Espresso",
+    "tagline": "Seven ounces of care — индонезийская кофейная культура в Евразии",
+    "location": "Ташкент и Самарканд, Узбекистан",
+    "p1": "7Oz Espresso — индонезийский specialty coffee бренд, который приносит в Узбекистан качественный espresso, спокойные cafe-пространства и изысканный hospitality-ритуал, соединяя кофейную культуру Джакарты с гостями, путешественниками и сообществами Евразии.",
+    "p2": "Через экосистему Indonesia–Euroasia Pavilion 7Oz развивается вместе с hospitality-направлениями Pavilion, открывая cafe rooms для паломников, деловых traveller, культурных гостей и ценителей кофе, ищущих премиальный индонезийский espresso за рубежом.",
+    "p3": "Ключевые локации включают City Park в Ташкенте и cafe rooms в hospitality-объектах Самарканда, таких как Kampoeng Indonesia, с планами расширения в Hadith Hotel, Mecca Hotel и другие точки сети Pavilion.",
+    "p4": "Бренд принимает выдающихся гостей — включая представителей власти и международных посетителей — укрепляя 7Oz как культурный и коммерческий мост между индонезийским F&B и растущей cafe-сценой Евразии.",
+    "overviewTitle": "Обзор проекта",
+    "sector": "Сектор",
+    "sectorValue": "F&B · Specialty Coffee · Cafe",
+    "origin": "Происхождение бренда",
+    "originValue": "Индонезия",
+    "locationLabel": "Локации",
+    "locationValue": "Ташкент · Самарканд, Узбекистан",
+    "capacity": "Присутствие",
+    "capacityValue": "City Park Ташкент · Cafe rooms в hospitality Самарканда",
+    "positioning": "Позиционирование",
+    "positioningValue": "Индонезийская specialty coffee destination в Евразии",
+    "closing": "7Oz Espresso показывает, как индонезийские F&B-бренды могут масштабироваться в Евразии через качество продукта, узнаваемую атмосферу и hospitality-сеть Pavilion.",
+    "impactTitle": "Стратегическое значение",
+    "impactLead": "В экосистеме Indonesia–Euroasia Pavilion 7Oz Espresso подчёркивает:",
+    "impactItems": [
+      "Трансграничную экспансию индонезийского specialty coffee бренда",
+      "Cafe-опыт, встроенный в hospitality-направления Pavilion",
+      "Культурный обмен через индонезийское кофейное гостеприимство",
+      "Растущее признание среди международных гостей и официальных лиц"
+    ],
+    "investmentTitle": "Рыночный эффект",
+    "investmentP1": "Закрепляя cafe rooms в Ташкенте и Самарканде, 7Oz усиливает lifestyle- и F&B-присутствие Pavilion и создаёт ежедневные точки контакта для traveller и местных гостей.",
+    "investmentP2": "Проект дополняет отели и рестораны Pavilion — превращая индонезийский coffee craft в повторяемый hospitality-опыт Евразии.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Соединяя индонезийских инвесторов с возможностями Евразии",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Назад к проектам"
+  },
+  "grahaNusantara": {
+    "eyebrow": "Projects · Евразия · Гостеприимство",
+    "title": "Graha Nusantara",
+    "tagline": "Nusantara in Your Heart — элегантность hospitality в Самарканде",
+    "location": "Xoʻja Ismoil, Самарканд, Узбекистан",
+    "p1": "Graha Nusantara Samarkand приносит тепло индонезийского hospitality в сердце древнего Самарканда — heritage-направление для взыскательных traveller, ищущих спокойствие, культуру и утончённый комфорт рядом с одним из важнейших исламских мемориальных комплексов.",
+    "p2": "Через Indonesia–Euroasia Pavilion индонезийские hospitality-инвестиции соединяются с возможностями евразийского рынка. Graha Nusantara — знаковый проект, переводящий нарратив королевских эпох Индонезии в современный гостевой опыт.",
+    "p3": "Каждый compound отражает определённую эпоху индонезийской королевской истории — включая Kartanegara, Brawijaya, Diponegoro и Sultan Hasanudin — адаптированную для современных traveller, с Silk Road dining и внимательным сервисом.",
+    "p4": "Расположенный примерно в пятидесяти метрах от мемориальной зоны Имама аль-Бухари в Xoʻja Ismoil, Graha Nusantara предлагает спокойную базу для паломничества, культурного исследования и elevated-проживания в Самарканде.",
+    "overviewTitle": "Обзор проекта",
+    "sector": "Сектор",
+    "sectorValue": "Hospitality · Heritage Compound · Туризм",
+    "origin": "Происхождение инвестиций",
+    "originValue": "Индонезия",
+    "locationLabel": "Локация",
+    "locationValue": "Xoʻja Ismoil, Самарканд · у мемориала Имама аль-Бухари",
+    "capacity": "Compound",
+    "capacityValue": "Kartanegara · Brawijaya · Diponegoro · Sultan Hasanudin",
+    "positioning": "Позиционирование",
+    "positioningValue": "Индонезийский heritage hospitality в Самарканде",
+    "closing": "Graha Nusantara отражает стремление Индонезии создавать distinctive hospitality-направления в Евразии — сочетая heritage-нарратив, комфорт гостей и стратегическую локацию.",
+    "impactTitle": "Стратегическое значение",
+    "impactLead": "Как ключевой hospitality-проект Евразии, Graha Nusantara показывает, как Indonesia–Euroasia Pavilion обеспечивает:",
+    "impactItems": [
+      "Индонезийские heritage hospitality-инвестиции в Самарканде",
+      "Гостевой опыт на базе compound, вдохновлённый королевскими эпохами Nusantara",
+      "Близость к паломническим и культурным потокам Имама аль-Бухари",
+      "Трансграничное сотрудничество между индонезийским hospitality и евразийскими destinations"
+    ],
+    "investmentTitle": "Инвестиционный эффект",
+    "investmentP1": "Закрепляя индонезийский compound-destination рядом с сакральным heritage-ландшафтом Самарканда, Graha Nusantara расширяет hospitality-портфель Pavilion от стандартных отелей к immersive cultural stays.",
+    "investmentP2": "Проект усиливает двустороннюю туристическую ценность — приглашая traveller ощутить hospitality Nusantara во время визита к одному из важнейших духовных ориентиров Центральной Азии.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Соединяя индонезийских инвесторов с возможностями Евразии",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Назад к проектам"
   }
 }

@@ -89,6 +89,16 @@
         "title": "Kampoeng Indonesia",
         "desc": "Hotel bintang 3 dengan 22 kamar di Kompleks Imam Al-Bukhari, Samarkand, Uzbekistan.",
         "slug": "kampoeng-indonesia"
+      },
+      {
+        "title": "7Oz Espresso",
+        "desc": "Brand specialty coffee Indonesia yang ekspansi di Uzbekistan — dari City Park Tashkent hingga destinasi hospitality di Samarkand.",
+        "slug": "7oz-espresso"
+      },
+      {
+        "title": "Graha Nusantara",
+        "desc": "Kompleks hospitality warisan Indonesia dekat Memorial Imam Al-Bukhari di Samarkand, dengan compound berciri kerajaan dan Silk Road dining.",
+        "slug": "graha-nusantara"
       }
     ]
   },
@@ -660,5 +670,79 @@
     "teaser": "Tingkatan Lite, Pro, dan Enterprise dengan akses direktori, intelijen, matching, dan dukungan khusus.",
     "viewPlans": "Lihat paket keanggotaan",
     "back": "Kembali ke beranda"
+  },
+  "sevenOz": {
+    "eyebrow": "Projects · Eurasia · F&B",
+    "title": "7Oz Espresso",
+    "tagline": "Seven ounces of care — budaya kopi Indonesia di Eurasia",
+    "location": "Tashkent & Samarkand, Uzbekistan",
+    "p1": "7Oz Espresso adalah brand specialty coffee Indonesia yang menghadirkan espresso berkualitas, ruang cafe yang tenang, dan ritual hospitality yang halus di Uzbekistan — menghubungkan budaya kopi Jakarta dengan tamu, traveler, dan komunitas di Eurasia.",
+    "p2": "Melalui ekosistem Indonesia–Euroasia Pavilion, 7Oz berkembang bersama destinasi hospitality Pavilion, membuka cafe room untuk peziarah, traveler bisnis, wisatawan budaya, dan pecinta kopi yang mencari pengalaman espresso Indonesia premium di luar negeri.",
+    "p3": "Lokasi unggulan mencakup City Park di Tashkent serta cafe room di destinasi hospitality Samarkand seperti Kampoeng Indonesia, dengan rencana perluasan ke Hadith Hotel, Mecca Hotel, dan destinasi lain dalam jejaring Pavilion.",
+    "p4": "Brand ini telah menyambut tamu terhormat — termasuk pejabat pemerintah dan pengunjung internasional — menegaskan 7Oz sebagai jembatan budaya dan komersial antara keunggulan F&B Indonesia dan tren cafe yang tumbuh di Eurasia.",
+    "overviewTitle": "Ikhtisar Proyek",
+    "sector": "Sektor",
+    "sectorValue": "F&B · Specialty Coffee · Cafe",
+    "origin": "Asal Brand",
+    "originValue": "Indonesia",
+    "locationLabel": "Lokasi",
+    "locationValue": "Tashkent · Samarkand, Uzbekistan",
+    "capacity": "Jejak Operasi",
+    "capacityValue": "City Park Tashkent · Cafe room hospitality di Samarkand",
+    "positioning": "Positioning",
+    "positioningValue": "Destinasi Specialty Coffee Indonesia di Eurasia",
+    "closing": "7Oz Espresso menunjukkan bagaimana brand F&B Indonesia dapat ekspansi di Eurasia melalui produk berkualitas, atmosfer khas, dan jejaring hospitality Pavilion.",
+    "impactTitle": "Signifikansi Strategis",
+    "impactLead": "Dalam ekosistem Indonesia–Euroasia Pavilion, 7Oz Espresso menyoroti:",
+    "impactItems": [
+      "Ekspansi lintas negara brand specialty coffee Indonesia",
+      "Pengalaman cafe yang terintegrasi di destinasi hospitality Pavilion",
+      "Pertukaran budaya melalui hospitality kopi Indonesia",
+      "Pengakuan yang tumbuh dari tamu internasional dan pejabat"
+    ],
+    "investmentTitle": "Dampak Pasar",
+    "investmentP1": "Dengan menempatkan cafe room di Tashkent dan Samarkand, 7Oz memperkuat jejak lifestyle dan F&B Pavilion sekaligus menciptakan titik temu harian bagi traveler dan tamu lokal.",
+    "investmentP2": "Proyek ini melengkapi hotel dan restoran Pavilion — mengubah craft kopi Indonesia menjadi pengalaman hospitality Eurasia yang berulang.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Menjembatani investor Indonesia dengan peluang Eurasia",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Kembali ke proyek"
+  },
+  "grahaNusantara": {
+    "eyebrow": "Projects · Eurasia · Hospitality",
+    "title": "Graha Nusantara",
+    "tagline": "Nusantara in Your Heart — keanggunan hospitality di Samarkand",
+    "location": "Xoʻja Ismoil, Samarkand, Uzbekistan",
+    "p1": "Graha Nusantara Samarkand menghadirkan kehangatan hospitality Indonesia di jantung Samarkand yang bersejarah — destinasi hospitality warisan untuk traveler yang mencari ketenangan, budaya, dan kenyamanan refined dekat salah satu kompleks memorial Islam paling penting.",
+    "p2": "Melalui Indonesia–Euroasia Pavilion, investasi hospitality Indonesia terhubung dengan peluang pasar Eurasia. Graha Nusantara menjadi proyek signature yang menerjemahkan narasi era kerajaan Indonesia ke dalam pengalaman tamu kontemporer.",
+    "p3": "Setiap compound mencerminkan era sejarah kerajaan Indonesia tertentu — termasuk Kartanegara, Brawijaya, Diponegoro, dan Sultan Hasanudin — yang diadaptasi untuk traveler modern, dilengkapi Silk Road dining dan layanan penuh perhatian.",
+    "p4": "Berlokasi sekitar lima puluh meter dari area memorial Imam Al-Bukhari di Xoʻja Ismoil, Graha Nusantara menawarkan basis tenang untuk ziarah, eksplorasi budaya, dan menginap yang berkelas di Samarkand.",
+    "overviewTitle": "Ikhtisar Proyek",
+    "sector": "Sektor",
+    "sectorValue": "Hospitality · Heritage Compound · Pariwisata",
+    "origin": "Asal Investasi",
+    "originValue": "Indonesia",
+    "locationLabel": "Lokasi",
+    "locationValue": "Xoʻja Ismoil, Samarkand · dekat Memorial Imam Al-Bukhari",
+    "capacity": "Compound",
+    "capacityValue": "Kartanegara · Brawijaya · Diponegoro · Sultan Hasanudin",
+    "positioning": "Positioning",
+    "positioningValue": "Hospitality Warisan Indonesia di Samarkand",
+    "closing": "Graha Nusantara mencerminkan komitmen Indonesia menghadirkan destinasi hospitality khas di Eurasia — memadukan narasi warisan, kenyamanan tamu, dan lokasi strategis.",
+    "impactTitle": "Signifikansi Strategis",
+    "impactLead": "Sebagai proyek hospitality Eurasia unggulan, Graha Nusantara menunjukkan bagaimana Indonesia–Euroasia Pavilion memfasilitasi:",
+    "impactItems": [
+      "Investasi hospitality warisan Indonesia di Samarkand",
+      "Pengalaman tamu berbasis compound terinspirasi era kerajaan Nusantara",
+      "Kedekatan dengan aliran wisata ziarah dan budaya Imam Al-Bukhari",
+      "Kolaborasi lintas batas antara hospitality Indonesia dan destinasi Eurasia"
+    ],
+    "investmentTitle": "Dampak Investasi",
+    "investmentP1": "Dengan menempatkan destinasi compound bertema Indonesia di lanskap warisan sakral Samarkand, Graha Nusantara memperluas portofolio hospitality Pavilion dari hotel standar menuju pengalaman menginap budaya yang immersif.",
+    "investmentP2": "Proyek ini memperkuat nilai pariwisata bilateral — mengundang traveler merasakan hospitality Nusantara sambil mengunjungi salah satu landmark spiritual paling penting di Asia Tengah.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Menjembatani investor Indonesia dengan peluang Eurasia",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
+    "back": "Kembali ke proyek"
   }
 }
