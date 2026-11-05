@@ -11,7 +11,7 @@ const year = new Date().getFullYear()
       <div class="grid gap-10 md:grid-cols-[1.4fr_1fr_1fr]">
         <div>
           <p class="text-base font-bold tracking-wide">
-            Indonesia Euroasia Pavilion
+            Indonesia Eurasia Pavilion
           </p>
           <p class="mt-3 max-w-sm text-sm leading-[1.85] text-white/65">
             {{ t('footer.tagline') }}
@@ -49,7 +49,7 @@ const year = new Date().getFullYear()
       </div>
 
       <div class="mt-12 border-t border-white/10 pt-6 text-xs text-white/40">
-        <p>© {{ year }} Indonesia Euroasia Pavilion. {{ t('footer.rights') }}</p>
+        <p>© {{ year }} Indonesia Eurasia Pavilion. {{ t('footer.rights') }}</p>
       </div>
     </div>
   </footer>

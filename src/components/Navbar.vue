@@ -82,9 +82,9 @@ onUnmounted(() => {
           class="hidden max-w-[11rem] text-[13px] font-bold leading-snug tracking-wide sm:block"
           :class="onDarkHero ? 'text-white' : 'text-navy-900'"
         >
-          Indonesia Euroasia Pavilion
+          Indonesia Eurasia Pavilion
         </span>
-        <span class="sr-only">Indonesia Euroasia Pavilion</span>
+        <span class="sr-only">Indonesia Eurasia Pavilion</span>
       </RouterLink>
 
       <nav class="hidden items-center gap-7 lg:flex">

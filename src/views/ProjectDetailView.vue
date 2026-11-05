@@ -69,6 +69,26 @@ const backTo = computed(() => {
   }
   return '/projects/euroasia'
 })
+
+const galleryItems = computed(() => {
+  const list = project.value?.gallery || []
+  const hero = project.value?.heroImage
+  const seen = new Set()
+  return list.filter((item) => {
+    if (!item?.src) return false
+    if (hero && item.src === hero) return false
+    if (seen.has(item.src)) return false
+    seen.add(item.src)
+    return true
+  })
+})
+
+function imgClass(fit) {
+  const contain = fit === 'contain'
+  return contain
+    ? 'aspect-[4/3] w-full object-contain bg-white p-5 sm:p-7'
+    : 'aspect-[4/3] w-full object-cover'
+}
 </script>
 
 <template>
@@ -101,11 +121,11 @@ const backTo = computed(() => {
           </div>
         </div>
 
-        <div class="overflow-hidden border border-border">
+        <div class="overflow-hidden border border-border bg-white">
           <img
             :src="project.heroImage"
             :alt="t(`${key}.title`)"
-            class="aspect-[4/3] w-full object-cover"
+            :class="imgClass(project.imageFit)"
           />
           <a
             v-if="project.website"
@@ -120,24 +140,24 @@ const backTo = computed(() => {
       </div>
 
       <div
-        v-if="project.gallery?.length"
+        v-if="galleryItems.length"
         class="mt-10 grid grid-cols-2 gap-3 sm:grid-cols-4"
       >
         <div
-          v-for="item in project.gallery"
+          v-for="item in galleryItems"
           :key="item.src"
-          class="overflow-hidden border border-border"
+          class="overflow-hidden border border-border bg-white"
         >
           <img
             :src="item.src"
             :alt="item.alt"
-            class="aspect-[4/3] w-full object-cover"
+            :class="imgClass(item.fit)"
             loading="lazy"
           />
         </div>
       </div>
 
-      <div class="mt-12">
+      <div class="mt-12 hidden">
         <h2 class="text-sm font-bold uppercase tracking-[0.14em] text-navy-900">
           {{ t('commodities.mapTitle') }}
         </h2>

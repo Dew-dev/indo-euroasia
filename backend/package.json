@@ -1,7 +1,7 @@
 {
   "name": "indo-euroasia-backend",
   "version": "1.0.0",
-  "description": "Express API for Indonesia Euroasia Pavilion contact form",
+  "description": "Express API for Indonesia Eurasia Pavilion contact form",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

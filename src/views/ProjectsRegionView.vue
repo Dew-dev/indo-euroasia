@@ -129,7 +129,7 @@ function thumb(slug) {
 
       <div
         v-if="linkedProjects.length"
-        class="mt-14 grid gap-6 sm:grid-cols-2 lg:grid-cols-3"
+        class="mt-14 grid gap-6 sm:grid-cols-2 lg:grid-cols-3 hidden"
       >
         <RouterLink
           v-for="item in linkedProjects"

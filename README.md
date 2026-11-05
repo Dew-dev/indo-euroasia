@@ -1,4 +1,4 @@
-# Indonesia Euroasia Pavilion
+# Indonesia Eurasia Pavilion
 
 Commercial B2B cooperation platform website for **Indo-Euroasia.com** — connecting Eurasian companies with Indonesian partners.
 
@@ -63,7 +63,7 @@ SMTP_PORT=587
 SMTP_SECURE=false
 SMTP_USER=your-username
 SMTP_PASS=your-password
-SMTP_FROM="Indonesia Euroasia Pavilion <noreply@indo-euroasia.com>"
+SMTP_FROM="Indonesia Eurasia Pavilion <noreply@indo-euroasia.com>"
 ```
 
 Contact form submissions are always delivered to **info@indo-euroasia.com**.
