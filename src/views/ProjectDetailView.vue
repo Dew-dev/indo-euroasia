@@ -62,7 +62,7 @@ const backTo = computed(() => {
       'tinProject',
       'galliumProject',
       'egiTravelBuana',
-      'sevenOz',
+      'sevenOzIndonesia',
     ].includes(key.value)
   ) {
     return '/projects/indonesia'

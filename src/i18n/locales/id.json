@@ -95,8 +95,8 @@
       },
       {
         "title": "7Oz Espresso",
-        "desc": "Brand specialty coffee Indonesia dengan destinasi cafe di Jakarta dan lintas Eurasia.",
-        "slug": "7oz-espresso"
+        "desc": "Specialty coffee Jakarta — flagship Dharmawangsa dan ruang Humble 8 di Kemang yang segera hadir.",
+        "slug": "7oz-espresso-indonesia"
       },
       {
         "title": "EGI Tower",
@@ -185,8 +185,8 @@
           },
           {
             "title": "7Oz Espresso",
-            "desc": "Brand specialty coffee Indonesia dengan destinasi cafe di Jakarta dan lintas Eurasia.",
-            "slug": "7oz-espresso"
+            "desc": "Specialty coffee Jakarta — flagship Dharmawangsa dan ruang Humble 8 di Kemang yang segera hadir.",
+            "slug": "7oz-espresso-indonesia"
           }
         ]
       },
@@ -1023,6 +1023,43 @@
       "Kemitraan dengan Tour Operators / DMC",
       "Umrah Plus Uzbekistan dan itinerary lintas negara yang terkurasi"
     ],
+    "back": "Kembali ke proyek"
+  },
+  "sevenOzIndonesia": {
+    "eyebrow": "Projects · Indonesia · F&B",
+    "title": "7Oz Espresso",
+    "tagline": "Seven ounces of care — specialty coffee Indonesia di Jakarta",
+    "location": "Dharmawangsa · Humble 8, Jakarta",
+    "p1": "7Oz Espresso adalah brand specialty coffee Indonesia yang berakar di Jakarta — ruang tenang, pour yang fokus, dan ritual cafe harian yang tenang bagi tamu yang menghargai craft.",
+    "p2": "Flagship Dharmawangsa di Jl. Darmawangsa Raya menjadi basis kehadiran di pasar rumah: espresso room yang refined untuk warga sekitar, profesional kreatif, dan traveler yang mencari pengalaman kopi Indonesia yang terukur.",
+    "p3": "Ruang 7Oz baru sedang dibentuk di Humble 8, Kemang — craft yang sama dalam lifestyle compound yang memadukan budaya cafe, komunitas, dan hospitality Jakarta kontemporer.",
+    "p4": "Bersama, Dharmawangsa dan Humble 8 menempatkan 7Oz sebagai destinasi specialty coffee asli Jakarta — melengkapi, sekaligus berbeda dari, pembukaan brand di Eurasia.",
+    "overviewTitle": "Ikhtisar Proyek",
+    "sector": "Sektor",
+    "sectorValue": "F&B · Specialty Coffee · Cafe",
+    "origin": "Asal Brand",
+    "originValue": "Indonesia · Jakarta",
+    "locationLabel": "Lokasi",
+    "locationValue": "Dharmawangsa · Humble 8 (Kemang), Jakarta Selatan",
+    "capacity": "Jejak Operasi",
+    "capacityValue": "Cafe Dharmawangsa · Ruang Humble 8 (akan dibuka)",
+    "positioning": "Positioning",
+    "positioningValue": "Destinasi Specialty Coffee Jakarta",
+    "closing": "7Oz di Indonesia menampilkan craft pasar rumah — dari ritme harian Dharmawangsa hingga ruang Humble 8 di Kemang yang segera hadir.",
+    "impactTitle": "Signifikansi Strategis",
+    "impactLead": "Dalam portofolio Indonesia, 7Oz Espresso menyoroti:",
+    "impactItems": [
+      "Pengalaman cafe flagship Jakarta di Dharmawangsa",
+      "Perluasan ke lifestyle compound Humble 8 di Kemang",
+      "Budaya specialty coffee Indonesia untuk tamu lokal dan kunjungan",
+      "Identitas pasar rumah yang jelas, berbeda dari lokasi Eurasia"
+    ],
+    "investmentTitle": "Dampak Pasar",
+    "investmentP1": "Dharmawangsa menetapkan 7Oz sebagai destinasi kopi harian Jakarta, sementara Humble 8 membawa brand ke lingkungan kreatif yang berbasis komunitas.",
+    "investmentP2": "Jejak Indonesia memperkuat autentisitas brand sebelum dan selama ekspansi lintas negara — menjaga craft Jakarta di pusat cerita 7Oz.",
+    "footerBrand": "Indonesia–Euroasia Pavilion",
+    "footerTagline": "Menjembatani investor Indonesia dengan peluang Eurasia",
+    "footerMotto": "Connecting Markets • Building Prosperity • Creating Opportunities",
     "back": "Kembali ke proyek"
   }
 }
